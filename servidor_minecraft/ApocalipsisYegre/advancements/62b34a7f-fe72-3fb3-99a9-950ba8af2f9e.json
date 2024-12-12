@@ -4583,6 +4583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 21:40:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_leggings": {
     "criteria": {
       "has_item": "2024-12-12 21:04:55 +0000"
@@ -4592,6 +4598,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2024-12-12 20:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 21:40:30 +0000"
     },
     "done": true
   },
@@ -4622,6 +4634,24 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-12 20:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 21:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 21:40:30 +0000"
     },
     "done": true
   },
@@ -4658,6 +4688,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-12-12 21:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 21:40:30 +0000"
     },
     "done": true
   },

@@ -5522,3 +5522,6 @@ Caused by: java.io.UTFDataFormatException: malformed input around byte 5
 [12Dec2024 21:34:10.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> zzzz
 [12Dec2024 21:34:20.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CDZzz: Set the time to 1000]
 [12Dec2024 21:34:31.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CDZzz: Set the weather to clear]
+[12Dec2024 21:36:33.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CDZzz has completed the challenge [Best Friends]
+[12Dec2024 21:38:38.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Darija'/24806, l='ServerLevel[ApocalipsisYegre]', x=1870.03, y=72.26, z=4203.70] died, message: 'Darija drowned'
+[12Dec2024 21:44:39.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CDZzz has made the advancement [They Grow Up So Fast]

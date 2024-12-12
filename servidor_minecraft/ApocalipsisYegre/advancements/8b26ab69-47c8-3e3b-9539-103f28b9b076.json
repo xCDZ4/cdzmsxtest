@@ -1267,6 +1267,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-10 03:45:37 +0000",
       "cooked_beef": "2024-12-10 01:30:35 +0000",
+      "baked_potato": "2024-12-12 21:34:02 +0000",
       "melon_slice": "2024-12-10 01:57:27 +0000"
     },
     "done": false
@@ -3013,9 +3014,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-12 21:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-12 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-12 21:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-12 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-12 21:33:47 +0000"
     },
     "done": true
   },

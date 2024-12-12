@@ -281,6 +281,7 @@
       "biomeswevegone:fragment_jungle": "2024-12-12 04:31:30 +0000",
       "biomeswevegone:temperate_grove": "2024-12-10 02:55:16 +0000",
       "biomeswevegone:zelkova_forest": "2024-12-11 21:54:57 +0000",
+      "biomeswevegone:forgotten_forest": "2024-12-12 21:36:12 +0000",
       "biomeswevegone:lush_stacks": "2024-12-09 23:06:22 +0000",
       "biomeswevegone:amaranth_grassland": "2024-12-10 03:19:01 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-10 01:45:49 +0000",
@@ -1220,6 +1221,7 @@
       "salmon": "2024-12-12 02:01:04 +0000",
       "melon_slice": "2024-12-10 02:16:18 +0000",
       "cooked_rabbit": "2024-12-12 21:15:46 +0000",
+      "cooked_chicken": "2024-12-12 21:33:23 +0000",
       "enchanted_golden_apple": "2024-12-12 02:01:36 +0000",
       "cod": "2024-12-11 03:34:43 +0000",
       "cooked_salmon": "2024-12-11 03:46:33 +0000",
@@ -3285,6 +3287,18 @@
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-12-12 21:15:42 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2024-12-12 21:36:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-12 21:33:26 +0000"
     },
     "done": true
   },
