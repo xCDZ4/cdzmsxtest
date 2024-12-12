@@ -284,6 +284,7 @@
       "biomeswevegone:lush_stacks": "2024-12-09 22:36:11 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-09 23:52:30 +0000",
       "biomeswevegone:prairie": "2024-12-12 03:56:56 +0000",
+      "biomeswevegone:ebony_woods": "2024-12-12 20:52:37 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-09 23:25:52 +0000",
       "biomeswevegone:skyrise_vale": "2024-12-10 17:25:00 +0000",
       "biomeswevegone:pumpkin_valley": "2024-12-10 18:07:49 +0000",
@@ -4590,6 +4591,18 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2024-12-12 20:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-12 20:53:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-12-12 20:52:54 +0000"
     },
     "done": true
   },
