@@ -904,3 +904,36 @@ java.net.http.HttpTimeoutException: request timed out
 [12Dec2024 19:36:05.800] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2af387ee[id=<null>,name=JoseL.23,properties={},legacy=false] (/127.29.212.105:43493) lost connection: Disconnected
 [12Dec2024 19:36:39.890] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ac63b15[id=<null>,name=JoseL.23,properties={},legacy=false] (/127.29.212.105:35969) lost connection: Disconnected
 [12Dec2024 19:37:02.493] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@354f5bcb[id=<null>,name=JoseL.23,properties={},legacy=false] (/127.29.212.105:45157) lost connection: Disconnected
+[12Dec2024 19:39:07.470] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexsmobs:main_channel,mca:main,illageandspillage:main,yungscavebiomes:messages,terramity:terramity,iceandfire:main_channel] rejected their client side version number
+[12Dec2024 19:39:07.471] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[12Dec2024 19:39:07.503] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41bf8ea6[id=<null>,name=JoseL.23,properties={},legacy=false] (/127.29.212.105:40235) lost connection: Connection closed - mismatched mod channel list
+[12Dec2024 19:40:05.374] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexsmobs:main_channel,mca:main,illageandspillage:main,yungscavebiomes:messages,terramity:terramity,iceandfire:main_channel] rejected their client side version number
+[12Dec2024 19:40:05.375] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[12Dec2024 19:40:05.399] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@528c1116[id=<null>,name=JoseL.23,properties={},legacy=false] (/127.29.212.105:36125) lost connection: Connection closed - mismatched mod channel list
+[12Dec2024 19:42:03.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made CDZzz a server operator
+[12Dec2024 19:42:14.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CDZzz: Made Xx_Hellraiser a server operator]
+[12Dec2024 19:42:22.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Set the weather to clear]
+[12Dec2024 19:42:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CDZzz: Set the weather to clear]
+[12Dec2024 19:44:38.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CDZzz: Set the time to 1000]
+[12Dec2024 19:47:19.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luis[/127.118.44.18:51531] logged in with entity id 9673 at (2556.300000011921, 64.0, 4045.4933057236353)
+[12Dec2024 19:47:19.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis joined the game
+[12Dec2024 19:48:48.627] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [alexsmobs:main_channel,mca:main,illageandspillage:main,yungscavebiomes:messages,terramity:terramity,iceandfire:main_channel] rejected their client side version number
+[12Dec2024 19:48:48.630] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[12Dec2024 19:48:48.649] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ff0acdf[id=<null>,name=JoseL.23,properties={},legacy=false] (/127.29.212.105:34209) lost connection: Connection closed - mismatched mod channel list
+[12Dec2024 19:51:10.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CDZzz has made the advancement ['Til Death Do Us Part]
+[12Dec2024 19:52:02.430] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[12Dec2024 19:52:02.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseL.23[/127.29.212.105:38315] logged in with entity id 10532 at (-7.5, 121.0, -4.5)
+[12Dec2024 19:52:02.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 joined the game
+[12Dec2024 19:52:02.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 has made the advancement [Terramity]
+[12Dec2024 19:52:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 has made the advancement [Ice and Fire]
+[12Dec2024 19:52:53.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CDZzz: Teleported JoseL.23 to CDZzz]
+[12Dec2024 19:53:42.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 has made the advancement [Suit Up]
+[12Dec2024 19:53:44.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 has made the advancement [Minecraft Comes Alive]
+[12Dec2024 19:53:48.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis has made the advancement [What a Deal!]
+[12Dec2024 19:54:54.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CDZzz has made the advancement [Next Generation]
+[12Dec2024 19:57:16.142] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Jorge}[style={}] has been infected
+[12Dec2024 19:57:25.059] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Jorge}[style={}] has been infected
+[12Dec2024 19:57:48.249] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jorge'/9259, l='ServerLevel[ApocalipsisYegre]', x=2540.82, y=79.00, z=3964.44] died, message: 'Jorge was slain by Vangel'
+[12Dec2024 19:57:48.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jorge'/9259, l='ServerLevel[ApocalipsisYegre]', x=2540.82, y=79.00, z=3964.44] died: Jorge was slain by Vangel
+[12Dec2024 19:58:04.397] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Noélia'/172, l='ServerLevel[ApocalipsisYegre]', x=2477.71, y=91.00, z=3968.12] died, message: 'Noélia was slain by Zombie'
+[12Dec2024 19:58:04.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Noélia'/172, l='ServerLevel[ApocalipsisYegre]', x=2477.71, y=91.00, z=3968.12] died: Noélia was slain by Zombie

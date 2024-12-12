@@ -3046,6 +3046,12 @@
     },
     "done": true
   },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2024-12-12 19:54:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-12 19:17:20 +0000"
@@ -3055,6 +3061,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2024-12-12 19:17:20 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2024-12-12 19:51:10 +0000"
     },
     "done": true
   },

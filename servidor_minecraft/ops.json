@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "c4bf35fc-ce2d-380f-bcda-88cfc0ff3799",
+    "name": "Xx_Hellraiser",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c9cc7462-718e-3b92-83c1-293ee75a6e6d",
+    "name": "CDZzz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
