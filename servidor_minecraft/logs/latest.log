@@ -937,3 +937,10 @@ java.net.http.HttpTimeoutException: request timed out
 [12Dec2024 19:57:48.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jorge'/9259, l='ServerLevel[ApocalipsisYegre]', x=2540.82, y=79.00, z=3964.44] died: Jorge was slain by Vangel
 [12Dec2024 19:58:04.397] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Noélia'/172, l='ServerLevel[ApocalipsisYegre]', x=2477.71, y=91.00, z=3968.12] died, message: 'Noélia was slain by Zombie'
 [12Dec2024 19:58:04.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Noélia'/172, l='ServerLevel[ApocalipsisYegre]', x=2477.71, y=91.00, z=3968.12] died: Noélia was slain by Zombie
+[12Dec2024 20:00:47.354] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Orminda}[style={}] has been infected
+[12Dec2024 20:00:52.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoseL.23 lost connection: Disconnected
+[12Dec2024 20:00:52.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 left the game
+[12Dec2024 20:09:01.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CDZzz lost connection: Timed out
+[12Dec2024 20:09:01.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CDZzz left the game
+[12Dec2024 20:09:02.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CDZzz[/127.69.49.17:42571] logged in with entity id 14409 at (2508.8763296956454, 65.0, 4072.4120781359197)
+[12Dec2024 20:09:02.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CDZzz joined the game
