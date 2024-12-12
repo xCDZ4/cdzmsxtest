@@ -11375,3 +11375,426 @@ Caused by: java.io.UTFDataFormatException: malformed input around byte 5
 [12Dec2024 21:42:33.904] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/46497, l='ServerLevel[ApocalipsisYegre]', x=1693.76, y=35.17, z=-221.59]]
 [12Dec2024 21:42:34.505] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/46497, l='ServerLevel[ApocalipsisYegre]', x=1694.96, y=36.00, z=-221.59]]
 [12Dec2024 21:44:39.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CDZzz has made the advancement [They Grow Up So Fast]
+[12Dec2024 21:45:48.642] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[12Dec2024 21:45:48.649] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[12Dec2024 21:46:15.653] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[12Dec2024 21:46:15.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 21:46:15.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 21:46:58.939] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[12Dec2024 21:46:58.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[12Dec2024 21:47:17.172] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[12Dec2024 21:47:18.175] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[12Dec2024 21:47:24.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[12Dec2024 21:47:45.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> z
+[12Dec2024 21:47:46.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> zz
+[12Dec2024 21:48:06.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CDZzz: Set the time to 1000]
+[12Dec2024 21:48:24.178] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[12Dec2024 21:48:58.155] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[12Dec2024 21:50:20.481] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_2
+[12Dec2024 21:50:28.171] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[12Dec2024 21:50:28.195] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[12Dec2024 21:50:28.209] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[12Dec2024 21:50:28.233] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[12Dec2024 21:50:28.247] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[12Dec2024 21:50:28.261] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[12Dec2024 21:50:39.930] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[12Dec2024 21:50:39.945] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[12Dec2024 21:50:39.946] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[12Dec2024 21:50:41.257] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/83771, l='ServerLevel[ApocalipsisYegre]', x=2006.50, y=7.00, z=-207.50]
+[12Dec2024 21:50:41.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[12Dec2024 21:50:41.526] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_1
+[12Dec2024 21:50:42.933] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_5
+[12Dec2024 21:50:43.423] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:43.423] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:43.424] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:43.424] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:43.424] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:46.318] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:46.318] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:46.319] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:46.319] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:50.394] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[12Dec2024 21:50:50.410] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[12Dec2024 21:50:50.425] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[12Dec2024 21:50:50.439] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[12Dec2024 21:50:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 has made the advancement [You Are A Pirate]
+[12Dec2024 21:50:57.392] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:57.394] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:57.394] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:57.395] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:57.411] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:57.412] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:50:57.412] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:51:00.318] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:51:00.333] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:51:00.334] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:51:00.335] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:51:01.045] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_1
+[12Dec2024 21:51:01.872] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk4
+[12Dec2024 21:51:01.876] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy4
+[12Dec2024 21:51:02.972] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk
+[12Dec2024 21:51:02.973] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy2
+[12Dec2024 21:51:15.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 21:51:15.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 21:51:19.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 has completed the challenge [Free Willy]
+[12Dec2024 21:51:37.044] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[12Dec2024 21:51:37.071] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[12Dec2024 21:51:37.097] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_6
+[12Dec2024 21:51:37.119] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[12Dec2024 21:51:55.225] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_3
+[12Dec2024 21:51:57.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/2x2/tunnel
+[12Dec2024 21:52:00.886] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:52:00.886] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:52:00.886] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:52:00.887] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:52:03.035] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:52:03.036] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:52:03.037] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:52:03.037] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:52:03.038] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:53:19.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[12Dec2024 21:53:19.266] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[12Dec2024 21:54:26.176] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[12Dec2024 21:54:46.258] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[12Dec2024 21:55:32.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Dec2024 21:55:32.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asdad1<--[HERE]
+[12Dec2024 21:55:34.154] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[12Dec2024 21:56:16.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 21:56:16.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:01:15.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 22:01:15.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:04:07.169] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Jurij}[style={}] has been infected
+[12Dec2024 22:04:08.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jurij'/24556, l='ServerLevel[ApocalipsisYegre]', x=1884.72, y=71.00, z=4219.72] died, message: 'Jurij was slain by Zombie'
+[12Dec2024 22:06:15.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 22:06:15.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:08:56.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> luis t odio
+[12Dec2024 22:10:43.036] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[12Dec2024 22:10:43.037] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[12Dec2024 22:10:43.037] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[12Dec2024 22:10:43.037] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[12Dec2024 22:10:44.624] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[12Dec2024 22:10:44.625] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[12Dec2024 22:10:44.625] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[12Dec2024 22:10:44.625] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[12Dec2024 22:10:45.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[12Dec2024 22:10:45.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[12Dec2024 22:10:45.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[12Dec2024 22:10:45.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[12Dec2024 22:10:45.189] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[12Dec2024 22:10:45.189] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[12Dec2024 22:10:45.190] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[12Dec2024 22:10:45.190] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[12Dec2024 22:11:15.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 22:11:15.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:15:50.178] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[12Dec2024 22:16:15.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 22:16:15.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:18:45.180] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[12Dec2024 22:19:29.478] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[12Dec2024 22:19:29.479] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[12Dec2024 22:19:57.110] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[12Dec2024 22:19:58.117] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[12Dec2024 22:21:15.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 22:21:15.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:21:56.171] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[12Dec2024 22:23:02.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> zz
+[12Dec2024 22:23:05.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CDZzz: Set the time to 1000]
+[12Dec2024 22:24:44.169] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[12Dec2024 22:26:15.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 22:26:15.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:27:05.155] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[12Dec2024 22:28:53.504] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: c9cc7462-718e-3b92-83c1-293ee75a6e6d data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=7f267fdb-0000-0000-0000-000000000000, length=61, extra={valid=true}}, startingAt=0, player=null}
+[12Dec2024 22:29:03.049] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: c9cc7462-718e-3b92-83c1-293ee75a6e6d data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=3045b335-12ca-4ddb-aca5-0aef450a5e4c, length=78, extra={valid=true}}, startingAt=0, player=null}
+[12Dec2024 22:29:06.308] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: c9cc7462-718e-3b92-83c1-293ee75a6e6d data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=3045b335-12ca-4ddb-aca5-0aef450a5e4c, emoteData=null, startingAt=0, player=null}
+[12Dec2024 22:29:40.171] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[12Dec2024 22:30:42.358] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1838, y=69, z=4203}) reached max scan size of 500
+[12Dec2024 22:31:15.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 22:31:15.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:31:26.636] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[12Dec2024 22:31:26.637] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[12Dec2024 22:31:26.637] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[12Dec2024 22:31:26.637] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[12Dec2024 22:31:26.637] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[12Dec2024 22:31:42.155] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[12Dec2024 22:32:36.840] [IO-Worker-107/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Chunk [154, 291] is allocated, but stream is missing
+[12Dec2024 22:32:37.520] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_trunk
+[12Dec2024 22:32:37.521] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_canopy
+[12Dec2024 22:32:37.521] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_trunk1
+[12Dec2024 22:32:37.521] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_canopy1
+[12Dec2024 22:34:00.283] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Stanko}[style={}] has been infected
+[12Dec2024 22:34:05.374] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stanko'/24756, l='ServerLevel[ApocalipsisYegre]', x=1780.47, y=65.00, z=4179.63] died, message: 'Stanko was slain by Zombie'
+[12Dec2024 22:34:05.575] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Dalibor}[style={}] has been infected
+[12Dec2024 22:34:07.125] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dalibor'/25157, l='ServerLevel[ApocalipsisYegre]', x=1780.70, y=65.00, z=4179.70] died, message: 'Dalibor was slain by Zombie'
+[12Dec2024 22:34:26.176] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[12Dec2024 22:35:29.054] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[12Dec2024 22:35:29.072] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[12Dec2024 22:35:30.476] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:35:30.477] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:35:30.497] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:35:30.498] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:35:34.168] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:35:34.168] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:35:34.236] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:35:34.237] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:35:34.237] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:35:34.237] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:35:34.237] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:36:15.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 22:36:15.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:37:24.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CDZzz lost connection: Disconnected
+[12Dec2024 22:37:24.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CDZzz left the game
+[12Dec2024 22:41:15.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 22:41:15.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:42:00.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was slain by Zombie
+[12Dec2024 22:42:03.556] [Server thread/DEBUG] [twilightforest/]: Player luis (62b34a7f-fe72-3fb3-99a9-950ba8af2f9e) respawned and received items held in storage
+[12Dec2024 22:45:45.189] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[12Dec2024 22:46:15.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 22:46:15.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:46:45.322] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[12Dec2024 22:46:46.795] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:46:49.450] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[12Dec2024 22:46:49.478] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_3
+[12Dec2024 22:46:50.823] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:46:50.825] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:46:50.825] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:46:50.826] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:46:50.855] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:46:50.855] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:46:50.856] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:46:50.856] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:46:55.568] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[12Dec2024 22:46:56.763] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[12Dec2024 22:47:01.615] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[12Dec2024 22:47:06.225] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_trunk1
+[12Dec2024 22:47:06.228] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/oak/large_oak_canopy1
+[12Dec2024 22:47:09.105] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/oak/large_oak_trunk2 is being run through DFU (hash 0c7ead5f18259e3d032a842544cbd07ae3178e235ab65f417dbab5d01ada9669), this will cause launch time delays
+[12Dec2024 22:47:09.110] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/oak/large_oak_canopy2 is being run through DFU (hash 84b78bfe56b910c2ed99ef7eb0d078cc5ef92ee50e66c540d4e55153609fdbe9), this will cause launch time delays
+[12Dec2024 22:47:15.520] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[12Dec2024 22:47:18.329] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:18.330] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:18.330] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:18.347] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:18.347] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:18.347] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:20.602] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:20.603] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:20.603] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:20.604] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:20.618] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:29.912] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:29.912] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:29.913] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:29.913] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:34.405] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/orchard/orchard_trunk2 is being run through DFU (hash c88dd9cba31420f7f640a951590c5017be04acd29c4083925ebe744f7dd86712), this will cause launch time delays
+[12Dec2024 22:47:34.407] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/orchard/orchard_canopy2 is being run through DFU (hash d3b0c9f0d375b347b901b239a0bc734b1e6fbe2c96864b979bb9e0e05c770e34), this will cause launch time delays
+[12Dec2024 22:47:34.925] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:34.925] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:34.925] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:34.926] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:34.926] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:36.744] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:36.745] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:36.745] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:36.758] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:36.759] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:36.759] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:36.760] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:38.554] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[12Dec2024 22:47:38.996] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:38.997] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:38.997] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:39.145] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:47:50.171] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[12Dec2024 22:47:58.838] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[12Dec2024 22:47:58.846] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[12Dec2024 22:47:58.855] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[12Dec2024 22:48:04.172] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[12Dec2024 22:48:05.270] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk
+[12Dec2024 22:48:05.272] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy1
+[12Dec2024 22:48:32.874] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[12Dec2024 22:48:32.895] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[12Dec2024 22:48:33.381] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:48:33.382] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:48:33.382] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:48:33.383] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:48:45.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[12Dec2024 22:48:45.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[12Dec2024 22:48:45.737] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:48:45.737] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:48:45.738] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:48:45.739] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:48:45.739] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 22:51:15.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 22:51:15.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:52:20.253] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[12Dec2024 22:52:20.254] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[12Dec2024 22:52:20.254] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[12Dec2024 22:52:20.254] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[12Dec2024 22:52:21.561] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[12Dec2024 22:52:21.562] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[12Dec2024 22:52:21.562] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[12Dec2024 22:52:21.563] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[12Dec2024 22:52:21.563] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[12Dec2024 22:52:21.564] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[12Dec2024 22:52:21.564] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[12Dec2024 22:52:21.565] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[12Dec2024 22:53:15.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1737, y=64, z=4203} BlockPos{x=1736, y=63, z=4203}
+[12Dec2024 22:53:24.230] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[12Dec2024 22:53:24.231] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[12Dec2024 22:53:24.231] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[12Dec2024 22:53:24.231] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[12Dec2024 22:53:24.617] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk4
+[12Dec2024 22:53:24.620] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy4
+[12Dec2024 22:54:37.170] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[12Dec2024 22:55:48.417] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/46497, l='ServerLevel[ApocalipsisYegre]', x=2403.91, y=-26.00, z=25.99]]
+[12Dec2024 22:55:48.534] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/46497, l='ServerLevel[ApocalipsisYegre]', x=2403.91, y=-26.00, z=25.99]]
+[12Dec2024 22:56:14.757] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/46497, l='ServerLevel[ApocalipsisYegre]', x=2415.28, y=-32.00, z=15.78]]
+[12Dec2024 22:56:15.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 22:56:15.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 22:56:49.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 was slain by Cave Dweller
+[12Dec2024 22:56:51.172] [Server thread/DEBUG] [twilightforest/]: Player Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076) respawned and received items held in storage
+[12Dec2024 22:56:51.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[12Dec2024 22:56:51.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[12Dec2024 23:00:35.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was blown up by Creeper
+[12Dec2024 23:00:38.529] [Server thread/DEBUG] [twilightforest/]: Player luis (62b34a7f-fe72-3fb3-99a9-950ba8af2f9e) respawned and received items held in storage
+[12Dec2024 23:00:59.600] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[12Dec2024 23:00:59.601] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[12Dec2024 23:00:59.602] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[12Dec2024 23:00:59.603] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[12Dec2024 23:01:15.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 23:01:15.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 23:02:35.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[12Dec2024 23:02:35.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_0
+[12Dec2024 23:02:35.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_2
+[12Dec2024 23:04:35.174] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[12Dec2024 23:06:12.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was slain by Zombie
+[12Dec2024 23:06:15.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 23:06:15.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 23:06:17.151] [Server thread/DEBUG] [twilightforest/]: Player luis (62b34a7f-fe72-3fb3-99a9-950ba8af2f9e) respawned and received items held in storage
+[12Dec2024 23:06:18.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luis lost connection: Disconnected
+[12Dec2024 23:06:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis left the game
+[12Dec2024 23:06:55.160] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[12Dec2024 23:10:35.153] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[12Dec2024 23:11:15.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 23:11:15.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 23:12:58.159] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[12Dec2024 23:16:13.154] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[12Dec2024 23:16:15.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 23:16:15.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 23:18:50.045] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[12Dec2024 23:18:50.389] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:18:50.389] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:18:50.398] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:18:50.399] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:19:52.164] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[12Dec2024 23:21:15.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 23:21:15.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 23:22:24.280] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.281] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.289] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.289] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.289] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.289] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.290] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.461] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.461] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.462] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.462] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.474] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.474] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.475] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:22:24.475] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:23:00.943] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[12Dec2024 23:24:11.809] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:24:11.815] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy3
+[12Dec2024 23:26:15.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 23:26:15.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 23:26:22.002] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_3 is being run through DFU (hash 05fc48174c7c7da5bf0b2165c82dc0600807b4deb5d7fba6d578cff9c4cba62f), this will cause launch time delays
+[12Dec2024 23:26:22.120] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[12Dec2024 23:26:22.134] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[12Dec2024 23:26:22.149] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[12Dec2024 23:26:22.167] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_3 is being run through DFU (hash 3fe650034339e7f0ca054ff6db4df41a21cbd3b06735b87ec8d667c133a1c188), this will cause launch time delays
+[12Dec2024 23:26:22.219] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[12Dec2024 23:26:22.234] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[12Dec2024 23:26:22.256] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3 is being run through DFU (hash 32bd1ae2d23fa71616e0c378b422d1e9e13fbf31551051d3f771e728a4fb5d6c), this will cause launch time delays
+[12Dec2024 23:26:22.359] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_2 is being run through DFU (hash 3fca19fa6138014dc68db7204b38877d6217ba208c1cc2e96eaba58b9db05979), this will cause launch time delays
+[12Dec2024 23:26:22.423] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[12Dec2024 23:26:22.441] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[12Dec2024 23:26:22.442] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[12Dec2024 23:26:22.455] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[12Dec2024 23:26:23.594] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[12Dec2024 23:26:23.723] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[12Dec2024 23:26:23.732] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_3 is being run through DFU (hash c76dceff34aaab0a83862f3eabac184fb19827542ff2f267010aa8ef31a1bba2), this will cause launch time delays
+[12Dec2024 23:26:23.762] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[12Dec2024 23:26:23.821] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[12Dec2024 23:26:23.829] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[12Dec2024 23:26:23.867] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[12Dec2024 23:26:23.872] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[12Dec2024 23:26:23.928] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[12Dec2024 23:26:23.943] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[12Dec2024 23:26:23.972] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_3 is being run through DFU (hash eb477c83a67458fa25c049fb25fe6e0088abaa3c98fdce3fb8a28b95553e5224), this will cause launch time delays
+[12Dec2024 23:26:24.725] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_turn_0 is being run through DFU (hash e25d526a570fcd152c18558d5226a2f763e58a6bcb4c84a917fa966e79de7140), this will cause launch time delays
+[12Dec2024 23:26:24.797] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_3 is being run through DFU (hash 3225787c560299130e36fd56fc487917bd0de74f2a263db6663e4b8d171f232f), this will cause launch time delays
+[12Dec2024 23:26:24.865] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_3 is being run through DFU (hash 3ac376c9a279c6182c0df40bd79f9aefa7a7a2e45a1fbd70c7fc5c52d8fdfcd0), this will cause launch time delays
+[12Dec2024 23:26:24.879] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[12Dec2024 23:26:24.950] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[12Dec2024 23:26:24.994] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[12Dec2024 23:26:25.050] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[12Dec2024 23:26:25.170] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[12Dec2024 23:27:39.163] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[12Dec2024 23:27:52.850] [Worker-Main-1/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/cika/cika_trunk1 is being run through DFU (hash d1b6f8e3c45bf3daf120a1bc979bf930148177e47d830b831e43e9f4e55019e2), this will cause launch time delays
+[12Dec2024 23:27:52.853] [Worker-Main-1/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/cika/cika_canopy1 is being run through DFU (hash 265bdd1da716e39dbe7513689730562ae9cff0239617be0f92250a4ae096f7c8), this will cause launch time delays
+[12Dec2024 23:27:52.932] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/cika/cika_trunk2 is being run through DFU (hash 5f6f3db09096d4fd11fe97bc2d055960c77a0f27cdda0f197a42f09b75241cf0), this will cause launch time delays
+[12Dec2024 23:27:52.933] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/cika/cika_canopy2 is being run through DFU (hash b6a2327e767675be77d4a3a4b21e3d5b8fe18f0757d05cbee52a2c094a4697df), this will cause launch time delays
+[12Dec2024 23:27:56.497] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_trunk_3
+[12Dec2024 23:27:56.498] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_canopy_3
+[12Dec2024 23:28:06.192] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[12Dec2024 23:28:06.211] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[12Dec2024 23:28:06.232] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[12Dec2024 23:28:06.244] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[12Dec2024 23:28:06.262] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[12Dec2024 23:28:07.080] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[12Dec2024 23:28:12.768] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:28:12.769] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:28:12.769] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:28:12.769] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:28:12.775] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:28:12.780] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_trunk_1
+[12Dec2024 23:28:12.780] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_canopy_1
+[12Dec2024 23:28:13.033] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_trunk_6
+[12Dec2024 23:28:13.033] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_canopy_6
+[12Dec2024 23:28:13.106] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_trunk_5
+[12Dec2024 23:28:13.106] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_canopy_5
+[12Dec2024 23:28:18.479] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:28:18.480] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:28:18.480] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:28:18.480] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 23:28:22.675] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[12Dec2024 23:28:22.675] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[12Dec2024 23:28:22.676] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[12Dec2024 23:28:22.676] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[12Dec2024 23:28:22.681] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[12Dec2024 23:28:22.681] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[12Dec2024 23:28:22.681] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[12Dec2024 23:28:22.687] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[12Dec2024 23:28:22.687] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[12Dec2024 23:28:22.687] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[12Dec2024 23:28:22.688] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[12Dec2024 23:28:22.692] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[12Dec2024 23:28:22.693] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[12Dec2024 23:28:22.693] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[12Dec2024 23:28:22.693] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[12Dec2024 23:28:22.693] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[12Dec2024 23:28:22.753] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[12Dec2024 23:28:22.753] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[12Dec2024 23:28:22.754] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[12Dec2024 23:28:22.754] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[12Dec2024 23:28:22.762] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[12Dec2024 23:28:22.762] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[12Dec2024 23:28:22.762] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[12Dec2024 23:28:22.763] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[12Dec2024 23:28:22.844] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[12Dec2024 23:28:22.845] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[12Dec2024 23:31:15.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 23:31:15.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 23:32:49.161] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
