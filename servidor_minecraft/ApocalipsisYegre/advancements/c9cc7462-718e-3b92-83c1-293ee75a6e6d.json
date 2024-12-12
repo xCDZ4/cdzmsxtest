@@ -286,7 +286,8 @@
       "biomeswevegone:weeping_witch_forest": "2024-12-10 01:45:49 +0000",
       "biomeswevegone:ebony_woods": "2024-12-09 22:55:58 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-10 03:22:05 +0000",
-      "biomeswevegone:aspen_boreal": "2024-12-10 03:53:40 +0000"
+      "biomeswevegone:aspen_boreal": "2024-12-10 03:53:40 +0000",
+      "biomeswevegone:rainbow_beach": "2024-12-12 21:27:32 +0000"
     },
     "done": false
   },
@@ -1218,6 +1219,7 @@
       "glow_berries": "2024-12-10 01:12:58 +0000",
       "salmon": "2024-12-12 02:01:04 +0000",
       "melon_slice": "2024-12-10 02:16:18 +0000",
+      "cooked_rabbit": "2024-12-12 21:15:46 +0000",
       "enchanted_golden_apple": "2024-12-12 02:01:36 +0000",
       "cod": "2024-12-11 03:34:43 +0000",
       "cooked_salmon": "2024-12-11 03:46:33 +0000",
@@ -3277,6 +3279,24 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2024-12-12 21:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-12 21:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-12 21:15:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-12 21:15:42 +0000"
     },
     "done": true
   },

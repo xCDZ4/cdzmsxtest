@@ -10985,3 +10985,358 @@ Caused by: java.io.UTFDataFormatException: malformed input around byte 5
 [12Dec2024 21:13:44.225] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/ironwood/ironwood_canopy3 is being run through DFU (hash bac3eaec779fd646a22522a29a75607b3183122deaa2dbb784ecbc6d68708935), this will cause launch time delays
 [12Dec2024 21:13:52.330] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_2
 [12Dec2024 21:14:08.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[12Dec2024 21:14:28.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5127ms or 102 ticks behind
+[12Dec2024 21:14:32.126] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[12Dec2024 21:14:38.728] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[12Dec2024 21:14:58.256] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1858, y=75, z=4189}) doesn't have enough leaves around top most log
+[12Dec2024 21:14:58.746] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[12Dec2024 21:14:58.755] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[12Dec2024 21:14:59.289] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1858, y=74, z=4189}) doesn't have enough leaves around top most log
+[12Dec2024 21:15:00.590] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1854, y=74, z=4187}) doesn't have enough leaves around top most log
+[12Dec2024 21:15:01.405] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1854, y=73, z=4187}) doesn't have enough leaves around top most log
+[12Dec2024 21:15:02.501] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1854, y=72, z=4187}) doesn't have enough leaves around top most log
+[12Dec2024 21:15:02.810] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:02.811] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:03.104] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:03.105] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:06.866] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:06.868] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:06.868] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:06.868] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:06.868] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:09.108] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:09.108] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:09.109] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:09.109] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:09.114] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:09.114] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:09.185] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:09.185] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:09.186] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:09.186] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:09.186] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:12.190] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[12Dec2024 21:15:27.616] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/55747, l='ServerLevel[ApocalipsisYegre]', x=1812.50, y=14.00, z=-348.50]
+[12Dec2024 21:15:31.367] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[12Dec2024 21:15:31.386] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[12Dec2024 21:15:31.412] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[12Dec2024 21:15:31.443] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[12Dec2024 21:15:31.460] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[12Dec2024 21:15:31.473] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[12Dec2024 21:15:32.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 21:15:32.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 21:15:35.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[12Dec2024 21:15:40.883] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[12Dec2024 21:15:48.650] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:48.651] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:48.652] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:48.653] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:51.213] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:51.214] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:51.214] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:51.214] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:15:51.215] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:04.454] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:04.455] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:04.679] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:04.682] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:04.685] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:04.688] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:04.690] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:06.648] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:06.649] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:06.657] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:06.657] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:15.871] [IO-Worker-64/ERROR] [net.minecraft.world.level.chunk.storage.RegionFile/]: Chunk [123, 118] stream is truncated: expected 12664 but read 8187
+[12Dec2024 21:16:23.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[12Dec2024 21:16:23.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[12Dec2024 21:16:23.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[12Dec2024 21:16:23.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[12Dec2024 21:16:23.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[12Dec2024 21:16:32.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1859, y=74, z=4193} BlockPos{x=1857, y=73, z=4194}
+[12Dec2024 21:16:32.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1859, y=74, z=4193} BlockPos{x=1857, y=73, z=4194}
+[12Dec2024 21:16:34.271] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:36.126] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:36.127] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:36.127] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:36.128] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:45.061] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:46.389] [Worker-Main-1/DEBUG] [ModernFix/]: Structure watching:redstone_torch_trail/trail2 is being run through DFU (hash 70f145f792102dd3bdc69bd1a19c30374e481b0aa00615cc68a17b72a990442b), this will cause launch time delays
+[12Dec2024 21:16:47.056] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:47.057] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:47.058] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:47.058] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:47.146] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:47.147] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:47.147] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:47.148] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:16:48.483] [IO-Worker-73/ERROR] [net.minecraft.world.level.chunk.storage.RegionFile/]: Chunk [123, 118] stream is truncated: expected 12664 but read 8187
+[12Dec2024 21:17:08.694] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[12Dec2024 21:17:14.796] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1 is being run through DFU (hash 37ef6f4972c94afb67d5a690a01f1306e3ef29e3a91f1596a36fe29f2f45d3aa), this will cause launch time delays
+[12Dec2024 21:17:14.829] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_ranged_skeleton_0 is being run through DFU (hash 61d29d193d1139b67226abf029f5b776a5efae41eb5aceaf490bcc9e2a907837), this will cause launch time delays
+[12Dec2024 21:17:14.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[12Dec2024 21:17:14.855] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_dolphin_rider_0 is being run through DFU (hash 1f9b876cb636d613be0e47da963f52244d3223d6db1ab032fe8efbe5e26e5d7c), this will cause launch time delays
+[12Dec2024 21:17:14.881] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_0 is being run through DFU (hash 8c2947b654d62d07451c5c64374cca3d8feb055d215ee4be279641cb0c09731f), this will cause launch time delays
+[12Dec2024 21:17:14.886] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1 is being run through DFU (hash 7c7633cb61709997f1b3b280ac0b87da6fce4c7cb1a7b7fbcd21ccc3d0376469), this will cause launch time delays
+[12Dec2024 21:17:14.892] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_captain_0 is being run through DFU (hash c7f790a5d8bf7e5b0a7c913e354345227e83176db166f9633a906fa71b6c29cf), this will cause launch time delays
+[12Dec2024 21:17:18.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Barbatos22) moved wrongly! 0.30137815763600884
+[12Dec2024 21:17:18.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Barbatos22) moved wrongly! 0.3165413139395241
+[12Dec2024 21:17:35.303] [IO-Worker-76/ERROR] [net.minecraft.world.level.chunk.storage.RegionFile/]: Chunk [127, 90] stream is truncated: expected 8508 but read 4091
+[12Dec2024 21:17:35.412] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_3
+[12Dec2024 21:17:48.459] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[12Dec2024 21:17:48.762] [IO-Worker-75/ERROR] [net.minecraft.world.level.chunk.storage.RegionFile/]: Chunk [127, 90] stream is truncated: expected 8508 but read 4091
+[12Dec2024 21:17:53.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/2x2/tunnel
+[12Dec2024 21:17:54.126] [IO-Worker-73/ERROR] [net.minecraft.world.level.chunk.storage.RegionFile/]: Chunk [146, 72] stream is truncated: expected 14212 but read 4091
+[12Dec2024 21:17:54.278] [IO-Worker-70/ERROR] [net.minecraft.world.level.chunk.storage.RegionFile/]: Chunk [155, 98] header is truncated: expected 8192 but read 0
+[12Dec2024 21:18:07.612] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk4
+[12Dec2024 21:18:07.617] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy4
+[12Dec2024 21:18:07.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12Dec2024 21:18:13.569] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[12Dec2024 21:18:13.582] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[12Dec2024 21:18:13.591] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[12Dec2024 21:18:13.626] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[12Dec2024 21:18:13.638] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_6 is being run through DFU (hash ec8f10d2dd8dc12b080a6401e1517453f3e9840d14051091c9db180632a69ce5), this will cause launch time delays
+[12Dec2024 21:18:13.640] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_5 is being run through DFU (hash ceb126469d074bbc11bc1d0f5089656c663fbd36bccce10b5545f9b83440c87d), this will cause launch time delays
+[12Dec2024 21:18:13.642] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_stairs_2 is being run through DFU (hash 7591243f15878ba055b9aaaddbaf2db31b09e0cbe57d2506d8bfbdaf9d2e9253), this will cause launch time delays
+[12Dec2024 21:18:13.649] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_16 is being run through DFU (hash 051c697fdcb6d9ba60b59c805b446f52844feb03e1935e4b82d3f7899cdde82d), this will cause launch time delays
+[12Dec2024 21:18:13.649] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_2 is being run through DFU (hash 8dbe0413d814a4d247fd15af92565d45853024ca2d41717bc692fd4f08c59055), this will cause launch time delays
+[12Dec2024 21:18:13.650] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_3 is being run through DFU (hash fe5c6e9663030b4016e6c6206052de4be9ca84aa13c3f040819a69544ee9b57b), this will cause launch time delays
+[12Dec2024 21:18:13.651] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_9 is being run through DFU (hash 16d1ede724733ae81a07ac76b871c1ee2d319377628a30324e62b978fd58d614), this will cause launch time delays
+[12Dec2024 21:18:13.652] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_10 is being run through DFU (hash 66b860e9d65a728ec77001669103b8a19b1eb73dd310eb7b1c1f46ec79412d28), this will cause launch time delays
+[12Dec2024 21:18:13.653] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_0 is being run through DFU (hash 4a213e4c41bb4215060487ab2e2a91fa14e23292b782f3dfa0f2ae47b06db518), this will cause launch time delays
+[12Dec2024 21:18:13.654] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_7 is being run through DFU (hash 8f4912ed9140638ec98668e82f630991021b62796cf571b7067262b909eddf63), this will cause launch time delays
+[12Dec2024 21:18:13.655] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_4 is being run through DFU (hash ce3c2f5d34fcd2842dbf37368cd28fc0a503239c115ac017fa6745d58ec3cebf), this will cause launch time delays
+[12Dec2024 21:18:13.655] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_11 is being run through DFU (hash 80176ec32753a450cd929c8c05d3437141c92c91f03ccef82a444d9cf2c9fef1), this will cause launch time delays
+[12Dec2024 21:18:13.656] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_14 is being run through DFU (hash ec9ed2ac371b6d15dc0c74fa68347c1e15ab795d36624f7edff9fb360e2eb372), this will cause launch time delays
+[12Dec2024 21:18:13.657] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_17 is being run through DFU (hash 5cc8d79612fb87ee253b6446a055f95ef273582846969490033ec961e454ae36), this will cause launch time delays
+[12Dec2024 21:18:13.658] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_13 is being run through DFU (hash b8d0f0918979d80f6b90ac6bb07d0b4bde968ac87dbcabff3badb2ef36ca375f), this will cause launch time delays
+[12Dec2024 21:18:13.659] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_8 is being run through DFU (hash 9636bf03ae732a21e46bd4a89d4b95d99d10dc64bf986dcf3ffa8f1f166677e0), this will cause launch time delays
+[12Dec2024 21:18:13.660] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_15 is being run through DFU (hash b1f752a8808f104d3927116e3c240df7a004d6bb368c42339ce119af7229e7be), this will cause launch time delays
+[12Dec2024 21:18:13.661] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_furniture_12 is being run through DFU (hash 716f5e58e6bd639ee848aa154abbc3f0876c62e8bcd76afd78584e64c3b1b058), this will cause launch time delays
+[12Dec2024 21:18:13.662] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_2 is being run through DFU (hash 0e773702dfd7903966a6c66c9be4c26bf3f12da690406ecd26dedf9f9978c252), this will cause launch time delays
+[12Dec2024 21:18:13.668] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_3 is being run through DFU (hash 4a44fca0fdc52a18cc7c00aa8fb990c29f4ab5adaecb62165af188a5c9cd7118), this will cause launch time delays
+[12Dec2024 21:18:13.678] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_stairs_1 is being run through DFU (hash d5414a501181e1e71a8e360bb449e36a1eaf1ba8b9f4fad85b5c3eddd2edf3ee), this will cause launch time delays
+[12Dec2024 21:18:13.680] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_spawner_0 is being run through DFU (hash 57e4f869833b448d7d7dfab16d398138486920e00b9bf055732aeb9759a3b342), this will cause launch time delays
+[12Dec2024 21:18:13.686] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_stairs_0 is being run through DFU (hash a507bbc9cdd996779da1bbf7f5a2fae28cb8de01b0828b096310995bf42b6f46), this will cause launch time delays
+[12Dec2024 21:18:13.689] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_1 is being run through DFU (hash 81cbda83562e6a93ce47df5661a374c4329e2b54eb2e732e5b2b031224650ea6), this will cause launch time delays
+[12Dec2024 21:18:13.692] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_4 is being run through DFU (hash 4a3462cc199e7ee6f9e46e9a5820a55a6632bf4069393c2f270d4c710d77b56a), this will cause launch time delays
+[12Dec2024 21:18:13.694] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_4 is being run through DFU (hash 5b19ff671c5d4d84e795097519c1ee8e9b4f1d38c000bb7d15f5f12f3d95f958), this will cause launch time delays
+[12Dec2024 21:18:13.698] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_6 is being run through DFU (hash aa04001176bee4c15902dd75eb682bdf15c6ad4fe677f933941eb4245727fe01), this will cause launch time delays
+[12Dec2024 21:18:13.700] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_room_0 is being run through DFU (hash 21d73ab966a24b1220e22250d20b3987ca27192727a9f5c2001b1f458a53337f), this will cause launch time delays
+[12Dec2024 21:18:13.703] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_5 is being run through DFU (hash 00beef40df7e2c447816dd5e92d14073d158f36b9948385538c85d16ebeadd10), this will cause launch time delays
+[12Dec2024 21:18:13.705] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_2 is being run through DFU (hash 5ccfcf76488c9da318da5a390390e6cfb02568f9ee5b8900242bb30570eb0c27), this will cause launch time delays
+[12Dec2024 21:18:13.707] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_3 is being run through DFU (hash 77ce20e83bc59cba13b4034c57957121c9da3d23fd133389460b25340ed78b62), this will cause launch time delays
+[12Dec2024 21:18:13.710] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_hallway_0 is being run through DFU (hash 6aecc171c6929a39bce4c75ed36717f58933bb024f157672bb60d9506b2d23a5), this will cause launch time delays
+[12Dec2024 21:18:13.713] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_terminator_0 is being run through DFU (hash 92756234c71261ffa822988e7a28bd73bd58b367b99be0e6bfb0fbca9c19bd9f), this will cause launch time delays
+[12Dec2024 21:18:13.715] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_spawner_1 is being run through DFU (hash 6faba2551547219adf4cbc800ade68cddb6a5a5305ce3e02796f1b8b699ce2cd), this will cause launch time delays
+[12Dec2024 21:18:28.030] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_trunk_6
+[12Dec2024 21:18:28.031] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_canopy_6
+[12Dec2024 21:18:28.033] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[12Dec2024 21:18:28.034] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[12Dec2024 21:18:29.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[12Dec2024 21:18:31.439] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_trunk_3
+[12Dec2024 21:18:31.440] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_canopy_3
+[12Dec2024 21:18:34.453] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_trunk_1
+[12Dec2024 21:18:34.454] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_canopy_1
+[12Dec2024 21:18:34.454] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_trunk_2
+[12Dec2024 21:18:34.455] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_canopy_2
+[12Dec2024 21:18:38.909] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_trunk_5
+[12Dec2024 21:18:38.910] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_canopy_5
+[12Dec2024 21:18:39.827] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_trunk_4
+[12Dec2024 21:18:39.827] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_canopy_4
+[12Dec2024 21:18:41.681] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_trunk2
+[12Dec2024 21:18:41.682] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy2
+[12Dec2024 21:18:42.673] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy4
+[12Dec2024 21:18:42.674] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy2
+[12Dec2024 21:18:42.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_spawner_0
+[12Dec2024 21:18:43.597] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy3
+[12Dec2024 21:18:43.598] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy3
+[12Dec2024 21:18:46.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[12Dec2024 21:19:05.355] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy1
+[12Dec2024 21:19:06.007] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:06.007] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:06.008] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:06.008] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:06.017] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:06.017] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:06.018] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:06.021] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:06.022] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:08.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[12Dec2024 21:19:14.244] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[12Dec2024 21:19:14.246] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[12Dec2024 21:19:14.246] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[12Dec2024 21:19:27.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4058ms or 81 ticks behind
+[12Dec2024 21:19:35.306] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:35.307] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:35.307] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:35.317] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:35.318] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:35.318] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:35.318] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:39.091] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:39.092] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:39.092] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:39.107] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:19:40.309] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk
+[12Dec2024 21:19:40.311] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy2
+[12Dec2024 21:19:42.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CDZzz: Set the time to 1000]
+[12Dec2024 21:19:47.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4849ms or 96 ticks behind
+[12Dec2024 21:19:50.603] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[12Dec2024 21:19:50.993] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[12Dec2024 21:19:51.045] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[12Dec2024 21:20:01.386] [Worker-Main-1/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy4 is being run through DFU (hash 8d7d06b528c6661d5dc66dac6bf94f0e46480d140fbeef603606ce15dc3dc67f), this will cause launch time delays
+[12Dec2024 21:20:07.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4980ms or 99 ticks behind
+[12Dec2024 21:20:18.653] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:20:18.654] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:20:18.654] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:20:18.654] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:20:18.655] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:20:19.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 was slain by Siren
+[12Dec2024 21:20:20.989] [Server thread/DEBUG] [twilightforest/]: Player Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076) respawned and received items held in storage
+[12Dec2024 21:20:25.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3680ms or 73 ticks behind
+[12Dec2024 21:20:26.617] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[12Dec2024 21:20:26.669] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[12Dec2024 21:20:34.805] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[12Dec2024 21:20:36.984] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[12Dec2024 21:20:37.561] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[12Dec2024 21:20:39.240] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:20:39.243] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:20:39.243] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:20:39.244] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:20:41.465] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_1
+[12Dec2024 21:20:41.492] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[12Dec2024 21:20:41.501] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[12Dec2024 21:20:41.511] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[12Dec2024 21:20:41.522] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[12Dec2024 21:20:41.603] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_6
+[12Dec2024 21:20:41.633] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[12Dec2024 21:20:41.658] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[12Dec2024 21:20:43.506] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_3
+[12Dec2024 21:20:43.584] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[12Dec2024 21:20:43.593] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[12Dec2024 21:20:43.600] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[12Dec2024 21:20:49.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12Dec2024 21:20:59.751] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[12Dec2024 21:20:59.752] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy3
+[12Dec2024 21:20:59.753] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[12Dec2024 21:20:59.780] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_trunk_2
+[12Dec2024 21:20:59.781] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_canopy_2
+[12Dec2024 21:21:00.800] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_trunk_6
+[12Dec2024 21:21:00.802] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/skyris/skyris_canopy_6
+[12Dec2024 21:21:02.163] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[12Dec2024 21:21:02.179] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[12Dec2024 21:21:02.834] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[12Dec2024 21:21:02.842] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[12Dec2024 21:21:02.857] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[12Dec2024 21:21:02.865] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[12Dec2024 21:21:03.213] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[12Dec2024 21:21:04.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 21:21:04.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 21:21:06.641] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_2
+[12Dec2024 21:21:06.727] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[12Dec2024 21:21:07.883] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:07.885] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:07.885] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:07.895] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:07.896] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:07.899] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:07.902] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:09.401] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_5
+[12Dec2024 21:21:09.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5141ms or 102 ticks behind
+[12Dec2024 21:21:10.119] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:10.120] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:10.120] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:10.206] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:19.437] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:19.438] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:19.439] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:19.439] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:19.452] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:19.453] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:19.453] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:19.453] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:19.453] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:28.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
+[12Dec2024 21:21:35.403] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/zelkova/zelkova_tree_trunk1 is being run through DFU (hash 573a03d353fe2b1f01b122001a5ee1feec1fa36f67608af5f5f67c37d090cc51), this will cause launch time delays
+[12Dec2024 21:21:35.405] [Worker-Main-3/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/zelkova/zelkova_tree_canopy3 is being run through DFU (hash 3fb0f4a4fa061940809ca9c6e76361ec7995f8bf734defe4b8d5f3003fc07854), this will cause launch time delays
+[12Dec2024 21:21:36.654] [Worker-Main-1/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/zelkova/zelkova_tree_canopy1 is being run through DFU (hash 174e4baa88176cf0fc1b8689086213bfe1ec3dd6adabed1ea8b7df949cd9776e), this will cause launch time delays
+[12Dec2024 21:21:36.657] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk
+[12Dec2024 21:21:36.657] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy1
+[12Dec2024 21:21:40.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[12Dec2024 21:21:40.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[12Dec2024 21:21:40.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[12Dec2024 21:21:40.653] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[12Dec2024 21:21:44.773] [Worker-Main-1/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/zelkova/zelkova_tree_canopy2 is being run through DFU (hash b01a58be480c206e92ec1b91a793346547baf53ae5e4d9160ee802ab7dea50ac), this will cause launch time delays
+[12Dec2024 21:21:44.941] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_trunk4
+[12Dec2024 21:21:44.943] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy4
+[12Dec2024 21:21:45.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[12Dec2024 21:21:47.023] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk1
+[12Dec2024 21:21:47.023] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy1
+[12Dec2024 21:21:49.109] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:49.111] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:49.112] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:49.112] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:49.164] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/palm/palm_canopy3
+[12Dec2024 21:21:49.361] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk3
+[12Dec2024 21:21:51.819] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:51.820] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:51.820] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:51.821] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:21:51.821] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[12Dec2024 21:22:02.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[12Dec2024 21:22:03.654] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk4
+[12Dec2024 21:22:03.655] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy4
+[12Dec2024 21:22:03.656] [Worker-Main-2/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/aspen/aspen_trunk2 is being run through DFU (hash de3cf663b957dbaae4e22c264010e3e83090258a506b9779b12753596cf0b54e), this will cause launch time delays
+[12Dec2024 21:22:03.657] [Worker-Main-2/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/aspen/aspen_canopy2 is being run through DFU (hash 956aa55102f077e5d9f090ec36b84e89be1660f66c290074f2bc2c886eff7646), this will cause launch time delays
+[12Dec2024 21:22:03.658] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_trunk2
+[12Dec2024 21:22:03.658] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_medium_canopy2
+[12Dec2024 21:22:13.814] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk3
+[12Dec2024 21:22:13.826] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk3
+[12Dec2024 21:22:13.827] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy3
+[12Dec2024 21:22:13.828] [Worker-Main-1/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/aspen/aspen_trunk5 is being run through DFU (hash 19e8aef83c957300a35278330e488f1896d66a5463a6690c1ee78291290d9c96), this will cause launch time delays
+[12Dec2024 21:22:13.830] [Worker-Main-1/DEBUG] [ModernFix/]: Structure biomeswevegone:features/trees/aspen/aspen_canopy5 is being run through DFU (hash bcffffdd762f93e8e05192ad7e58c97e83fb7755e9ed90faf4216d608387555b), this will cause launch time delays
+[12Dec2024 21:22:13.838] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/zelkova/zelkova_tree_trunk1
+[12Dec2024 21:22:13.839] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/zelkova/zelkova_tree_canopy3
+[12Dec2024 21:22:13.841] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/generic_trunk
+[12Dec2024 21:22:13.842] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy1
+[12Dec2024 21:22:14.707] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/zelkova/zelkova_tree_canopy1
+[12Dec2024 21:22:14.708] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/zelkova/zelkova_tree_canopy2
+[12Dec2024 21:22:19.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[12Dec2024 21:22:20.985] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[12Dec2024 21:22:21.007] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk4
+[12Dec2024 21:22:21.007] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy4
+[12Dec2024 21:22:21.008] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_trunk1
+[12Dec2024 21:22:21.008] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/aspen/aspen_canopy1
+[12Dec2024 21:22:21.009] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/spruce/spruce_tree_canopy3
+[12Dec2024 21:22:22.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Dec2024 21:22:29.931] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/giant_allium/giant_allium_trunk2
+[12Dec2024 21:22:32.117] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[12Dec2024 21:22:32.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx_Hellraiser lost connection: Timed out
+[12Dec2024 21:22:32.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Hellraiser left the game
+[12Dec2024 21:26:15.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 21:26:16.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 21:27:15.155] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[12Dec2024 21:27:57.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[12Dec2024 21:27:57.347] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_trunk
+[12Dec2024 21:27:57.347] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_yellow_boreal_canopy
+[12Dec2024 21:27:57.353] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_trunk1
+[12Dec2024 21:27:57.353] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:features/trees/birch/birch_boreal_canopy1
+[12Dec2024 21:28:09.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[12Dec2024 21:28:09.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[12Dec2024 21:30:53.206] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/75192, l='ServerLevel[ApocalipsisYegre]', x=1816.50, y=22.00, z=-349.50]
+[12Dec2024 21:31:15.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[12Dec2024 21:31:15.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[12Dec2024 21:31:29.772] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Pavel}[style={}] has been infected
+[12Dec2024 21:31:34.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> duerman
+[12Dec2024 21:31:38.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> duerman
+[12Dec2024 21:31:43.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> duelman
+[12Dec2024 21:31:55.515] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Pavel'/24807, l='ServerLevel[ApocalipsisYegre]', x=1849.66, y=71.54, z=4213.57] died, message: 'Pavel was slain by Zombie'
+[12Dec2024 21:31:56.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> duelman
+[12Dec2024 21:32:31.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> duelman
+[12Dec2024 21:33:12.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was slain by Ghost
+[12Dec2024 21:33:19.226] [Server thread/DEBUG] [twilightforest/]: Player luis (62b34a7f-fe72-3fb3-99a9-950ba8af2f9e) respawned and received items held in storage
+[12Dec2024 21:33:26.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CDZzz has made the advancement [Who You Gonna Call?]
+[12Dec2024 21:34:10.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> zzzz
+[12Dec2024 21:34:20.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CDZzz: Set the time to 1000]
+[12Dec2024 21:34:31.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [CDZzz: Set the weather to clear]

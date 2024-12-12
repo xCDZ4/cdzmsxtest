@@ -277,15 +277,19 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:cika_woods": "2024-12-12 21:19:27 +0000",
       "biomeswevegone:crag_gardens": "2024-12-09 23:25:28 +0000",
       "biomeswevegone:fragment_jungle": "2024-12-12 04:30:54 +0000",
       "biomeswevegone:temperate_grove": "2024-12-09 23:51:27 +0000",
       "biomeswevegone:zelkova_forest": "2024-12-11 21:53:41 +0000",
       "biomeswevegone:forgotten_forest": "2024-12-12 21:01:34 +0000",
       "biomeswevegone:lush_stacks": "2024-12-09 23:28:52 +0000",
+      "biomeswevegone:orchard": "2024-12-12 21:17:28 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-10 02:03:36 +0000",
+      "biomeswevegone:ebony_woods": "2024-12-12 21:12:19 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-10 03:22:26 +0000",
       "biomeswevegone:dacite_ridges": "2024-12-11 22:20:34 +0000",
+      "biomeswevegone:dacite_shore": "2024-12-12 21:20:03 +0000",
       "biomeswevegone:skyrise_vale": "2024-12-11 23:13:34 +0000",
       "biomeswevegone:rainbow_beach": "2024-12-12 20:58:05 +0000"
     },
@@ -1055,6 +1059,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-12 21:18:34 +0000",
       "minecraft:taiga": "2024-12-11 21:13:02 +0000",
       "minecraft:deep_ocean": "2024-12-10 02:02:34 +0000",
       "minecraft:birch_forest": "2024-12-10 02:41:14 +0000",
@@ -1067,6 +1072,7 @@
       "minecraft:cold_ocean": "2024-12-11 23:11:36 +0000",
       "minecraft:forest": "2024-12-11 23:12:19 +0000",
       "minecraft:lush_caves": "2024-12-10 00:10:54 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-12 21:21:08 +0000",
       "minecraft:ocean": "2024-12-09 23:30:34 +0000",
       "minecraft:jungle": "2024-12-10 00:03:44 +0000",
       "minecraft:warm_ocean": "2024-12-12 01:26:24 +0000",
@@ -1089,6 +1095,7 @@
       "fungal_jungle": "2024-12-10 03:15:53 +0000",
       "highland": "2024-12-10 03:12:45 +0000",
       "clover_patch": "2024-12-09 23:30:58 +0000",
+      "maple_woods": "2024-12-12 21:20:33 +0000",
       "field": "2024-12-11 22:09:51 +0000",
       "orchard": "2024-12-12 05:42:46 +0000",
       "coniferous_forest": "2024-12-11 23:28:09 +0000",
