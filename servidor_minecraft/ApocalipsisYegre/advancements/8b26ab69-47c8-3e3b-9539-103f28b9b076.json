@@ -281,6 +281,7 @@
       "biomeswevegone:temperate_grove": "2024-12-10 03:43:09 +0000",
       "biomeswevegone:lush_stacks": "2024-12-10 02:01:14 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-10 02:03:36 +0000",
+      "biomeswevegone:basalt_barrera": "2024-12-12 21:02:05 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-10 04:15:45 +0000",
       "biomeswevegone:skyrise_vale": "2024-12-10 04:14:12 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-10 03:58:14 +0000",
@@ -2886,9 +2887,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_planks": "2024-12-12 20:59:29 +0000"
+      "has_potato": "2024-12-12 20:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-12 20:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-12 20:55:11 +0000"
     },
     "done": true
   },
@@ -2910,6 +2923,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 20:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-12 20:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-12 20:59:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-12 20:59:29 +0000"
@@ -2928,27 +2959,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-12 20:59:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-12 20:55:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-12 20:59:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2024-12-12 20:55:11 +0000"
     },
     "done": true
   },
@@ -2970,21 +2983,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-12-12 20:59:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-12-12 20:55:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-12 20:59:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-12 21:05:49 +0000"
     },
     "done": true
   },

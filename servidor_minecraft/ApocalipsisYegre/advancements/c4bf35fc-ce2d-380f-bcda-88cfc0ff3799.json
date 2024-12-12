@@ -281,6 +281,7 @@
       "biomeswevegone:fragment_jungle": "2024-12-12 04:30:54 +0000",
       "biomeswevegone:temperate_grove": "2024-12-09 23:51:27 +0000",
       "biomeswevegone:zelkova_forest": "2024-12-11 21:53:41 +0000",
+      "biomeswevegone:forgotten_forest": "2024-12-12 21:01:34 +0000",
       "biomeswevegone:lush_stacks": "2024-12-09 23:28:52 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-10 02:03:36 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-10 03:22:26 +0000",
@@ -4309,6 +4310,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 21:04:24 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_wood": {
     "criteria": {
       "has_log": "2024-12-12 20:52:55 +0000"
@@ -4318,6 +4325,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-12 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-12-12 21:03:23 +0000"
     },
     "done": true
   },
@@ -4435,9 +4448,33 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-12 21:04:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-12 21:04:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 21:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-12 20:43:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 21:04:24 +0000"
     },
     "done": true
   },
@@ -4450,6 +4487,18 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-12-12 20:16:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-12-12 21:03:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-12 21:04:54 +0000"
     },
     "done": true
   },

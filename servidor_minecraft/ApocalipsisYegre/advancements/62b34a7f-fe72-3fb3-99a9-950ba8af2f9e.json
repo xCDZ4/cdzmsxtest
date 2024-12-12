@@ -281,6 +281,7 @@
       "biomeswevegone:crag_gardens": "2024-12-09 22:30:49 +0000",
       "biomeswevegone:temperate_grove": "2024-12-09 23:24:27 +0000",
       "biomeswevegone:zelkova_forest": "2024-12-10 04:03:56 +0000",
+      "biomeswevegone:forgotten_forest": "2024-12-12 21:00:51 +0000",
       "biomeswevegone:lush_stacks": "2024-12-09 22:36:11 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-09 23:52:30 +0000",
       "biomeswevegone:prairie": "2024-12-12 03:56:56 +0000",
@@ -4576,6 +4577,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-12 21:04:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2024-12-12 21:04:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2024-12-12 20:41:12 +0000"
@@ -4588,9 +4601,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-12 21:04:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2024-12-12 20:41:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2024-12-12 21:04:55 +0000"
     },
     "done": true
   },
@@ -4609,6 +4634,30 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2024-12-12 20:41:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-12 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 21:04:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2024-12-12 21:04:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-12 21:05:13 +0000"
     },
     "done": true
   },
