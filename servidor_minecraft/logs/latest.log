@@ -491,3 +491,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 03:41:37.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 has made the advancement [Acquire Hardware]
 [13Dec2024 03:42:42.610] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Cristóvão}[style={}] has been infected
 [13Dec2024 03:48:23.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Hellraiser has completed the challenge [Free Willy]
+[13Dec2024 03:51:05.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Dec2024 03:51:05.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asdajhkda<--[HERE]
+[13Dec2024 03:51:06.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx_Hellraiser lost connection: Disconnected
+[13Dec2024 03:51:06.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Hellraiser left the game
+[13Dec2024 03:53:16.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 has made the advancement [Isn't It Iron Pick]
+[13Dec2024 03:53:41.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 has made the advancement [Stone Age]
+[13Dec2024 03:56:33.719] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56ec28fe[id=<null>,name=Xx_Hellraiser,properties={},legacy=false] (/127.118.44.18:54519) lost connection: Disconnected
+[13Dec2024 03:56:39.524] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[13Dec2024 03:56:39.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx_Hellraiser[/127.118.44.18:41249] logged in with entity id 22806 at (2370.300000011921, 27.718595626302434, 50.8266215542705)
+[13Dec2024 03:56:39.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Hellraiser joined the game
+[13Dec2024 03:58:35.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 has made the advancement [A Seedy Place]
+[13Dec2024 03:58:51.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> jose leonaldo ya es papá??
+[13Dec2024 03:58:55.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> wao
+[13Dec2024 03:59:15.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx_Hellraiser> mmgbo mueveloo
+[13Dec2024 03:59:15.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JoseL.23> tranqui, no he preñao a nadie
+[13Dec2024 03:59:28.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> boi menool
