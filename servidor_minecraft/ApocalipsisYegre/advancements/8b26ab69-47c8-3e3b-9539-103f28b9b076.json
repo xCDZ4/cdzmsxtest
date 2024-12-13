@@ -278,6 +278,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:crag_gardens": "2024-12-09 22:33:18 +0000",
+      "biomeswevegone:fragment_jungle": "2024-12-13 05:49:53 +0000",
       "biomeswevegone:temperate_grove": "2024-12-10 03:43:09 +0000",
       "biomeswevegone:lush_stacks": "2024-12-10 02:01:14 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-10 02:03:36 +0000",
@@ -3431,15 +3432,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crocodile": {
+  "mowziesmobs:kill_foliaath": {
     "criteria": {
-      "killed_by": "2024-12-13 05:31:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-13 05:44:24 +0000"
+      "foliaath": "2024-12-13 05:15:14 +0000"
     },
     "done": true
   },
@@ -3449,9 +3444,15 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_foliaath": {
+  "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
-      "foliaath": "2024-12-13 05:15:14 +0000"
+      "killed_by": "2024-12-13 05:31:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-13 05:44:24 +0000"
     },
     "done": true
   },
