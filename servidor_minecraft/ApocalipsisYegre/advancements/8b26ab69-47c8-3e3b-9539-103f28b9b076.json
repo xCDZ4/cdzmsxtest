@@ -1002,6 +1002,7 @@
       "minecraft:skeleton": "2024-12-09 22:53:06 +0000",
       "minecraft:spider": "2024-12-10 01:58:42 +0000",
       "minecraft:creeper": "2024-12-12 23:11:00 +0000",
+      "minecraft:enderman": "2024-12-12 23:58:34 +0000",
       "minecraft:zombie": "2024-12-10 01:35:41 +0000"
     },
     "done": false
@@ -3243,6 +3244,12 @@
   "biomeswevegone:recipes/building_blocks/palm_wood": {
     "criteria": {
       "has_log": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2024-12-12 23:55:54 +0000"
     },
     "done": true
   },
