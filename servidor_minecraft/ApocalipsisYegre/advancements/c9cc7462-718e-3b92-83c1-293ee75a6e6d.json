@@ -3479,9 +3479,21 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2024-12-13 06:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-13 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-13 06:00:36 +0000"
     },
     "done": true
   },
@@ -3515,6 +3527,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-13 06:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-12-13 05:08:01 +0000"
@@ -3530,6 +3548,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-13 05:40:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2024-12-13 06:00:36 +0000"
     },
     "done": true
   },
@@ -3554,6 +3578,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-13 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2024-12-13 06:00:36 +0000"
     },
     "done": true
   },
@@ -3593,6 +3623,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-13 06:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-13 05:08:27 +0000"
@@ -3623,9 +3659,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2024-12-13 06:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-13 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-13 06:00:36 +0000"
     },
     "done": true
   },
