@@ -4299,45 +4299,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 20:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-12 20:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2024-12-12 20:16:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-12-12 20:43:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-12 20:36:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2024-12-12 21:04:24 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_wood": {
-    "criteria": {
-      "has_log": "2024-12-12 20:52:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-12 20:36:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2024-12-12 21:03:23 +0000"
     },
     "done": true
   },
@@ -4347,75 +4323,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-12 20:36:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2024-12-12 20:16:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2024-12-12 20:36:27 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_planks": {
-    "criteria": {
-      "has_log": "2024-12-12 20:52:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2024-12-12 20:36:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-12 20:36:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-12-12 20:16:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2024-12-12 20:36:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-12 20:36:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-12-12 20:18:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2024-12-12 20:16:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-12 20:36:27 +0000"
     },
     "done": true
   },
@@ -4431,21 +4347,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-12 20:43:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-12 20:16:25 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:nether_structures": {
-    "criteria": {
-      "example": "2024-12-12 20:43:50 +0000"
     },
     "done": true
   },
@@ -4455,33 +4359,69 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_troll": {
+  "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-12 21:04:21 +0000"
+      "has_planks": "2024-12-12 20:16:25 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_trident": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_item": "2024-12-12 21:04:54 +0000"
+      "has_water_bucket": "2024-12-12 20:18:57 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-12 21:04:24 +0000"
+      "has_granite": "2024-12-12 20:36:27 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
-      "entered_nether": "2024-12-12 20:43:50 +0000"
+      "has_granite": "2024-12-12 20:36:27 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-12 21:04:24 +0000"
+      "has_granite": "2024-12-12 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-12 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-12 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-12 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-12 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-12 20:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-12 20:36:27 +0000"
     },
     "done": true
   },
@@ -4491,9 +4431,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_fence": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_planks": "2024-12-12 20:16:25 +0000"
+      "entered_nether": "2024-12-12 20:43:50 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2024-12-12 20:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-12 20:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-12 20:43:53 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 20:52:55 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_planks": {
+    "criteria": {
+      "has_log": "2024-12-12 20:52:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-12-12 21:03:23 +0000"
     },
     "done": true
   },
@@ -4503,15 +4479,39 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-12 21:04:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 21:04:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 21:04:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 21:04:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2024-12-12 21:04:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
-      "has_log": "2024-12-12 20:16:19 +0000"
+      "has_item": "2024-12-12 21:04:54 +0000"
     },
     "done": true
   },

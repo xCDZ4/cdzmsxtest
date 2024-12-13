@@ -3001,15 +3001,249 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
-      "has_flint": "2024-12-13 00:15:58 +0000"
+      "has_planks": "2024-12-12 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-12 21:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-12 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-12 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-12 21:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-12 21:33:53 +0000"
     },
     "done": true
   },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location1": "2024-12-12 21:50:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-12 21:51:19 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_log": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 21:52:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/palm_door": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/palm_bookshelf": {
+    "criteria": {
+      "has_palm_planks": "2024-12-12 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/palm_fence": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/palm_button": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/palm_sign": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/palm_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/palm_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/palm_slab": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/palm_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/palm_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-12 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/palm_crafting_table": {
+    "criteria": {
+      "has_palm_planks": "2024-12-12 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 21:53:08 +0000"
+    },
+    "done": true
+  },
+  "pureores:adv_give_chrysoberyl_recipes": {
+    "criteria": {
+      "adv_give_chrysoberyl_recipes": "2024-12-12 22:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-12 22:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-12 22:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-12 22:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-12 22:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-12 22:05:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-12 22:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-12 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-12 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-12 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-12 22:05:37 +0000"
     },
     "done": true
   },
@@ -3022,18 +3256,6 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-12 22:05:38 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2024-12-12 21:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-12-12 22:54:20 +0000"
     },
     "done": true
   },
@@ -3061,39 +3283,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-12 22:05:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-12 22:05:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-12 22:05:38 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/palm_door": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:52:45 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/palm_bookshelf": {
-    "criteria": {
-      "has_palm_planks": "2024-12-12 21:52:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:14:07 +0000"
     },
     "done": true
   },
@@ -3103,69 +3295,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/decorations/palm_fence": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:52:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2024-12-12 21:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-12 22:05:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2024-12-12 21:33:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-12 22:05:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-12 22:05:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-12 22:05:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:14:07 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-12 22:05:38 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/palm_button": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:52:45 +0000"
     },
     "done": true
   },
@@ -3175,69 +3307,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-12-12 21:33:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-12 22:05:38 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/palm_sign": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:52:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-12 22:05:35 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/palm_planks": {
-    "criteria": {
-      "has_log": "2024-12-12 21:52:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2024-12-13 00:15:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2024-12-12 21:33:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-12-12 22:54:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2024-12-12 21:33:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2024-12-13 00:15:58 +0000"
     },
     "done": true
   },
@@ -3247,9 +3319,15 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/palm_fence_gate": {
+  "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
-      "has_planks": "2024-12-12 21:52:45 +0000"
+      "has_gold_ingot": "2024-12-12 22:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-12 22:05:38 +0000"
     },
     "done": true
   },
@@ -3259,9 +3337,15 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/palm_wood": {
+  "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "has_log": "2024-12-12 21:52:34 +0000"
+      "has_lapis_lazuli": "2024-12-12 22:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-12 22:54:20 +0000"
     },
     "done": true
   },
@@ -3271,39 +3355,21 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/palm_trapdoor": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "has_planks": "2024-12-12 21:52:45 +0000"
+      "has_gravel": "2024-12-13 00:15:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_log": "2024-12-12 21:53:08 +0000"
+      "has_flint": "2024-12-13 00:15:58 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/palm_slab": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_planks": "2024-12-12 21:52:45 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/palm_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:52:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:14:07 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/palm_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:52:45 +0000"
+      "has_flint": "2024-12-13 00:15:58 +0000"
     },
     "done": true
   },
@@ -3313,69 +3379,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_planks": "2024-12-12 21:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-12 22:05:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-12 22:05:38 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/palm_crafting_table": {
-    "criteria": {
-      "has_palm_planks": "2024-12-12 21:52:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-12-12 22:05:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-12 21:14:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
-    "criteria": {
-      "has_item": "2024-12-12 22:05:36 +0000"
-    },
-    "done": true
-  },
-  "pureores:adv_give_chrysoberyl_recipes": {
-    "criteria": {
-      "adv_give_chrysoberyl_recipes": "2024-12-12 22:01:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-12 22:05:38 +0000"
+      "has_spider_eye": "2024-12-13 03:35:17 +0000"
     },
     "done": true
   },

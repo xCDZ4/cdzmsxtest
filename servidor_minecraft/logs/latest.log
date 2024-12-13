@@ -473,3 +473,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 03:16:59.188] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [13Dec2024 03:16:59.188] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [13Dec2024 03:16:59.189] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[13Dec2024 03:25:15.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xx_Hellraiser) moved wrongly! 0.35715680941939354
+[13Dec2024 03:25:15.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xx_Hellraiser) moved wrongly! 0.4210330794919628
+[13Dec2024 03:25:15.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Xx_Hellraiser) moved wrongly! 0.47852172103434754
+[13Dec2024 03:26:53.118] [ForkJoinPool.commonPool-worker-3/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[13Dec2024 03:26:53.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoseL.23[/127.29.212.105:52403] logged in with entity id 8581 at (2523.4017070421855, 65.0625, 4077.7744515058553)
+[13Dec2024 03:26:53.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 joined the game
+[13Dec2024 03:27:03.643] [Worker-Main-37/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 03:27:03.644] [Worker-Main-37/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 03:27:03.655] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 03:27:03.656] [Worker-Main-36/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 03:30:07.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 was slain by Cave Dweller
+[13Dec2024 03:31:11.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 fell from a high place
+[13Dec2024 03:39:54.701] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vitorino'/8617, l='ServerLevel[ApocalipsisYegre]', x=2552.39, y=78.38, z=4045.42] died, message: 'Vitorino hit the ground too hard'
+[13Dec2024 03:39:54.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vitorino'/8617, l='ServerLevel[ApocalipsisYegre]', x=2552.39, y=78.38, z=4045.42] died: Vitorino hit the ground too hard
