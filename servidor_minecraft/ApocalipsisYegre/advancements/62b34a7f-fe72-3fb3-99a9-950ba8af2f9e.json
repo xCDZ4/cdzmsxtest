@@ -4789,5 +4789,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2024-12-13 16:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-13 16:41:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

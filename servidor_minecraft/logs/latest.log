@@ -712,3 +712,87 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 16:37:13.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Hellraiser walked into fire whilst fighting Fire Dragon
 [13Dec2024 16:37:29.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Timed out
 [13Dec2024 16:37:29.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[13Dec2024 16:37:39.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:55141] logged in with entity id 41448 at (2177.01171875, 100.06142115592957, 1177.169189453125)
+[13Dec2024 16:37:39.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[13Dec2024 16:37:41.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[13Dec2024 16:37:43.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 fell from a high place
+[13Dec2024 16:37:59.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 moved too quickly! 7.245975147015315,0.5061351021062208,7.322471664370369
+[13Dec2024 16:38:04.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx_Hellraiser moved too quickly! -10.034430476329817,-0.7433258770059297,-0.8460763878258604
+[13Dec2024 16:38:10.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[13Dec2024 16:38:10.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[13Dec2024 16:38:10.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[13Dec2024 16:38:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Hellraiser was burnt to a crisp whilst fighting Fire Dragon
+[13Dec2024 16:38:20.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24424ms or 488 ticks behind
+[13Dec2024 16:38:22.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:35475] logged in with entity id 43496 at (1755.069471902536, 63.7531999805212, 842.9736817735127)
+[13Dec2024 16:38:22.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[13Dec2024 16:38:31.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported Xx_Hellraiser to luis]
+[13Dec2024 16:38:37.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luis lost connection: Timed out
+[13Dec2024 16:38:37.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis left the game
+[13Dec2024 16:38:45.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9822ms or 196 ticks behind
+[13Dec2024 16:38:59.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Disconnected
+[13Dec2024 16:38:59.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[13Dec2024 16:39:05.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:54293] logged in with entity id 43942 at (1755.069471902536, 63.7531999805212, 842.9736817735127)
+[13Dec2024 16:39:05.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[13Dec2024 16:39:09.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[13Dec2024 16:39:35.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luis[/127.118.44.18:35899] logged in with entity id 44927 at (1685.6633471683404, 90.66144677385086, 2087.484152075172)
+[13Dec2024 16:39:35.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis joined the game
+[13Dec2024 16:39:37.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12643ms or 252 ticks behind
+[13Dec2024 16:40:01.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9167ms or 183 ticks behind
+[13Dec2024 16:40:03.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported Xx_Hellraiser to luis]
+[13Dec2024 16:41:35.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis has made the advancement [Voluntary Exile]
+[13Dec2024 16:42:25.021] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:42:25.023] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:42:25.024] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:42:25.024] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:42:25.044] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:42:25.045] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:42:25.046] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:42:25.046] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:42:25.046] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:42:39.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis has made the advancement [Convergent Evolution...]
+[13Dec2024 16:43:14.982] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:43:14.984] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:43:14.985] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:43:14.986] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:43:14.987] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:43:17.255] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:43:17.257] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:43:17.257] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:43:17.258] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:43:17.259] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:44:21.021] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:44:21.023] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:44:21.080] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:44:21.080] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:44:28.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported Xx_Hellraiser to luis]
+[13Dec2024 16:45:18.369] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:18.370] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:18.370] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:18.371] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:21.184] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:21.996] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:21.997] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:21.997] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:52.843] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:52.844] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:52.844] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:52.845] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:52.854] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:52.854] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:45:52.855] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:47:17.897] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:47:17.898] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:47:17.898] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:47:17.899] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:47:19.998] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:47:19.998] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:47:19.999] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:47:19.999] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:47:20.000] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[13Dec2024 16:47:42.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1435, y=244, z=2280} BlockPos{x=1436, y=243, z=2280}
+[13Dec2024 16:47:42.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1435, y=244, z=2280} BlockPos{x=1436, y=243, z=2280}
+[13Dec2024 16:47:42.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1438, y=245, z=2283} BlockPos{x=1436, y=243, z=2282}
+[13Dec2024 16:47:51.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Caoimhe'/49257, l='ServerLevel[ApocalipsisYegre]', x=2543.91, y=63.00, z=924.56] died, message: 'Caoimhe was slain by Stymphalian Bird'
+[13Dec2024 16:48:53.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luis was kicked for floating too long!
+[13Dec2024 16:48:53.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luis lost connection: Flying is not enabled on this server
+[13Dec2024 16:48:53.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis left the game
