@@ -281,6 +281,7 @@
       "biomeswevegone:temperate_grove": "2024-12-10 03:43:09 +0000",
       "biomeswevegone:lush_stacks": "2024-12-10 02:01:14 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-10 02:03:36 +0000",
+      "biomeswevegone:ebony_woods": "2024-12-13 05:41:19 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-12 21:02:05 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-10 04:15:45 +0000",
       "biomeswevegone:dacite_shore": "2024-12-13 04:25:19 +0000",
@@ -1005,6 +1006,7 @@
       "minecraft:spider": "2024-12-10 01:58:42 +0000",
       "minecraft:creeper": "2024-12-12 23:11:00 +0000",
       "minecraft:enderman": "2024-12-12 23:58:34 +0000",
+      "minecraft:silverfish": "2024-12-13 05:27:17 +0000",
       "minecraft:zombie": "2024-12-10 01:35:41 +0000"
     },
     "done": false
@@ -1419,6 +1421,7 @@
       "minecraft:lush_caves": "2024-12-10 01:37:41 +0000",
       "minecraft:deep_cold_ocean": "2024-12-12 20:58:04 +0000",
       "minecraft:ocean": "2024-12-10 02:02:48 +0000",
+      "minecraft:jungle": "2024-12-13 05:41:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-13 04:33:33 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-10 03:41:33 +0000"
     },
@@ -3425,6 +3428,30 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2024-12-13 05:10:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-12-13 05:31:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-13 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-13 05:30:24 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2024-12-13 05:15:14 +0000"
     },
     "done": true
   },
