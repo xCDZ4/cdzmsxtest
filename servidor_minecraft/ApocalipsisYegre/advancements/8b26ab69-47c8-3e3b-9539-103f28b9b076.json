@@ -283,9 +283,11 @@
       "biomeswevegone:weeping_witch_forest": "2024-12-10 02:03:36 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-12 21:02:05 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-10 04:15:45 +0000",
+      "biomeswevegone:dacite_shore": "2024-12-13 04:25:19 +0000",
       "biomeswevegone:skyrise_vale": "2024-12-10 04:14:12 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-10 03:58:14 +0000",
-      "biomeswevegone:pumpkin_valley": "2024-12-10 04:06:39 +0000"
+      "biomeswevegone:pumpkin_valley": "2024-12-10 04:06:39 +0000",
+      "biomeswevegone:rainbow_beach": "2024-12-13 04:35:54 +0000"
     },
     "done": false
   },
@@ -1270,6 +1272,7 @@
       "cooked_porkchop": "2024-12-10 03:45:37 +0000",
       "cooked_beef": "2024-12-10 01:30:35 +0000",
       "baked_potato": "2024-12-12 21:34:02 +0000",
+      "bread": "2024-12-13 04:51:31 +0000",
       "melon_slice": "2024-12-10 01:57:27 +0000"
     },
     "done": false
@@ -1401,11 +1404,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-12 21:53:37 +0000",
+      "minecraft:taiga": "2024-12-13 04:25:16 +0000",
       "minecraft:deep_ocean": "2024-12-10 02:02:33 +0000",
       "minecraft:frozen_river": "2024-12-10 04:15:50 +0000",
       "minecraft:birch_forest": "2024-12-10 03:40:12 +0000",
+      "minecraft:bamboo_jungle": "2024-12-13 04:57:55 +0000",
       "minecraft:beach": "2024-12-10 02:35:01 +0000",
       "minecraft:dark_forest": "2024-12-10 02:33:06 +0000",
+      "minecraft:sparse_jungle": "2024-12-13 04:57:44 +0000",
       "minecraft:lukewarm_ocean": "2024-12-10 02:00:59 +0000",
       "minecraft:river": "2024-12-10 02:02:56 +0000",
       "minecraft:cold_ocean": "2024-12-10 04:12:36 +0000",
@@ -1413,6 +1419,7 @@
       "minecraft:lush_caves": "2024-12-10 01:37:41 +0000",
       "minecraft:deep_cold_ocean": "2024-12-12 20:58:04 +0000",
       "minecraft:ocean": "2024-12-10 02:02:48 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-13 04:33:33 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-10 03:41:33 +0000"
     },
     "done": false
@@ -3382,6 +3389,42 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-13 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_savanna": "2024-12-13 04:37:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-12-13 04:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-13 04:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-13 04:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-13 04:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-13 05:10:19 +0000"
     },
     "done": true
   },

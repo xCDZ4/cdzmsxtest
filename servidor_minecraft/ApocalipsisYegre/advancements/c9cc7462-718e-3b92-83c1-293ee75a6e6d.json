@@ -772,6 +772,7 @@
       "minecraft:spider": "2024-12-09 22:50:56 +0000",
       "minecraft:creeper": "2024-12-11 03:27:51 +0000",
       "minecraft:husk": "2024-12-12 01:57:41 +0000",
+      "minecraft:piglin": "2024-12-13 05:10:41 +0000",
       "minecraft:stray": "2024-12-11 21:14:52 +0000",
       "minecraft:silverfish": "2024-12-12 04:18:43 +0000",
       "minecraft:zombie": "2024-12-10 00:59:26 +0000"
@@ -1757,6 +1758,7 @@
       "shrubland": "2024-12-12 01:05:01 +0000",
       "scrubland": "2024-12-10 03:20:05 +0000",
       "fungal_jungle": "2024-12-10 03:03:16 +0000",
+      "erupting_inferno": "2024-12-13 05:09:36 +0000",
       "highland": "2024-12-10 03:03:09 +0000",
       "old_growth_woodland": "2024-12-10 03:18:35 +0000",
       "coniferous_forest": "2024-12-12 00:06:50 +0000",
@@ -3284,6 +3286,78 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-12 21:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-12 21:15:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-12 21:15:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-12 21:33:26 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2024-12-12 21:36:33 +0000"
+    },
+    "done": true
+  },
+  "mca:grow_adult": {
+    "criteria": {
+      "baby": "2024-12-12 21:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-12-12 21:47:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 22:22:22 +0000"
@@ -3314,18 +3388,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2024-12-12 21:47:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2024-12-12 21:47:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 22:22:22 +0000"
@@ -3338,27 +3400,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2024-12-12 21:15:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 22:22:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
-    "criteria": {
-      "has_prismarine": "2024-12-12 21:47:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine": "2024-12-12 21:47:34 +0000"
     },
     "done": true
   },
@@ -3380,21 +3424,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/prismarine_wall": {
-    "criteria": {
-      "has_prismarine": "2024-12-12 21:47:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 22:22:22 +0000"
-    },
-    "done": true
-  },
-  "mca:best_friend": {
-    "criteria": {
-      "baby": "2024-12-12 21:36:33 +0000"
     },
     "done": true
   },
@@ -3422,21 +3454,9 @@
     },
     "done": true
   },
-  "mca:grow_adult": {
-    "criteria": {
-      "baby": "2024-12-12 21:44:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-12 22:22:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_stairs": {
-    "criteria": {
-      "has_prismarine": "2024-12-12 21:47:34 +0000"
     },
     "done": true
   },
@@ -3446,21 +3466,81 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-12 21:33:26 +0000"
+      "has_planks": "2024-12-13 05:08:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_cooked_rabbit": "2024-12-12 21:15:42 +0000"
+      "minecraft:nether_wastes": "2024-12-13 05:08:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 05:08:01 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+  "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
-      "has_cooked_rabbit": "2024-12-12 21:15:42 +0000"
+      "has_planks": "2024-12-13 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-13 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2024-12-13 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 05:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-13 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 05:08:01 +0000"
     },
     "done": true
   },
