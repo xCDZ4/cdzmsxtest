@@ -5521,3 +5521,68 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 04:00:19.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
 [13Dec2024 04:00:19.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
 [13Dec2024 04:00:46.169] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[13Dec2024 04:03:26.141] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[13Dec2024 04:03:29.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx_Hellraiser> Carbajaal carajitoooo
+[13Dec2024 04:03:40.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> chamo aqui ando ya vaa
+[13Dec2024 04:04:58.673] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2370.50, y=27.00, z=52.50]]
+[13Dec2024 04:05:06.807] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2476.67, y=-32.00, z=-14.30]]
+[13Dec2024 04:05:19.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[13Dec2024 04:05:19.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[13Dec2024 04:05:24.166] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[13Dec2024 04:05:26.921] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2476.67, y=-32.00, z=-14.30]]
+[13Dec2024 04:05:32.616] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2476.67, y=-32.00, z=-14.30]]
+[13Dec2024 04:05:37.332] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2476.67, y=-32.00, z=-14.30]]
+[13Dec2024 04:05:38.144] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2476.67, y=-32.00, z=-14.30]]
+[13Dec2024 04:05:38.736] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2476.67, y=-32.00, z=-14.30]]
+[13Dec2024 04:05:51.303] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2476.67, y=-32.00, z=-14.30]]
+[13Dec2024 04:05:53.190] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2476.67, y=-32.00, z=-14.30]]
+[13Dec2024 04:06:22.112] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2476.67, y=-32.00, z=-14.30]]
+[13Dec2024 04:06:37.099] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2476.67, y=-32.00, z=-14.30]]
+[13Dec2024 04:06:39.682] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2476.67, y=-32.00, z=-14.30]]
+[13Dec2024 04:06:52.304] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2476.67, y=-32.00, z=-14.30]]
+[13Dec2024 04:07:14.166] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[13Dec2024 04:07:20.291] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2472.00, y=-28.00, z=-14.70]]
+[13Dec2024 04:07:27.131] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2469.89, y=-26.00, z=-14.70]]
+[13Dec2024 04:07:28.113] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2469.89, y=-26.00, z=-14.70]]
+[13Dec2024 04:07:31.712] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2468.47, y=-25.00, z=-14.70]]
+[13Dec2024 04:07:51.479] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2465.52, y=-16.80, z=-14.32]]
+[13Dec2024 04:07:53.226] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2465.52, y=-17.00, z=-14.32]]
+[13Dec2024 04:08:09.708] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Barbatos22'/646, l='ServerLevel[ApocalipsisYegre]', x=2466.03, y=-8.00, z=-16.70]]
+[13Dec2024 04:08:56.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx_Hellraiser> Menoool
+[13Dec2024 04:09:25.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> tyo saliendo de la cuevaa
+[13Dec2024 04:09:34.167] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[13Dec2024 04:09:40.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx_Hellraiser> Pero desmuteate en dc
+[13Dec2024 04:10:19.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[13Dec2024 04:10:19.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[13Dec2024 04:10:51.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Hellraiser fell from a high place
+[13Dec2024 04:10:54.194] [Server thread/DEBUG] [twilightforest/]: Player Xx_Hellraiser (c4bf35fc-ce2d-380f-bcda-88cfc0ff3799) respawned and received items held in storage
+[13Dec2024 04:10:54.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> dios
+[13Dec2024 04:11:32.172] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[13Dec2024 04:11:35.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx_Hellraiser> Voy pa alla, estoy en la aldea de agua
+[13Dec2024 04:11:40.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> oki
+[13Dec2024 04:12:31.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[13Dec2024 04:12:31.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[13Dec2024 04:12:31.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[13Dec2024 04:12:31.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[13Dec2024 04:12:33.142] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[13Dec2024 04:13:19.194] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33172, l='ServerLevel[ApocalipsisYegre]', x=2369.50, y=0.00, z=-190.50]
+[13Dec2024 04:13:26.945] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33360, l='ServerLevel[ApocalipsisYegre]', x=2374.50, y=14.00, z=-168.50]
+[13Dec2024 04:15:19.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[13Dec2024 04:15:19.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[13Dec2024 04:15:53.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 fell from a high place
+[13Dec2024 04:15:54.719] [Server thread/DEBUG] [twilightforest/]: Player Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076) respawned and received items held in storage
+[13Dec2024 04:16:17.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx_Hellraiser> Pero llega a dc carajito
+[13Dec2024 04:16:38.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> wtf
+[13Dec2024 04:16:41.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> no puede ser
+[13Dec2024 04:16:46.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx_Hellraiser> que te paso
+[13Dec2024 04:17:09.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> perdi mi visor
+[13Dec2024 04:17:11.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> de agua
+[13Dec2024 04:17:14.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> wtf
+[13Dec2024 04:17:15.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx_Hellraiser> Imposible
+[13Dec2024 04:17:20.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx_Hellraiser> Debes tenerlo en el inventario
+[13Dec2024 04:17:30.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx_Hellraiser> o si tenias el inventario lleno quedo alla abajo
+[13Dec2024 04:17:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xx_Hellraiser> Cuando te morite
+[13Dec2024 04:17:48.166] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[13Dec2024 04:20:19.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[13Dec2024 04:20:19.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[13Dec2024 04:20:56.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
