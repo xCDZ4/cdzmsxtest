@@ -1075,6 +1075,7 @@
       "minecraft:deep_cold_ocean": "2024-12-12 21:21:08 +0000",
       "minecraft:ocean": "2024-12-09 23:30:34 +0000",
       "minecraft:jungle": "2024-12-10 00:03:44 +0000",
+      "minecraft:windswept_savanna": "2024-12-13 15:23:22 +0000",
       "minecraft:warm_ocean": "2024-12-12 01:26:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-12 01:23:46 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-11 21:25:42 +0000",
@@ -1376,6 +1377,7 @@
       "minecraft:cave_spider": "2024-12-10 00:13:36 +0000",
       "minecraft:enderman": "2024-12-11 21:13:17 +0000",
       "minecraft:silverfish": "2024-12-13 05:40:39 +0000",
+      "minecraft:stray": "2024-12-13 15:54:37 +0000",
       "minecraft:zombie": "2024-12-09 23:41:05 +0000",
       "minecraft:drowned": "2024-12-10 02:50:51 +0000"
     },
@@ -4548,15 +4550,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_campfire": {
+  "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
-      "has_white_puffball_cap": "2024-12-13 05:37:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2024-12-13 05:27:56 +0000"
+      "has_brown_wool": "2024-12-13 04:51:33 +0000"
     },
     "done": true
   },
@@ -4566,45 +4562,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-13 05:27:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/rocky_stone_stairs_from_rocky_stone_stonecutting": {
-    "criteria": {
-      "has_rocky_stone": "2024-12-13 05:28:12 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-13 05:09:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-13 05:27:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/rocky_stone_wall_from_rocky_stone_stonecutting": {
-    "criteria": {
-      "has_rocky_stone": "2024-12-13 05:28:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/rocky_stone_slab_from_rocky_stone_stonecutting": {
-    "criteria": {
-      "has_rocky_stone": "2024-12-13 05:28:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2024-12-13 04:51:33 +0000"
     },
     "done": true
   },
@@ -4614,9 +4574,39 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/rocky_stone_stairs": {
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
-      "has_rocky_stone": "2024-12-13 05:28:12 +0000"
+      "has_brimstone": "2024-12-13 05:09:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2024-12-13 05:09:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2024-12-13 05:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-13 05:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-13 05:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-13 05:27:56 +0000"
     },
     "done": true
   },
@@ -4626,39 +4616,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2024-12-13 05:09:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2024-12-13 05:28:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-13 05:27:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2024-12-13 05:41:01 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/food/cooked_white_puffball_cap": {
-    "criteria": {
-      "has_white_puffball_cap": "2024-12-13 05:37:34 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/rocky_stone_slab": {
-    "criteria": {
-      "has_rocky_stone": "2024-12-13 05:28:12 +0000"
     },
     "done": true
   },
@@ -4674,45 +4634,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_smoker": {
-    "criteria": {
-      "has_white_puffball_cap": "2024-12-13 05:37:34 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/rocky_stone_wall": {
-    "criteria": {
-      "has_rocky_stone": "2024-12-13 05:28:12 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2024-12-13 05:44:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-13 05:27:56 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
-    "criteria": {
-      "has_brimstone": "2024-12-13 05:09:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2024-12-13 05:30:35 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
-    "criteria": {
-      "has_brimstone": "2024-12-13 05:09:32 +0000"
     },
     "done": true
   },
@@ -4728,9 +4652,195 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/rocky_stone_stairs_from_rocky_stone_stonecutting": {
+    "criteria": {
+      "has_rocky_stone": "2024-12-13 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/rocky_stone_wall_from_rocky_stone_stonecutting": {
+    "criteria": {
+      "has_rocky_stone": "2024-12-13 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/rocky_stone_slab_from_rocky_stone_stonecutting": {
+    "criteria": {
+      "has_rocky_stone": "2024-12-13 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone_stairs": {
+    "criteria": {
+      "has_rocky_stone": "2024-12-13 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone_slab": {
+    "criteria": {
+      "has_rocky_stone": "2024-12-13 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/rocky_stone_wall": {
+    "criteria": {
+      "has_rocky_stone": "2024-12-13 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-13 05:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-13 05:30:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_campfire": {
+    "criteria": {
+      "has_white_puffball_cap": "2024-12-13 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_white_puffball_cap": {
+    "criteria": {
+      "has_white_puffball_cap": "2024-12-13 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_white_puffball_cap_from_smoker": {
+    "criteria": {
+      "has_white_puffball_cap": "2024-12-13 05:37:34 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/husbandry/forager": {
     "criteria": {
       "white_puffball_cap": "2024-12-13 05:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-13 05:41:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-12-13 05:44:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2024-12-13 15:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-13 15:58:25 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-12-13 15:58:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-13 16:05:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-13 16:05:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2024-12-13 16:05:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-13 16:05:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-13 16:05:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-13 16:05:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-13 16:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dacite_cobblestone_slab_from_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-13 16:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-13 16:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dacite_cobblestone_wall_from_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-13 16:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dacite_cobblestone_stairs_from_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-13 16:36:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/dacite_cobblestone_slab": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-13 16:36:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/dacite_cobblestone_stairs": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-13 16:36:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/dacite_cobblestone_wall": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-13 16:36:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/dacite": {
+    "criteria": {
+      "has_dacite_cobblestone": "2024-12-13 16:36:22 +0000"
     },
     "done": true
   },

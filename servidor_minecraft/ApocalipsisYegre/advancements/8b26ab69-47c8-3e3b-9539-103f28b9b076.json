@@ -277,9 +277,11 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:cika_woods": "2024-12-13 15:30:33 +0000",
       "biomeswevegone:crag_gardens": "2024-12-09 22:33:18 +0000",
       "biomeswevegone:fragment_jungle": "2024-12-13 05:49:53 +0000",
       "biomeswevegone:temperate_grove": "2024-12-10 03:43:09 +0000",
+      "biomeswevegone:zelkova_forest": "2024-12-13 15:20:55 +0000",
       "biomeswevegone:lush_stacks": "2024-12-10 02:01:14 +0000",
       "biomeswevegone:weeping_witch_forest": "2024-12-10 02:03:36 +0000",
       "biomeswevegone:ebony_woods": "2024-12-13 05:41:19 +0000",
@@ -1006,6 +1008,7 @@
       "minecraft:skeleton": "2024-12-09 22:53:06 +0000",
       "minecraft:spider": "2024-12-10 01:58:42 +0000",
       "minecraft:creeper": "2024-12-12 23:11:00 +0000",
+      "minecraft:witch": "2024-12-13 16:09:34 +0000",
       "minecraft:enderman": "2024-12-12 23:58:34 +0000",
       "minecraft:silverfish": "2024-12-13 05:27:17 +0000",
       "minecraft:zombie": "2024-12-10 01:35:41 +0000"
@@ -1273,10 +1276,15 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-10 03:45:37 +0000",
+      "sweet_berries": "2024-12-13 16:31:57 +0000",
       "cooked_beef": "2024-12-10 01:30:35 +0000",
       "baked_potato": "2024-12-12 21:34:02 +0000",
+      "cooked_cod": "2024-12-13 15:50:56 +0000",
+      "pumpkin_pie": "2024-12-13 16:31:22 +0000",
       "bread": "2024-12-13 04:51:31 +0000",
-      "melon_slice": "2024-12-10 01:57:27 +0000"
+      "rotten_flesh": "2024-12-13 16:22:47 +0000",
+      "melon_slice": "2024-12-10 01:57:27 +0000",
+      "carrot": "2024-12-13 16:30:54 +0000"
     },
     "done": false
   },
@@ -1362,6 +1370,7 @@
     "criteria": {
       "clover_patch": "2024-12-10 03:42:47 +0000",
       "maple_woods": "2024-12-10 04:18:44 +0000",
+      "field": "2024-12-13 15:59:09 +0000",
       "forested_field": "2024-12-12 21:52:51 +0000",
       "seasonal_orchard": "2024-12-10 04:10:06 +0000",
       "seasonal_forest": "2024-12-10 04:06:47 +0000",
@@ -1407,6 +1416,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-12 21:53:37 +0000",
+      "minecraft:mushroom_fields": "2024-12-13 16:28:11 +0000",
       "minecraft:taiga": "2024-12-13 04:25:16 +0000",
       "minecraft:deep_ocean": "2024-12-10 02:02:33 +0000",
       "minecraft:frozen_river": "2024-12-10 04:15:50 +0000",
@@ -1423,6 +1433,7 @@
       "minecraft:deep_cold_ocean": "2024-12-12 20:58:04 +0000",
       "minecraft:ocean": "2024-12-10 02:02:48 +0000",
       "minecraft:jungle": "2024-12-13 05:41:23 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-13 15:30:36 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-13 04:33:33 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-10 03:41:33 +0000"
     },
@@ -3453,6 +3464,60 @@
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2024-12-13 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-13 15:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-13 15:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-13 15:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-13 15:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-13 15:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-13 15:57:23 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/brittle_red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-13 15:57:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2024-12-13 15:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-13 16:30:49 +0000"
     },
     "done": true
   },
