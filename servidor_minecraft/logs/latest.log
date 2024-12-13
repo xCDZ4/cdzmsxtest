@@ -487,3 +487,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 03:31:11.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 fell from a high place
 [13Dec2024 03:39:54.701] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vitorino'/8617, l='ServerLevel[ApocalipsisYegre]', x=2552.39, y=78.38, z=4045.42] died, message: 'Vitorino hit the ground too hard'
 [13Dec2024 03:39:54.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vitorino'/8617, l='ServerLevel[ApocalipsisYegre]', x=2552.39, y=78.38, z=4045.42] died: Vitorino hit the ground too hard
+[13Dec2024 03:40:55.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 has made the advancement [Monster Hunter]
+[13Dec2024 03:41:37.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoseL.23 has made the advancement [Acquire Hardware]
+[13Dec2024 03:42:42.610] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Cristóvão}[style={}] has been infected
+[13Dec2024 03:48:23.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Hellraiser has completed the challenge [Free Willy]
