@@ -1,204 +1,164 @@
-[14Dec2024 04:31:08.617] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[14Dec2024 04:31:08.624] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[14Dec2024 04:31:10.127] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[14Dec2024 04:31:10.210] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cdzmsxtest/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[14Dec2024 04:31:10.649] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cdzmsxtest/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[14Dec2024 04:31:10.651] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cdzmsxtest/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Dec2024 04:31:10.652] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cdzmsxtest/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Dec2024 04:31:10.653] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cdzmsxtest/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Dec2024 04:31:10.924] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[14Dec2024 04:31:10.926] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/cdzmsxtest/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
-[14Dec2024 04:31:10.926] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[14Dec2024 04:31:14.358] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[14Dec2024 04:31:14.544] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[14Dec2024 04:31:14.741] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.6+mc1.20.1: 84 options available, 0 override(s) found
-[14Dec2024 04:31:14.742] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[14Dec2024 04:31:14.769] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[14Dec2024 04:31:14.952] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Dec2024 04:31:14.953] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Dec2024 04:31:15.055] [main/WARN] [mixin/]: Reference map 'packetfixer-forge-forge-refmap.json' for packetfixer-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Dec2024 04:31:17.128] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[14Dec2024 04:31:17.129] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[14Dec2024 04:31:17.261] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[14Dec2024 04:31:18.060] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (12.83 s after launch)
-[14Dec2024 04:31:18.310] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[14Dec2024 04:31:18.316] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[14Dec2024 04:31:20.566] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2502 milliseconds
-[14Dec2024 04:31:23.192] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[14Dec2024 04:31:23.193] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[14Dec2024 04:31:25.117] [modloading-worker-0/INFO] [hammered/]: Initializing...
-[14Dec2024 04:31:25.117] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
-[14Dec2024 04:31:25.118] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
-[14Dec2024 04:31:25.135] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
-[14Dec2024 04:31:25.145] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
-[14Dec2024 04:31:25.152] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
-[14Dec2024 04:31:25.159] [modloading-worker-0/INFO] [hammered/]: Registered Items.
-[14Dec2024 04:31:25.166] [modloading-worker-0/INFO] [hammered/]: Registered Enchantments.
-[14Dec2024 04:31:25.166] [modloading-worker-0/INFO] [hammered/]: Registered Villager Trades.
-[14Dec2024 04:31:25.166] [modloading-worker-0/INFO] [hammered/]: Initialized
-[14Dec2024 04:31:25.717] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[14Dec2024 04:31:25.717] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[14Dec2024 04:31:26.027] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
-[14Dec2024 04:31:26.029] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
-[14Dec2024 04:31:26.031] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
-[14Dec2024 04:31:26.427] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
-[14Dec2024 04:31:26.540] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
-[14Dec2024 04:31:26.671] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
-[14Dec2024 04:31:26.674] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
-[14Dec2024 04:31:26.674] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
-[14Dec2024 04:31:26.675] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
-[14Dec2024 04:31:26.675] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
-[14Dec2024 04:31:26.676] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
-[14Dec2024 04:31:26.684] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
-[14Dec2024 04:31:26.688] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
-[14Dec2024 04:31:26.699] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
-[14Dec2024 04:31:26.703] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
-[14Dec2024 04:31:26.727] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
-[14Dec2024 04:31:26.733] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
-[14Dec2024 04:31:26.767] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
-[14Dec2024 04:31:26.944] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
-[14Dec2024 04:31:26.960] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[14Dec2024 04:31:26.970] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
-[14Dec2024 04:31:26.974] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
-[14Dec2024 04:31:26.987] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
-[14Dec2024 04:31:26.996] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
-[14Dec2024 04:31:27.015] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
-[14Dec2024 04:31:27.016] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
-[14Dec2024 04:31:27.017] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
-[14Dec2024 04:31:27.023] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
-[14Dec2024 04:31:27.066] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
-[14Dec2024 04:31:27.068] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
-[14Dec2024 04:31:27.068] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
-[14Dec2024 04:31:27.069] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
-[14Dec2024 04:31:27.215] [modloading-worker-0/INFO] [dev.tonimatas.packetfixer.PacketFixer/]: Packet Fixer has been initialized successfully
-[14Dec2024 04:31:27.217] [modloading-worker-0/ERROR] [BadOptimizations/]: BadOptimizations is a client-only mod, this will have no effect on a server.
-[14Dec2024 04:31:27.295] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/cdzmsxtest/servidor_minecraft/config/illageandspillage-client.toml
-[14Dec2024 04:31:27.295] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/cdzmsxtest/servidor_minecraft/config/illageandspillage-client.toml
-[14Dec2024 04:31:27.297] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/cdzmsxtest/servidor_minecraft/config/illageandspillage-client.toml
-[14Dec2024 04:31:27.300] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/cdzmsxtest/servidor_minecraft/config/illageandspillage-common.toml
-[14Dec2024 04:31:27.300] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/cdzmsxtest/servidor_minecraft/config/illageandspillage-common.toml
-[14Dec2024 04:31:27.305] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/cdzmsxtest/servidor_minecraft/config/illageandspillage-common.toml
-[14Dec2024 04:31:29.644] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
-[14Dec2024 04:31:29.644] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
-[14Dec2024 04:31:29.644] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
-[14Dec2024 04:31:29.644] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
-[14Dec2024 04:31:29.644] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
-[14Dec2024 04:31:30.138] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[14Dec2024 04:31:30.139] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
-[14Dec2024 04:31:31.038] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.039] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.039] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.039] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.040] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.040] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.040] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.041] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[14Dec2024 04:31:31.042] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.043] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.043] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.043] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.043] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.043] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.044] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.044] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.044] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.044] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.044] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.045] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[14Dec2024 04:31:31.045] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.051] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.051] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[14Dec2024 04:31:31.051] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.052] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[14Dec2024 04:31:31.052] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[14Dec2024 04:31:31.052] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.052] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.053] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.053] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.053] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.055] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.059] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.059] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.061] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.061] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.061] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[14Dec2024 04:31:31.062] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
-[14Dec2024 04:31:31.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[14Dec2024 04:31:31.746] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[14Dec2024 04:31:31.759] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[14Dec2024 04:31:31.761] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[14Dec2024 04:31:31.790] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[14Dec2024 04:31:31.790] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[14Dec2024 04:31:31.791] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[14Dec2024 04:31:31.791] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[14Dec2024 04:31:31.791] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[14Dec2024 04:31:31.791] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[14Dec2024 04:31:31.791] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[14Dec2024 04:31:31.791] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[14Dec2024 04:31:31.792] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[14Dec2024 04:31:31.792] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[14Dec2024 04:31:31.841] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[14Dec2024 04:31:32.037] [main/INFO] [journeymap/]: Initializing Packet Registries
-[14Dec2024 04:31:32.064] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[14Dec2024 04:31:32.065] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[14Dec2024 04:31:32.065] [main/INFO] [terrablender/]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
-[14Dec2024 04:31:32.101] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 2 for type OVERWORLD
-[14Dec2024 04:31:32.101] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 3 for type OVERWORLD
-[14Dec2024 04:31:32.101] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 4 for type OVERWORLD
-[14Dec2024 04:31:32.102] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[14Dec2024 04:31:32.102] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[14Dec2024 04:31:32.169] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 5 for type OVERWORLD
-[14Dec2024 04:31:32.169] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 6 for type OVERWORLD
-[14Dec2024 04:31:32.170] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 7 for type OVERWORLD
-[14Dec2024 04:31:32.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[14Dec2024 04:31:32.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[14Dec2024 04:31:32.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[14Dec2024 04:31:32.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
-[14Dec2024 04:31:32.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
-[14Dec2024 04:31:32.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[14Dec2024 04:31:32.816] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.817] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.817] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.817] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.818] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.818] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.819] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.819] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.819] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.820] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.820] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.820] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.820] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.821] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.821] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.821] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.822] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.822] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.822] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.822] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.823] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.823] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.823] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.824] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.824] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.824] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.825] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.825] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.825] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.826] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.826] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.826] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.827] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.827] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.827] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.827] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.828] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.828] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.828] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:32.829] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:32.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[14Dec2024 04:31:32.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[14Dec2024 04:31:32.945] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[14Dec2024 06:31:44.503] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[14Dec2024 06:31:44.508] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[14Dec2024 06:31:45.197] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[14Dec2024 06:31:45.269] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cdzmsxtest/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[14Dec2024 06:31:45.632] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cdzmsxtest/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[14Dec2024 06:31:45.634] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cdzmsxtest/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Dec2024 06:31:45.635] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cdzmsxtest/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Dec2024 06:31:45.636] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cdzmsxtest/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[14Dec2024 06:31:45.814] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[14Dec2024 06:31:45.815] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/cdzmsxtest/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[14Dec2024 06:31:45.815] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[14Dec2024 06:31:48.422] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Dec2024 06:31:48.545] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[14Dec2024 06:31:48.684] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.6+mc1.20.1: 84 options available, 0 override(s) found
+[14Dec2024 06:31:48.685] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[14Dec2024 06:31:48.699] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[14Dec2024 06:31:48.828] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Dec2024 06:31:48.829] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Dec2024 06:31:48.890] [main/WARN] [mixin/]: Reference map 'packetfixer-forge-forge-refmap.json' for packetfixer-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Dec2024 06:31:50.219] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[14Dec2024 06:31:50.219] [main/INFO] [memoryleakfix/]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[14Dec2024 06:31:50.302] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14Dec2024 06:31:50.912] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.300 s after launch)
+[14Dec2024 06:31:51.364] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[14Dec2024 06:31:51.365] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[14Dec2024 06:31:52.875] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1958 milliseconds
+[14Dec2024 06:31:54.606] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[14Dec2024 06:31:54.606] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[14Dec2024 06:31:55.996] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
+[14Dec2024 06:31:55.997] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
+[14Dec2024 06:31:55.998] [modloading-worker-0/INFO] [hammered/]: Initializing...
+[14Dec2024 06:31:56.012] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
+[14Dec2024 06:31:56.013] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
+[14Dec2024 06:31:56.016] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
+[14Dec2024 06:31:56.028] [modloading-worker-0/INFO] [hammered/]: Registered Items.
+[14Dec2024 06:31:56.032] [modloading-worker-0/INFO] [hammered/]: Registered Enchantments.
+[14Dec2024 06:31:56.033] [modloading-worker-0/INFO] [hammered/]: Registered Villager Trades.
+[14Dec2024 06:31:56.033] [modloading-worker-0/INFO] [hammered/]: Initialized
+[14Dec2024 06:31:56.426] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[14Dec2024 06:31:56.426] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[14Dec2024 06:31:56.661] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[14Dec2024 06:31:56.663] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[14Dec2024 06:31:56.664] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[14Dec2024 06:31:56.991] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[14Dec2024 06:31:57.104] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[14Dec2024 06:31:57.146] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[14Dec2024 06:31:57.147] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[14Dec2024 06:31:57.147] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[14Dec2024 06:31:57.148] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[14Dec2024 06:31:57.149] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[14Dec2024 06:31:57.150] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[14Dec2024 06:31:57.153] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[14Dec2024 06:31:57.157] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[14Dec2024 06:31:57.165] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[14Dec2024 06:31:57.167] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[14Dec2024 06:31:57.169] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[14Dec2024 06:31:57.172] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[14Dec2024 06:31:57.191] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[14Dec2024 06:31:57.324] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[14Dec2024 06:31:57.329] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[14Dec2024 06:31:57.330] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[14Dec2024 06:31:57.335] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[14Dec2024 06:31:57.339] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[14Dec2024 06:31:57.354] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[14Dec2024 06:31:57.380] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[14Dec2024 06:31:57.382] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[14Dec2024 06:31:57.383] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[14Dec2024 06:31:57.398] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[14Dec2024 06:31:57.439] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[14Dec2024 06:31:57.442] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[14Dec2024 06:31:57.445] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[14Dec2024 06:31:57.447] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[14Dec2024 06:31:57.602] [modloading-worker-0/INFO] [dev.tonimatas.packetfixer.PacketFixer/]: Packet Fixer has been initialized successfully
+[14Dec2024 06:31:57.605] [modloading-worker-0/ERROR] [BadOptimizations/]: BadOptimizations is a client-only mod, this will have no effect on a server.
+[14Dec2024 06:31:57.625] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/cdzmsxtest/servidor_minecraft/config/illageandspillage-client.toml
+[14Dec2024 06:31:57.625] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/cdzmsxtest/servidor_minecraft/config/illageandspillage-client.toml
+[14Dec2024 06:31:57.626] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/cdzmsxtest/servidor_minecraft/config/illageandspillage-client.toml
+[14Dec2024 06:31:57.627] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/cdzmsxtest/servidor_minecraft/config/illageandspillage-common.toml
+[14Dec2024 06:31:57.627] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/cdzmsxtest/servidor_minecraft/config/illageandspillage-common.toml
+[14Dec2024 06:31:57.628] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/cdzmsxtest/servidor_minecraft/config/illageandspillage-common.toml
+[14Dec2024 06:31:59.934] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_zombie_villager] was not realized!
+[14Dec2024 06:31:59.935] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_zombie_villager] was not realized!
+[14Dec2024 06:31:59.935] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:grim_reaper] was not realized!
+[14Dec2024 06:31:59.935] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:male_villager] was not realized!
+[14Dec2024 06:31:59.935] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / mca:female_villager] was not realized!
+[14Dec2024 06:32:00.356] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[14Dec2024 06:32:00.356] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[14Dec2024 06:32:01.110] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.110] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.110] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.110] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.111] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.111] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.111] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.111] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[14Dec2024 06:32:01.112] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.113] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.113] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.113] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.113] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.113] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.114] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.114] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.114] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.114] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.114] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.114] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[14Dec2024 06:32:01.115] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.118] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.118] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[14Dec2024 06:32:01.119] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.119] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[14Dec2024 06:32:01.119] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[14Dec2024 06:32:01.119] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.119] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.119] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.120] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.120] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.121] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.125] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.125] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.126] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.126] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.127] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:32:01.127] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[14Dec2024 06:32:01.728] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[14Dec2024 06:32:01.744] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[14Dec2024 06:32:01.747] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[14Dec2024 06:32:01.774] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[14Dec2024 06:32:01.787] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[14Dec2024 06:32:01.787] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[14Dec2024 06:32:01.787] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[14Dec2024 06:32:01.788] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[14Dec2024 06:32:01.788] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[14Dec2024 06:32:01.788] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[14Dec2024 06:32:01.789] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[14Dec2024 06:32:01.789] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[14Dec2024 06:32:01.790] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[14Dec2024 06:32:01.790] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[14Dec2024 06:32:01.889] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[14Dec2024 06:32:02.041] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[14Dec2024 06:32:02.041] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[14Dec2024 06:32:02.041] [main/INFO] [terrablender/]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
+[14Dec2024 06:32:02.042] [main/INFO] [journeymap/]: Initializing Packet Registries
+[14Dec2024 06:32:02.088] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 2 for type OVERWORLD
+[14Dec2024 06:32:02.088] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 3 for type OVERWORLD
+[14Dec2024 06:32:02.088] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 4 for type OVERWORLD
+[14Dec2024 06:32:02.088] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[14Dec2024 06:32:02.089] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[14Dec2024 06:32:02.154] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 5 for type OVERWORLD
+[14Dec2024 06:32:02.154] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 6 for type OVERWORLD
+[14Dec2024 06:32:02.154] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 7 for type OVERWORLD
+[14Dec2024 06:32:02.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[14Dec2024 06:32:02.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[14Dec2024 06:32:02.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[14Dec2024 06:32:02.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
+[14Dec2024 06:32:02.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
+[14Dec2024 06:32:02.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Dec2024 06:32:02.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[14Dec2024 06:32:02.678] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[14Dec2024 06:32:02.721] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -213,103 +173,143 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[14Dec2024 04:31:32.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
-[14Dec2024 04:31:32.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3.4 Target: 1.3.4+mod
-[14Dec2024 04:31:32.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[14Dec2024 04:31:33.229] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14Dec2024 04:31:33.470] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.470] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.470] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.470] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.471] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.471] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.471] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.473] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.474] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.474] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.475] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.475] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.475] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.475] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.475] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.476] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.476] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.476] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.476] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.476] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.477] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.477] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.478] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.478] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.478] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.478] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.478] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.478] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.480] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.480] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.480] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.480] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.480] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.480] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[14Dec2024 04:31:33.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Starting version check at https://api.modrinth.com/updates/rrls/forge_updates.json
-[14Dec2024 04:31:33.567] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Found status: UP_TO_DATE Current: 4.0.6.1+mc1.20.1-forge Target: null
-[14Dec2024 04:31:33.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[14Dec2024 04:31:33.581] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.581] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.582] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.582] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.582] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.582] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.582] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.583] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.584] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.584] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.584] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.584] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.584] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.585] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.585] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.585] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.585] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.585] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.586] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.586] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.586] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.586] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.586] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.586] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.586] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.588] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.588] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
-[14Dec2024 04:31:33.588] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
-[14Dec2024 04:31:33.725] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cdzmsxtest/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23237!/assets/.mcassetsroot' uses unexpected schema
-[14Dec2024 04:31:33.725] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cdzmsxtest/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23237!/data/.mcassetsroot' uses unexpected schema
-[14Dec2024 04:31:33.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[14Dec2024 04:31:33.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Starting version check at https://api.modrinth.com/updates/3GGOgUqD/forge_updates.json
-[14Dec2024 04:31:33.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Found status: UP_TO_DATE Current: 1.1.3.2 Target: null
-[14Dec2024 04:31:33.969] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Starting version check at https://api.modrinth.com/updates/packet-fixer/forge_updates.json
-[14Dec2024 04:31:34.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Found status: UP_TO_DATE Current: 1.4.2 Target: null
-[14Dec2024 04:31:38.039] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[14Dec2024 04:31:39.153] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:gameplay/terramity_guidebook_loot
+[14Dec2024 06:32:02.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Starting version check at https://api.modrinth.com/updates/EEIwvQVo/forge_updates.json
+[14Dec2024 06:32:02.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tidal_towns] Found status: OUTDATED Current: 1.3.4 Target: 1.3.4+mod
+[14Dec2024 06:32:02.762] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[14Dec2024 06:32:02.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.777] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.778] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.778] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.778] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.779] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.779] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.780] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.780] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.780] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.780] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.780] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.781] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.781] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.781] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.781] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.781] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.782] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.782] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.782] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.782] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.783] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.783] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.783] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.783] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.784] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.784] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.784] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.784] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.784] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.784] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:02.785] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:02.786] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.176] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Dec2024 06:32:03.339] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.339] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.339] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.340] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.340] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.340] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.340] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.340] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.340] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.340] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.341] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.341] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.341] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.341] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.341] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.341] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.342] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.342] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.342] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.342] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.342] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.342] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.342] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.343] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.343] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.343] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.343] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.343] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.343] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.343] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.344] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.344] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.344] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.344] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.344] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.344] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.344] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.345] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.345] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.345] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[14Dec2024 06:32:03.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Starting version check at https://api.modrinth.com/updates/rrls/forge_updates.json
+[14Dec2024 06:32:03.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Found status: UP_TO_DATE Current: 4.0.6.1+mc1.20.1-forge Target: null
+[14Dec2024 06:32:03.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[14Dec2024 06:32:03.428] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.429] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.429] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.429] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.429] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.429] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.430] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.430] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.430] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.430] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.430] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.430] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.431] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.431] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.431] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.431] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.431] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.431] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.432] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.432] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.432] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.432] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.432] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.432] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.432] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.433] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.433] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.433] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.433] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.433] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.433] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.434] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.434] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.434] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.434] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.434] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.434] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.434] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.435] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[14Dec2024 06:32:03.435] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[14Dec2024 06:32:03.553] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cdzmsxtest/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23237!/assets/.mcassetsroot' uses unexpected schema
+[14Dec2024 06:32:03.554] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cdzmsxtest/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23237!/data/.mcassetsroot' uses unexpected schema
+[14Dec2024 06:32:03.757] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[14Dec2024 06:32:03.757] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Starting version check at https://api.modrinth.com/updates/3GGOgUqD/forge_updates.json
+[14Dec2024 06:32:03.835] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strayed_fates_forsaken] Found status: UP_TO_DATE Current: 1.1.3.2 Target: null
+[14Dec2024 06:32:03.835] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Starting version check at https://api.modrinth.com/updates/packet-fixer/forge_updates.json
+[14Dec2024 06:32:03.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [packetfixer] Found status: UP_TO_DATE Current: 1.4.2 Target: null
+[14Dec2024 06:32:07.283] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[14Dec2024 06:32:08.120] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:gameplay/terramity_guidebook_loot
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23237!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -361,18 +361,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[14Dec2024 04:31:39.678] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/villager}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[14Dec2024 04:31:39.700] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[14Dec2024 04:31:39.712] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe terramity:terramity_guidebook_recipe: com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
-[14Dec2024 04:31:39.740] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[14Dec2024 04:31:39.746] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[14Dec2024 04:31:39.754] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[14Dec2024 04:31:39.779] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[14Dec2024 04:31:39.781] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[14Dec2024 04:31:39.785] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[14Dec2024 04:31:39.789] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[14Dec2024 04:31:39.793] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[14Dec2024 04:31:39.794] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[14Dec2024 06:32:08.503] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/villager}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Dec2024 06:32:08.515] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[14Dec2024 06:32:08.523] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe terramity:terramity_guidebook_recipe: com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+[14Dec2024 06:32:08.544] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[14Dec2024 06:32:08.551] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[14Dec2024 06:32:08.560] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[14Dec2024 06:32:08.589] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[14Dec2024 06:32:08.591] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[14Dec2024 06:32:08.592] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[14Dec2024 06:32:08.597] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[14Dec2024 06:32:08.600] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[14Dec2024 06:32:08.600] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -388,45 +388,143 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23237!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[14Dec2024 04:31:40.006] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:ocarina_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@3c186fe, rewards=AdvancementRewards{experience=60, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@68da9bd6}, criteria={ocarina_advancement_0=net.minecraft.advancements.Criterion@10f13284}, requirements=[[ocarina_advancement_0]], sends_telemetry_event=false}
-[14Dec2024 04:31:40.006] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:fairy_advancement: Task Advancement{parentId=terramity:deleted_mod_element, display=net.minecraft.advancements.DisplayInfo@79747166, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@68da9bd6}, criteria={fairy_advancement_0=net.minecraft.advancements.Criterion@600819de}, requirements=[[fairy_advancement_0]], sends_telemetry_event=false}
-[14Dec2024 04:31:40.007] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:frenzied_flame_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@601af90, rewards=AdvancementRewards{experience=100, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@68da9bd6}, criteria={frenzied_flame_advancement_0=net.minecraft.advancements.Criterion@26678067}, requirements=[[frenzied_flame_advancement_0]], sends_telemetry_event=false}
-[14Dec2024 04:31:40.007] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:microcosm_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@5f1d5bf2, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@68da9bd6}, criteria={microcosm_advancement_0=net.minecraft.advancements.Criterion@45e39cce}, requirements=[[microcosm_advancement_0]], sends_telemetry_event=false}
-[14Dec2024 04:31:40.007] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:opaline_moonstone_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@473b9ee3, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@68da9bd6}, criteria={opaline_moonstone_advancement_0=net.minecraft.advancements.Criterion@1e677f26}, requirements=[[opaline_moonstone_advancement_0]], sends_telemetry_event=false}
-[14Dec2024 04:31:40.007] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:prismatic_jewel_advancement: Task Advancement{parentId=terramity:fairy_advancement, display=net.minecraft.advancements.DisplayInfo@46c25499, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@68da9bd6}, criteria={prismatic_jewel_advancement_0=net.minecraft.advancements.Criterion@63799d28}, requirements=[[prismatic_jewel_advancement_0]], sends_telemetry_event=false}
-[14Dec2024 04:31:40.007] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:angel_feather_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@153c2891, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@68da9bd6}, criteria={angel_feather_advancement_0=net.minecraft.advancements.Criterion@3a8377c3}, requirements=[[angel_feather_advancement_0]], sends_telemetry_event=false}
-[14Dec2024 04:31:40.007] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3383 advancements
-[14Dec2024 04:31:40.022] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[14Dec2024 04:31:40.033] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[14Dec2024 04:31:40.039] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[14Dec2024 04:31:40.187] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forsaken:has_structures/wells/pit/cobble
-[14Dec2024 04:31:40.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[14Dec2024 04:31:40.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[14Dec2024 04:31:40.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[14Dec2024 04:31:40.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[14Dec2024 04:31:40.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[14Dec2024 04:31:40.667] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[14Dec2024 04:31:40.753] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14Dec2024 04:31:40.754] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[14Dec2024 04:31:40.754] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14Dec2024 04:31:40.755] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[14Dec2024 04:31:40.774] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[14Dec2024 04:31:41.229] [Server thread/INFO] [Framework/]: Loading server configs...
-[14Dec2024 04:31:41.286] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[14Dec2024 04:31:41.372] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[14Dec2024 04:31:42.509] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[14Dec2024 04:31:42.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "ApocalipsisYegre"
-[14Dec2024 04:31:43.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[14Dec2024 04:31:45.847] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 04:31:45.849] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 04:31:45.851] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 04:31:45.851] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 04:31:45.852] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 04:31:45.852] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 04:31:46.078] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 04:31:46.695] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3618 ms
-[14Dec2024 04:31:46.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.924s)! For help, type "help"
-[14Dec2024 04:31:46.750] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[14Dec2024 04:31:46.823] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[14Dec2024 04:31:46.824] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[14Dec2024 04:31:46.832] [Server thread/WARN] [ModernFix/]: Dedicated server took 41.603 seconds to load
+[14Dec2024 06:32:08.768] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:ocarina_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@7bdb1918, rewards=AdvancementRewards{experience=60, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@79747166}, criteria={ocarina_advancement_0=net.minecraft.advancements.Criterion@600819de}, requirements=[[ocarina_advancement_0]], sends_telemetry_event=false}
+[14Dec2024 06:32:08.768] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:fairy_advancement: Task Advancement{parentId=terramity:deleted_mod_element, display=net.minecraft.advancements.DisplayInfo@601af90, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@79747166}, criteria={fairy_advancement_0=net.minecraft.advancements.Criterion@26678067}, requirements=[[fairy_advancement_0]], sends_telemetry_event=false}
+[14Dec2024 06:32:08.768] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:frenzied_flame_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@5f1d5bf2, rewards=AdvancementRewards{experience=100, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@79747166}, criteria={frenzied_flame_advancement_0=net.minecraft.advancements.Criterion@45e39cce}, requirements=[[frenzied_flame_advancement_0]], sends_telemetry_event=false}
+[14Dec2024 06:32:08.768] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:microcosm_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@473b9ee3, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@79747166}, criteria={microcosm_advancement_0=net.minecraft.advancements.Criterion@1e677f26}, requirements=[[microcosm_advancement_0]], sends_telemetry_event=false}
+[14Dec2024 06:32:08.768] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:opaline_moonstone_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@46c25499, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@79747166}, criteria={opaline_moonstone_advancement_0=net.minecraft.advancements.Criterion@63799d28}, requirements=[[opaline_moonstone_advancement_0]], sends_telemetry_event=false}
+[14Dec2024 06:32:08.769] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:prismatic_jewel_advancement: Task Advancement{parentId=terramity:fairy_advancement, display=net.minecraft.advancements.DisplayInfo@153c2891, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@79747166}, criteria={prismatic_jewel_advancement_0=net.minecraft.advancements.Criterion@3a8377c3}, requirements=[[prismatic_jewel_advancement_0]], sends_telemetry_event=false}
+[14Dec2024 06:32:08.769] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:angel_feather_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@698745b8, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@79747166}, criteria={angel_feather_advancement_0=net.minecraft.advancements.Criterion@481b1a24}, requirements=[[angel_feather_advancement_0]], sends_telemetry_event=false}
+[14Dec2024 06:32:08.769] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3383 advancements
+[14Dec2024 06:32:08.780] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[14Dec2024 06:32:08.794] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[14Dec2024 06:32:08.801] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[14Dec2024 06:32:08.865] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forsaken:has_structures/wells/pit/cobble
+[14Dec2024 06:32:09.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[14Dec2024 06:32:09.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Dec2024 06:32:09.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Dec2024 06:32:09.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Dec2024 06:32:09.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Dec2024 06:32:09.216] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[14Dec2024 06:32:09.307] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14Dec2024 06:32:09.308] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[14Dec2024 06:32:09.308] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14Dec2024 06:32:09.308] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[14Dec2024 06:32:09.322] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[14Dec2024 06:32:09.919] [Server thread/INFO] [Framework/]: Loading server configs...
+[14Dec2024 06:32:10.026] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[14Dec2024 06:32:10.894] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[14Dec2024 06:32:10.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "ApocalipsisYegre"
+[14Dec2024 06:32:11.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Dec2024 06:32:13.517] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 06:32:13.518] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 06:32:13.519] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 06:32:13.519] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 06:32:13.520] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 06:32:13.846] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 06:32:14.127] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2782 ms
+[14Dec2024 06:32:14.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.807s)! For help, type "help"
+[14Dec2024 06:32:14.179] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Dec2024 06:32:14.235] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[14Dec2024 06:32:14.236] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[14Dec2024 06:32:14.241] [Server thread/WARN] [ModernFix/]: Dedicated server took 32.63 seconds to load
+[14Dec2024 06:33:09.756] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[14Dec2024 06:33:09.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IglesiasCris[/127.227.44.247:53785] logged in with entity id 74 at (2031.2558719934143, 69.0, 1578.5993691843264)
+[14Dec2024 06:33:09.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris joined the game
+[14Dec2024 06:33:10.800] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.800] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.801] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.801] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.801] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.802] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.802] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.802] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[14Dec2024 06:33:10.803] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.803] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.803] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.804] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.804] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.804] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.805] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.805] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.805] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.805] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.806] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.806] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[14Dec2024 06:33:10.806] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.807] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.807] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[14Dec2024 06:33:10.807] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.808] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[14Dec2024 06:33:10.808] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[14Dec2024 06:33:10.808] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.809] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.809] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.809] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.810] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.810] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.810] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.811] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.811] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.811] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:10.811] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[14Dec2024 06:33:14.280] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d3b6bb6[id=<null>,name=nuitfleur,properties={},legacy=false] (/127.182.2.2:36329) lost connection: Disconnected
+[14Dec2024 06:34:03.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:43625] logged in with entity id 1036 at (2031.6203656115454, 69.0, 1580.1965104137837)
+[14Dec2024 06:34:03.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[14Dec2024 06:34:58.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris has made the advancement [Mine? Mine? Mine?]
+[14Dec2024 06:35:54.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Dec2024 06:35:54.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ghf<--[HERE]
+[14Dec2024 06:37:35.061] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'jodek:utility' in progress file ./ApocalipsisYegre/advancements/2d663374-634e-323b-b128-59b7e9ba0518.json - it doesn't exist anymore?
+[14Dec2024 06:37:35.062] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'jodek:sleep' in progress file ./ApocalipsisYegre/advancements/2d663374-634e-323b-b128-59b7e9ba0518.json - it doesn't exist anymore?
+[14Dec2024 06:37:35.063] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'jodek:root' in progress file ./ApocalipsisYegre/advancements/2d663374-634e-323b-b128-59b7e9ba0518.json - it doesn't exist anymore?
+[14Dec2024 06:37:35.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nuitfleur[/127.182.2.2:58411] logged in with entity id 2200 at (3219.238176181941, 66.0, -110.84381528156628)
+[14Dec2024 06:37:35.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur joined the game
+[14Dec2024 06:37:47.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12033ms or 240 ticks behind
+[14Dec2024 06:38:06.966] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:06.972] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:06.973] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:06.973] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:07.018] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:08.154] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:08.154] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:08.155] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:08.425] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:08.425] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:08.426] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Barbatos22 a server operator
+[14Dec2024 06:38:34.683] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:34.683] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:34.684] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:34.684] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:40.894] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:40.897] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:40.900] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:40.902] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:40.948] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:58.303] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:58.305] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:58.305] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:58.306] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:58.378] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:58.380] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:58.380] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:58.381] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:38:58.381] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[14Dec2024 06:39:56.129] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=282, y=-2, z=347}
+[14Dec2024 06:39:56.131] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:iron_axe"}
+[14Dec2024 06:39:56.154] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=286, y=6, z=319}
+[14Dec2024 06:39:56.156] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=286, y=7, z=319}
+[14Dec2024 06:39:56.242] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=287, y=-3, z=315}
+[14Dec2024 06:39:56.243] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=287, y=-2, z=315}
+[14Dec2024 06:39:56.608] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Dec2024 06:39:58.900] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=-8, z=294}
+[14Dec2024 06:39:58.901] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=-8, z=295}
+[14Dec2024 06:39:58.901] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=-8, z=296}
+[14Dec2024 06:39:58.903] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=304, y=-10, z=296}
+[14Dec2024 06:39:58.903] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=305, y=-10, z=296}
+[14Dec2024 06:39:58.904] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=306, y=-10, z=296}
+[14Dec2024 06:39:58.904] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=306, y=-11, z=294}
+[14Dec2024 06:39:58.904] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=306, y=-11, z=293}
+[14Dec2024 06:39:58.905] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=306, y=-11, z=292}
+[14Dec2024 06:40:02.407] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=307, y=-11, z=295}
+[14Dec2024 06:40:02.409] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=307, y=-11, z=291}
