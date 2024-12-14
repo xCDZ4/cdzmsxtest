@@ -288,6 +288,7 @@
       "biomeswevegone:prairie": "2024-12-12 03:56:56 +0000",
       "biomeswevegone:ebony_woods": "2024-12-12 20:52:37 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-09 23:25:52 +0000",
+      "biomeswevegone:dacite_shore": "2024-12-14 07:06:08 +0000",
       "biomeswevegone:skyrise_vale": "2024-12-10 17:25:00 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-12 22:32:34 +0000",
       "biomeswevegone:pumpkin_valley": "2024-12-10 18:07:49 +0000",
@@ -1947,6 +1948,7 @@
       "cooked_mutton": "2024-12-11 22:42:27 +0000",
       "cooked_beef": "2024-12-10 00:23:27 +0000",
       "beef": "2024-12-12 20:04:51 +0000",
+      "baked_potato": "2024-12-14 07:27:54 +0000",
       "apple": "2024-12-09 23:32:30 +0000",
       "potato": "2024-12-12 20:02:05 +0000",
       "bread": "2024-12-10 03:11:11 +0000",
@@ -4886,9 +4888,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 07:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-14 06:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-14 07:39:27 +0000"
     },
     "done": true
   },

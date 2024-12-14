@@ -579,3 +579,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:00:09.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Disconnected
 [14Dec2024 07:00:09.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
 [14Dec2024 07:00:30.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> t
+[14Dec2024 07:08:04.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was incinerated by Fire Dragon
+[14Dec2024 07:08:10.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was slain by Fire Dragon
+[14Dec2024 07:10:11.624] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:48899] logged in with entity id 21466 at (2000.621146209352, 65.0, 1574.699999988079)
+[14Dec2024 07:10:11.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[14Dec2024 07:10:28.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Simonas'/20876, l='ServerLevel[ApocalipsisYegre]', x=1984.71, y=61.24, z=1128.40] died, message: 'Simonas drowned'
+[14Dec2024 07:10:28.765] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Simonas'/20876, l='ServerLevel[ApocalipsisYegre]', x=1984.71, y=61.24, z=1128.40] died: Simonas drowned
+[14Dec2024 07:10:36.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris has completed the challenge [Free Willy]
+[14Dec2024 07:10:36.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was turned into KFC by Fire Dragon
+[14Dec2024 07:10:43.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was turned into KFC by Fire Dragon
+[14Dec2024 07:11:29.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was turned into KFC by Fire Dragon
+[14Dec2024 07:11:34.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was incinerated by Fire Dragon
+[14Dec2024 07:12:09.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 was turned into KFC by Fire Dragon
+[14Dec2024 07:12:29.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was turned into KFC by Fire Dragon
+[14Dec2024 07:12:54.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was slain by Fire Dragon
+[14Dec2024 07:13:23.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 was turned into KFC by Fire Dragon
+[14Dec2024 07:13:34.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was incinerated by Fire Dragon
+[14Dec2024 07:13:53.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was slain by Fire Dragon
+[14Dec2024 07:15:25.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 was slain by Fire Dragon
+[14Dec2024 07:15:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was incinerated by Fire Dragon
+[14Dec2024 07:15:46.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 was incinerated by Fire Dragon
+[14Dec2024 07:15:50.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was turned into KFC by Fire Dragon
+[14Dec2024 07:16:05.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was incinerated by Fire Dragon
+[14Dec2024 07:16:10.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 was turned into KFC by Fire Dragon
+[14Dec2024 07:16:21.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 was slain by Fire Dragon
+[14Dec2024 07:16:30.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was turned into KFC by Fire Dragon
+[14Dec2024 07:17:25.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was slain by Unlicensed Alchemist
+[14Dec2024 07:19:12.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> zzz
+[14Dec2024 07:19:24.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> zzz
+[14Dec2024 07:25:50.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/32242, l='ServerLevel[ApocalipsisYegre]', x=1992.92, y=45.00, z=1125.67] died: Drunken Villager was slain by IglesiasCris
+[14Dec2024 07:25:52.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was slain by Drunken Villager
+[14Dec2024 07:31:48.157] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/35547, l='ServerLevel[ApocalipsisYegre]', x=1992.94, y=45.00, z=1130.85] died: Drunken Villager hit the ground too hard
+[14Dec2024 07:33:55.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/35545, l='ServerLevel[ApocalipsisYegre]', x=1993.53, y=45.00, z=1130.72] died: Drunken Villager fell from a high place
+[14Dec2024 07:35:11.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was slain by Drunken Villager
+[14Dec2024 07:35:43.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/38294, l='ServerLevel[ApocalipsisYegre]', x=1993.53, y=45.00, z=1130.72] died: Drunken Villager fell from a high place
+[14Dec2024 07:36:21.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported IglesiasCris to luis]
