@@ -614,3 +614,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:35:11.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was slain by Drunken Villager
 [14Dec2024 07:35:43.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/38294, l='ServerLevel[ApocalipsisYegre]', x=1993.53, y=45.00, z=1130.72] died: Drunken Villager fell from a high place
 [14Dec2024 07:36:21.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported IglesiasCris to luis]
+[14Dec2024 08:00:23.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris has made the advancement [Fishy Business]
+[14Dec2024 08:18:51.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported IglesiasCris to luis]

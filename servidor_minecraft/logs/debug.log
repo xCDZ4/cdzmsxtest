@@ -7617,3 +7617,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:37:26.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
 [14Dec2024 07:42:26.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
 [14Dec2024 07:42:26.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[14Dec2024 07:43:58.154] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[14Dec2024 07:47:26.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[14Dec2024 07:47:26.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[14Dec2024 07:52:26.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[14Dec2024 07:52:26.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[14Dec2024 07:57:26.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[14Dec2024 07:57:26.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[14Dec2024 08:00:23.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris has made the advancement [Fishy Business]
+[14Dec2024 08:01:45.159] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[14Dec2024 08:01:58.153] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[14Dec2024 08:02:26.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[14Dec2024 08:02:26.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[14Dec2024 08:06:21.151] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[14Dec2024 08:06:29.153] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[14Dec2024 08:07:26.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[14Dec2024 08:07:26.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[14Dec2024 08:09:38.145] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[14Dec2024 08:09:45.154] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[14Dec2024 08:11:27.157] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[14Dec2024 08:12:26.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[14Dec2024 08:12:26.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[14Dec2024 08:14:12.145] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[14Dec2024 08:17:26.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[14Dec2024 08:17:26.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[14Dec2024 08:18:25.299] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['IglesiasCris'/74, l='ServerLevel[ApocalipsisYegre]', x=1932.66, y=17.00, z=1665.65]]
+[14Dec2024 08:18:47.147] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['IglesiasCris'/74, l='ServerLevel[ApocalipsisYegre]', x=1933.42, y=39.68, z=1684.37]]
+[14Dec2024 08:18:51.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported IglesiasCris to luis]
+[14Dec2024 08:22:26.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[14Dec2024 08:22:26.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
