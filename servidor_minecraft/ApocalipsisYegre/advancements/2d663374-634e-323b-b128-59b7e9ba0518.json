@@ -41,12 +41,6 @@
     },
     "done": true
   },
-  "jodek:utility": {
-    "criteria": {
-      "tick": "2024-12-09 22:34:01 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-09 22:34:01 +0000"
@@ -146,12 +140,6 @@
   "storagedrawers:recipes/storagedrawers/keyring": {
     "criteria": {
       "has_template": "2024-12-09 22:34:01 +0000"
-    },
-    "done": true
-  },
-  "jodek:sleep": {
-    "criteria": {
-      "tick": "2024-12-09 22:34:01 +0000"
     },
     "done": true
   },
@@ -257,12 +245,6 @@
     },
     "done": true
   },
-  "jodek:root": {
-    "criteria": {
-      "tick": "2024-12-09 22:34:01 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
     "criteria": {
       "has_template": "2024-12-09 22:34:01 +0000"
@@ -301,7 +283,9 @@
       "biomeswevegone:basalt_barrera": "2024-12-10 03:39:25 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2024-12-10 04:24:48 +0000",
       "biomeswevegone:dacite_shore": "2024-12-10 04:23:37 +0000",
-      "biomeswevegone:skyrise_vale": "2024-12-10 04:23:54 +0000"
+      "biomeswevegone:skyrise_vale": "2024-12-10 04:23:54 +0000",
+      "biomeswevegone:allium_shrubland": "2024-12-14 06:44:38 +0000",
+      "biomeswevegone:coniferous_forest": "2024-12-14 06:40:28 +0000"
     },
     "done": false
   },
@@ -638,7 +622,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "snowy_coniferous_forest": "2024-12-10 04:24:49 +0000",
-      "rainforest": "2024-12-10 03:15:06 +0000"
+      "snowy_fir_clearing": "2024-12-14 06:39:54 +0000",
+      "rainforest": "2024-12-10 03:15:06 +0000",
+      "snowy_maple_woods": "2024-12-14 06:39:55 +0000"
     },
     "done": false
   },
@@ -1005,6 +991,7 @@
       "minecraft:dark_forest": "2024-12-10 04:00:07 +0000",
       "minecraft:river": "2024-12-10 03:41:47 +0000",
       "minecraft:cold_ocean": "2024-12-10 04:22:56 +0000",
+      "minecraft:forest": "2024-12-14 06:42:07 +0000",
       "minecraft:lush_caves": "2024-12-10 03:45:36 +0000",
       "minecraft:deep_cold_ocean": "2024-12-10 04:02:04 +0000",
       "minecraft:ocean": "2024-12-10 04:00:42 +0000"
@@ -1037,6 +1024,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-14 06:48:39 +0000",
       "bread": "2024-12-10 03:43:33 +0000"
     },
     "done": false
@@ -1488,6 +1476,36 @@
   "biomeswevegone:recipes/transportation/holly_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-10 03:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-14 06:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-14 06:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 06:42:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-14 06:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-14 06:42:03 +0000"
     },
     "done": true
   },
