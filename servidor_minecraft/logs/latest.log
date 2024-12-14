@@ -616,3 +616,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Dec2024 07:36:21.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported IglesiasCris to luis]
 [14Dec2024 08:00:23.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris has made the advancement [Fishy Business]
 [14Dec2024 08:18:51.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported IglesiasCris to luis]
+[14Dec2024 08:42:34.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis drowned
