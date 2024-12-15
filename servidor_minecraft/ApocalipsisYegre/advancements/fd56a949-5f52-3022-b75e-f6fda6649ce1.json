@@ -280,6 +280,7 @@
       "biomeswevegone:crag_gardens": "2024-12-13 05:21:26 +0000",
       "biomeswevegone:temperate_grove": "2024-12-13 05:29:41 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-13 05:50:09 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2024-12-15 09:30:44 +0000",
       "biomeswevegone:dacite_shore": "2024-12-14 07:06:17 +0000",
       "biomeswevegone:skyrise_vale": "2024-12-13 17:05:00 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-13 17:14:42 +0000",
@@ -333,6 +334,7 @@
       "cooked_cod": "2024-12-14 08:46:13 +0000",
       "pumpkin_pie": "2024-12-13 17:25:25 +0000",
       "bread": "2024-12-13 05:41:19 +0000",
+      "salmon": "2024-12-15 09:33:47 +0000",
       "melon_slice": "2024-12-13 05:30:13 +0000"
     },
     "done": false
@@ -627,6 +629,8 @@
       "minecraft:beach": "2024-12-13 05:50:13 +0000",
       "minecraft:sparse_jungle": "2024-12-13 05:28:42 +0000",
       "minecraft:river": "2024-12-13 05:49:30 +0000",
+      "minecraft:snowy_plains": "2024-12-15 09:29:56 +0000",
+      "minecraft:snowy_taiga": "2024-12-15 09:32:44 +0000",
       "minecraft:cold_ocean": "2024-12-13 16:58:58 +0000",
       "minecraft:forest": "2024-12-13 17:03:35 +0000",
       "minecraft:ocean": "2024-12-13 17:13:09 +0000",
@@ -1365,6 +1369,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2024-12-15 08:05:03 +0000",
+      "snowblossom_grove": "2024-12-15 09:21:04 +0000",
       "highland": "2024-12-15 07:53:57 +0000",
       "clover_patch": "2024-12-13 05:41:49 +0000",
       "maple_woods": "2024-12-13 06:05:47 +0000",
@@ -1375,7 +1380,8 @@
       "dead_forest": "2024-12-15 09:07:39 +0000",
       "fir_clearing": "2024-12-15 07:50:35 +0000",
       "pumpkin_patch": "2024-12-15 08:06:05 +0000",
-      "snowy_coniferous_forest": "2024-12-15 07:57:31 +0000"
+      "snowy_coniferous_forest": "2024-12-15 07:57:31 +0000",
+      "snowy_maple_woods": "2024-12-15 09:21:00 +0000"
     },
     "done": false
   },
@@ -2709,6 +2715,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "spruce_house_medium_1": "2024-12-15 09:34:01 +0000",
       "birch_beehive_1": "2024-12-15 06:59:58 +0000",
       "oak_hut_1": "2024-12-14 06:49:45 +0000",
       "spruce_house_small_3": "2024-12-15 09:15:57 +0000"
@@ -4575,6 +4582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-15 09:21:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-15 08:06:38 +0000"
@@ -4608,6 +4621,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
     "criteria": {
       "has_oak_planks": "2024-12-15 07:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-15 09:19:09 +0000"
     },
     "done": true
   },
@@ -4686,6 +4705,12 @@
   "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2024-12-15 09:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-15 09:19:09 +0000"
     },
     "done": true
   },
@@ -4947,6 +4972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-15 09:21:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2024-12-15 09:05:46 +0000"
@@ -5028,6 +5059,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
     "criteria": {
       "has_planks": "2024-12-15 07:24:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-15 09:22:42 +0000"
     },
     "done": true
   },

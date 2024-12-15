@@ -1611,6 +1611,7 @@
       "minecraft:sparse_jungle": "2024-12-12 04:34:33 +0000",
       "minecraft:lukewarm_ocean": "2024-12-09 23:07:51 +0000",
       "minecraft:river": "2024-12-09 23:45:42 +0000",
+      "minecraft:snowy_plains": "2024-12-15 09:29:20 +0000",
       "minecraft:snowy_taiga": "2024-12-12 00:02:58 +0000",
       "minecraft:cold_ocean": "2024-12-10 04:00:30 +0000",
       "minecraft:forest": "2024-12-10 17:24:57 +0000",
@@ -1962,6 +1963,7 @@
       "glow_berries": "2024-12-10 00:09:27 +0000",
       "salmon": "2024-12-10 17:59:41 +0000",
       "melon_slice": "2024-12-10 02:23:43 +0000",
+      "cooked_rabbit": "2024-12-15 09:32:25 +0000",
       "cooked_chicken": "2024-12-10 03:00:20 +0000",
       "mushroom_stew": "2024-12-09 23:43:27 +0000",
       "cod": "2024-12-12 05:40:59 +0000",
@@ -2033,6 +2035,7 @@
     "criteria": {
       "muskeg": "2024-12-15 07:55:40 +0000",
       "shrubland": "2024-12-12 01:16:52 +0000",
+      "snowblossom_grove": "2024-12-15 09:21:00 +0000",
       "highland": "2024-12-10 18:14:42 +0000",
       "clover_patch": "2024-12-09 23:23:38 +0000",
       "cold_desert": "2024-12-12 00:03:02 +0000",
@@ -6198,6 +6201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-15 09:21:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-15 08:10:31 +0000"
@@ -6243,6 +6252,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 06:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-15 09:28:03 +0000"
     },
     "done": true
   },
@@ -6351,6 +6366,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_mangrove_planks": "2024-12-15 08:13:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-12-15 09:23:59 +0000"
     },
     "done": true
   },
@@ -6774,6 +6795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-15 09:28:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 09:14:40 +0000"
@@ -6951,6 +6978,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 06:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-15 09:28:03 +0000"
     },
     "done": true
   },
@@ -7272,6 +7305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-15 09:23:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 06:50:51 +0000"
@@ -7281,6 +7320,12 @@
   "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2024-12-15 08:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-15 09:23:59 +0000"
     },
     "done": true
   },
@@ -7311,6 +7356,12 @@
   "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2024-12-15 08:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-15 09:21:02 +0000"
     },
     "done": true
   },

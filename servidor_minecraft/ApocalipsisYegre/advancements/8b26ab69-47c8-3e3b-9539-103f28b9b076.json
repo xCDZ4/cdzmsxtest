@@ -6509,6 +6509,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_toilet": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/mossy_stone_stairs": {
     "criteria": {
       "has_mossy_stone": "2024-12-15 08:32:38 +0000"
@@ -6521,15 +6533,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/lapis_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/smooth_white_sandstone": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/stone_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
     },
     "done": true
   },
@@ -6542,6 +6590,12 @@
   "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
     },
     "done": true
   },
@@ -6563,15 +6617,63 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_sandstone_wall_from_white_sandstone_stonecutting": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_white_sandstone_from_white_sandstone_stonecutting": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_sandstone_slab_from_white_sandstone_stonecutting": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_white_sandstone_stairs_from_white_sandstone_stonecutting": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-15 08:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
     },
     "done": true
   },
@@ -6605,9 +6707,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/cobblestone_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_sandstone_slab": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
     },
     "done": true
   },
@@ -6617,9 +6731,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
     },
     "done": true
   },
@@ -6629,9 +6767,69 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/white_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_wall_from_mossy_stone_stonecutting": {
     "criteria": {
       "has_mossy_stone": "2024-12-15 08:32:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
     },
     "done": true
   },
@@ -6641,15 +6839,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/white_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_stairs_from_mossy_stone_stonecutting": {
     "criteria": {
       "has_mossy_stone": "2024-12-15 08:32:38 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/white_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cut_white_sandstone": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/redstone_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
     },
     "done": true
   },
@@ -6665,9 +6893,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_bath": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/gravel_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_white_sandstone_slab_from_white_sandstone_stonecutting": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
     },
     "done": true
   },
@@ -6683,9 +6953,57 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/smoker_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_sandstone_stairs": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_sandstone": {
+    "criteria": {
+      "has_white_sand": "2024-12-15 09:30:38 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_stained_glass_from_white_sand": {
+    "criteria": {
+      "has_white_sand": "2024-12-15 09:30:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
     },
     "done": true
   },
@@ -6707,6 +7025,36 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_sandstone_stairs_from_white_sandstone_stonecutting": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/white_sandstone_wall": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/netherrack_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
@@ -6725,9 +7073,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/white_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/end_stone_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_basin": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
     },
     "done": true
   },
@@ -6737,9 +7097,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_white_sandstone_from_white_sandstone_stonecutting": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_white_sandstone_slab_from_white_sandstone_stonecutting": {
+    "criteria": {
+      "has_white_sandstone": "2024-12-15 09:31:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/dirt_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-15 09:30:05 +0000"
     },
     "done": true
   },
@@ -6749,15 +7133,87 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/nether_gold_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/white_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_toilet": {
+    "criteria": {
+      "has_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/diamond_mine": {
     "criteria": {
       "has_mine": "2024-12-15 08:36:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-12-15 09:30:05 +0000"
     },
     "done": true
   },

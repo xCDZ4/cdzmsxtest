@@ -289,6 +289,7 @@
       "biomeswevegone:ebony_woods": "2024-12-12 21:12:19 +0000",
       "biomeswevegone:basalt_barrera": "2024-12-10 03:22:26 +0000",
       "biomeswevegone:dacite_ridges": "2024-12-11 22:20:34 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2024-12-15 09:30:58 +0000",
       "biomeswevegone:dacite_shore": "2024-12-12 21:20:03 +0000",
       "biomeswevegone:skyrise_vale": "2024-12-11 23:13:34 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-13 16:51:57 +0000",
@@ -1063,6 +1064,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-12 21:18:34 +0000",
       "minecraft:taiga": "2024-12-11 21:13:02 +0000",
       "minecraft:deep_ocean": "2024-12-10 02:02:34 +0000",
+      "minecraft:frozen_river": "2024-12-15 09:30:00 +0000",
       "minecraft:birch_forest": "2024-12-10 02:41:14 +0000",
       "minecraft:bamboo_jungle": "2024-12-12 03:59:34 +0000",
       "minecraft:beach": "2024-12-10 00:04:00 +0000",
@@ -1070,12 +1072,14 @@
       "minecraft:sparse_jungle": "2024-12-12 01:46:06 +0000",
       "minecraft:lukewarm_ocean": "2024-12-09 23:29:52 +0000",
       "minecraft:river": "2024-12-09 23:43:59 +0000",
+      "minecraft:snowy_taiga": "2024-12-15 09:28:08 +0000",
       "minecraft:cold_ocean": "2024-12-11 23:11:36 +0000",
       "minecraft:forest": "2024-12-11 23:12:19 +0000",
       "minecraft:lush_caves": "2024-12-10 00:10:54 +0000",
       "minecraft:deep_cold_ocean": "2024-12-12 21:21:08 +0000",
       "minecraft:ocean": "2024-12-09 23:30:34 +0000",
       "minecraft:jungle": "2024-12-10 00:03:44 +0000",
+      "minecraft:snowy_beach": "2024-12-15 09:30:41 +0000",
       "minecraft:windswept_savanna": "2024-12-13 15:23:22 +0000",
       "minecraft:warm_ocean": "2024-12-12 01:26:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-12 01:23:46 +0000",
@@ -1093,7 +1097,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-15 09:28:12 +0000",
       "shrubland": "2024-12-12 01:17:07 +0000",
+      "snowblossom_grove": "2024-12-15 09:28:15 +0000",
       "fungal_jungle": "2024-12-10 03:15:53 +0000",
       "erupting_inferno": "2024-12-13 05:09:32 +0000",
       "highland": "2024-12-10 03:12:45 +0000",
@@ -1113,7 +1119,8 @@
       "snowy_coniferous_forest": "2024-12-13 17:56:37 +0000",
       "glowing_grotto": "2024-12-10 03:13:28 +0000",
       "origin_valley": "2024-12-10 03:50:07 +0000",
-      "rainforest": "2024-12-10 01:42:57 +0000"
+      "rainforest": "2024-12-10 01:42:57 +0000",
+      "snowy_maple_woods": "2024-12-15 09:23:59 +0000"
     },
     "done": false
   },
@@ -5596,6 +5603,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2024-12-15 09:29:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-15 07:39:55 +0000"
@@ -5932,6 +5945,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2024-12-15 09:29:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-15 06:48:26 +0000"
@@ -5947,6 +5966,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_basin": {
     "criteria": {
       "has_birch_planks": "2024-12-15 07:52:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2024-12-15 09:29:11 +0000"
     },
     "done": true
   },
@@ -5989,6 +6014,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 07:39:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2024-12-15 09:29:11 +0000"
     },
     "done": true
   },
@@ -6202,9 +6233,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-15 09:23:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_birch_planks": "2024-12-15 07:52:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2024-12-15 09:29:11 +0000"
     },
     "done": true
   },
@@ -6265,6 +6308,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-15 06:48:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_petals": {
+    "criteria": {
+      "has_flower": "2024-12-15 09:28:37 +0000"
     },
     "done": true
   },
