@@ -17203,3 +17203,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Dec2024 09:46:45.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
 [15Dec2024 09:46:45.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
 [15Dec2024 09:47:27.399] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[15Dec2024 09:49:21.399] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[15Dec2024 09:51:45.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[15Dec2024 09:51:45.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[15Dec2024 09:56:45.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[15Dec2024 09:56:45.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
