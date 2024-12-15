@@ -574,3 +574,388 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Dec2024 07:10:22.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IglesiasCris[/127.227.44.247:42217] logged in with entity id 19612 at (2077.2041947106613, 75.0, 1580.3569141908085)
 [15Dec2024 07:10:22.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris joined the game
 [15Dec2024 07:10:23.046] [Server thread/INFO] [Jade/]: Syncing config to IglesiasCris (fd56a949-5f52-3022-b75e-f6fda6649ce1)
+[15Dec2024 07:17:28.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> z
+[15Dec2024 07:17:29.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> zz
+[15Dec2024 07:17:30.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> zz
+[15Dec2024 07:17:31.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> zz
+[15Dec2024 07:17:36.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Sweet Dreams]
+[15Dec2024 07:17:43.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Set the time to 1000]
+[15Dec2024 07:17:58.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Set the weather to clear]
+[15Dec2024 07:20:18.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Set the weather to clear]
+[15Dec2024 07:20:25.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IglesiasCris was kicked for floating too long!
+[15Dec2024 07:20:25.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IglesiasCris lost connection: Flying is not enabled on this server
+[15Dec2024 07:20:25.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris left the game
+[15Dec2024 07:20:42.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IglesiasCris[/127.227.44.247:45003] logged in with entity id 23904 at (2264.856032385404, 146.20530728778544, 1550.1145830975602)
+[15Dec2024 07:20:42.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris joined the game
+[15Dec2024 07:20:42.130] [Server thread/INFO] [Jade/]: Syncing config to IglesiasCris (fd56a949-5f52-3022-b75e-f6fda6649ce1)
+[15Dec2024 07:20:53.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IglesiasCris was kicked for floating too long!
+[15Dec2024 07:20:53.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IglesiasCris lost connection: Flying is not enabled on this server
+[15Dec2024 07:20:53.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris left the game
+[15Dec2024 07:20:59.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IglesiasCris[/127.227.44.247:42159] logged in with entity id 24311 at (2238.0679612702197, 139.69095813961314, 1542.5194780103834)
+[15Dec2024 07:20:59.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris joined the game
+[15Dec2024 07:20:59.181] [Server thread/INFO] [Jade/]: Syncing config to IglesiasCris (fd56a949-5f52-3022-b75e-f6fda6649ce1)
+[15Dec2024 07:21:06.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported IglesiasCris to Xx_Hellraiser]
+[15Dec2024 07:21:12.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported IglesiasCris to Theshuky]
+[15Dec2024 07:21:16.806] [ForkJoinPool.commonPool-worker-15/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:21:16.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:54075] logged in with entity id 24520 at (-2.5, 113.0, 8.5)
+[15Dec2024 07:21:16.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:21:16.910] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:21:17.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 has made the advancement [Ice and Fire]
+[15Dec2024 07:21:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 has made the advancement [Terramity]
+[15Dec2024 07:21:33.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported Barbatos22 to osmani12]
+[15Dec2024 07:21:42.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported Barbatos22 to Xx_Hellraiser]
+[15Dec2024 07:21:58.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported osmani12 to Barbatos22]
+[15Dec2024 07:22:18.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:22:18.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:22:18.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:22:23.357] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:22:23.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:44525] logged in with entity id 25504 at (2123.62177007201, 155.06102711533845, 1580.0035933026395)
+[15Dec2024 07:22:23.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:22:23.434] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:22:28.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:22:28.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:22:28.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:22:36.169] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:22:36.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:54593] logged in with entity id 25719 at (2185.3163593518457, 190.4276066203537, 1570.3492722836552)
+[15Dec2024 07:22:36.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:22:36.291] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:22:41.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:22:41.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:22:41.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:22:46.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> benga
+[15Dec2024 07:22:49.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luis> vengan
+[15Dec2024 07:23:32.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nuitfleur lost connection: Disconnected
+[15Dec2024 07:23:32.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur left the game
+[15Dec2024 07:23:39.834] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:23:39.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:34595] logged in with entity id 26225 at (2144.7014253366433, 153.59044500607095, 1610.5728907983835)
+[15Dec2024 07:23:39.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:23:39.933] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:23:46.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:23:46.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:23:46.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:23:49.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nuitfleur[/127.182.2.2:34443] logged in with entity id 26410 at (2041.9181171135983, 82.99020837751883, 1569.6525527786844)
+[15Dec2024 07:23:49.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur joined the game
+[15Dec2024 07:23:49.373] [Server thread/INFO] [Jade/]: Syncing config to nuitfleur (2d663374-634e-323b-b128-59b7e9ba0518)
+[15Dec2024 07:23:52.069] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:23:52.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:55191] logged in with entity id 26412 at (2081.4120542629566, 176.70758673046853, 1633.0892288527336)
+[15Dec2024 07:23:52.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:23:52.147] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:23:55.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nuitfleur was kicked for floating too long!
+[15Dec2024 07:23:55.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nuitfleur lost connection: Flying is not enabled on this server
+[15Dec2024 07:23:55.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur left the game
+[15Dec2024 07:23:57.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:23:57.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:23:57.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:24:13.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Theshuky was kicked for floating too long!
+[15Dec2024 07:24:13.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Theshuky lost connection: Flying is not enabled on this server
+[15Dec2024 07:24:13.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky left the game
+[15Dec2024 07:24:13.830] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:24:13.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:59471] logged in with entity id 26715 at (2038.2357535192314, 138.6809409721927, 1590.3724390936416)
+[15Dec2024 07:24:13.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:24:13.943] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:24:19.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:24:19.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:24:19.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:24:21.823] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:24:21.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Theshuky[/127.139.61.127:46763] logged in with entity id 26921 at (2042.9011830675197, 124.1243189051909, 1597.492760934687)
+[15Dec2024 07:24:21.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky joined the game
+[15Dec2024 07:24:21.947] [Server thread/INFO] [Jade/]: Syncing config to Theshuky (93e57406-5d19-3009-8a25-94573500d735)
+[15Dec2024 07:24:24.488] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:24:24.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:37629] logged in with entity id 26925 at (2103.929738738064, 162.48233680682483, 1570.9759521519784)
+[15Dec2024 07:24:24.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:24:24.576] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:24:29.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:24:29.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:24:29.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:24:34.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Theshuky was kicked for floating too long!
+[15Dec2024 07:24:34.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Theshuky lost connection: Flying is not enabled on this server
+[15Dec2024 07:24:34.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky left the game
+[15Dec2024 07:24:34.552] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:24:34.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:54777] logged in with entity id 27197 at (2079.2212049541713, 99.47798742618515, 1610.9951935018596)
+[15Dec2024 07:24:34.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:24:34.648] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:24:41.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:24:41.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:24:41.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:24:46.091] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:24:46.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Theshuky[/127.139.61.127:60915] logged in with entity id 27354 at (2052.77751784105, 122.15909885513513, 1606.5717119047345)
+[15Dec2024 07:24:46.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky joined the game
+[15Dec2024 07:24:46.196] [Server thread/INFO] [Jade/]: Syncing config to Theshuky (93e57406-5d19-3009-8a25-94573500d735)
+[15Dec2024 07:24:47.664] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:24:47.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:54877] logged in with entity id 27395 at (2023.6678705563374, 130.75309203770755, 1557.6106825947666)
+[15Dec2024 07:24:47.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:24:47.799] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:24:53.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 07:24:53.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 07:24:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 07:24:55.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:24:55.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:24:55.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:24:55.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Theshuky lost connection: Disconnected
+[15Dec2024 07:24:55.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky left the game
+[15Dec2024 07:24:59.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:39701] logged in with entity id 27458 at (2056.0743593735833, 120.05160914553585, 1594.0404910777374)
+[15Dec2024 07:24:59.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 07:24:59.660] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 07:25:00.621] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:25:00.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:51331] logged in with entity id 27484 at (2014.982418798985, 125.3730720166482, 1569.150992246807)
+[15Dec2024 07:25:00.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:25:00.754] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:25:05.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:25:05.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:25:05.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:25:06.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 07:25:06.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 07:25:06.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 07:25:11.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:34783] logged in with entity id 27633 at (1995.187584874803, 162.06427882107025, 1590.3243716054715)
+[15Dec2024 07:25:11.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 07:25:11.647] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 07:25:11.793] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:25:11.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:60497] logged in with entity id 27657 at (2016.4676266012814, 145.14195449751438, 1613.823920571551)
+[15Dec2024 07:25:11.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:25:11.881] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:25:16.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:25:16.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:25:16.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:25:17.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 07:25:17.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 07:25:17.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 07:25:21.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nuitfleur[/127.182.2.2:55743] logged in with entity id 27780 at (2090.6767146632255, 131.48667207606172, 1603.3887013651772)
+[15Dec2024 07:25:21.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur joined the game
+[15Dec2024 07:25:21.637] [Server thread/INFO] [Jade/]: Syncing config to nuitfleur (2d663374-634e-323b-b128-59b7e9ba0518)
+[15Dec2024 07:25:22.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:60015] logged in with entity id 27872 at (2054.192487288695, 209.79472078653112, 1569.2344513080704)
+[15Dec2024 07:25:22.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 07:25:22.335] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 07:25:27.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 07:25:27.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 07:25:27.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 07:25:31.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:44141] logged in with entity id 27934 at (2036.4014716393178, 197.2578436963684, 1628.748176695337)
+[15Dec2024 07:25:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 07:25:32.008] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 07:25:32.448] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:25:32.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:42915] logged in with entity id 27937 at (2025.2226023206038, 176.9975300522962, 1545.778485267822)
+[15Dec2024 07:25:32.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:25:32.553] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:25:37.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:25:37.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:25:37.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:25:42.087] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:25:42.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:40467] logged in with entity id 28055 at (2037.2482931660036, 160.5396617698532, 1619.4694753562599)
+[15Dec2024 07:25:42.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:25:42.178] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:25:42.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 07:25:42.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 07:25:42.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 07:25:47.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:25:47.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:25:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:25:49.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:48333] logged in with entity id 28106 at (1972.5707797032392, 197.01347450355425, 1647.1317041550333)
+[15Dec2024 07:25:49.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 07:25:49.690] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 07:25:51.594] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:25:51.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:33403] logged in with entity id 28150 at (1985.8578839646252, 96.51734819554932, 1618.2451441323524)
+[15Dec2024 07:25:51.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:25:51.707] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:25:55.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 07:25:55.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 07:25:55.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 07:25:56.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:25:56.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:25:56.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:25:59.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:48755] logged in with entity id 28228 at (1944.436644734984, 128.86166769911307, 1626.150389625266)
+[15Dec2024 07:25:59.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 07:25:59.189] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 07:25:59.676] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:25:59.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Theshuky[/127.139.61.127:32871] logged in with entity id 28256 at (2052.77751784105, 80.30351202401359, 1606.5717119047345)
+[15Dec2024 07:25:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky joined the game
+[15Dec2024 07:25:59.796] [Server thread/INFO] [Jade/]: Syncing config to Theshuky (93e57406-5d19-3009-8a25-94573500d735)
+[15Dec2024 07:26:04.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 07:26:04.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Disconnected
+[15Dec2024 07:26:04.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 07:26:04.525] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 07:26:05.486] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:26:05.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:37445] logged in with entity id 28383 at (2011.143494432831, 126.26009673270657, 1563.0398364882305)
+[15Dec2024 07:26:05.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:26:05.626] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:26:11.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:43987] logged in with entity id 28443 at (1934.4362301703513, 160.89720375083303, 1571.4256547350965)
+[15Dec2024 07:26:11.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 07:26:12.063] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 07:26:12.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:26:12.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:26:12.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:26:17.293] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:26:17.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:52753] logged in with entity id 28522 at (1952.4703719761833, 117.08213253855969, 1613.3371640144387)
+[15Dec2024 07:26:17.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:26:17.417] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:26:26.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 07:26:26.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 07:26:26.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 07:26:30.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:55901] logged in with entity id 28640 at (1999.4860836542557, 177.16685906140887, 1580.837472491163)
+[15Dec2024 07:26:30.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 07:26:30.735] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 07:26:35.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:26:35.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:26:35.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:26:40.034] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:26:40.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:57195] logged in with entity id 28780 at (1947.9414068820881, 112.71513680001611, 1561.4512269156166)
+[15Dec2024 07:26:40.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:26:40.122] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:26:42.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 07:26:42.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 07:26:42.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 07:26:44.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 was kicked for floating too long!
+[15Dec2024 07:26:44.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Flying is not enabled on this server
+[15Dec2024 07:26:44.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:27:11.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:46061] logged in with entity id 28953 at (1980.2972530272534, 211.94226644477882, 1634.0139538544584)
+[15Dec2024 07:27:11.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 07:27:11.928] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 07:27:17.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 07:27:17.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 07:27:17.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 07:27:22.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:53275] logged in with entity id 29014 at (1945.5645807631556, 152.4650403791858, 1662.729678119265)
+[15Dec2024 07:27:22.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 07:27:22.301] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 07:29:51.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky was blown up by Camo Creeper
+[15Dec2024 07:32:15.354] [ForkJoinPool.commonPool-worker-18/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:32:15.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: osmani12[/127.62.49.223:44209] logged in with entity id 30777 at (1961.6438978900524, 125.43835367847424, 1624.890065635059)
+[15Dec2024 07:32:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 joined the game
+[15Dec2024 07:32:15.454] [Server thread/INFO] [Jade/]: Syncing config to osmani12 (d0bf1d5b-fdae-35e8-837e-e9fe43b8043e)
+[15Dec2024 07:35:18.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur has made the advancement [Stone Age]
+[15Dec2024 07:36:10.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 was slain by luis
+[15Dec2024 07:36:22.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported osmani12 to Barbatos22]
+[15Dec2024 07:37:10.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 has made the advancement [Stone Age]
+[15Dec2024 07:38:39.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 has made the advancement [Getting an Upgrade]
+[15Dec2024 07:40:20.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis has made the advancement [Breaking the Ice]
+[15Dec2024 07:40:51.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur has made the advancement [Cool, Cool Cave]
+[15Dec2024 07:42:10.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis has made the advancement [Alex's Mobs]
+[15Dec2024 07:49:42.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris has made the advancement [Who You Gonna Call?]
+[15Dec2024 07:50:17.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has completed the challenge [Free Willy]
+[15Dec2024 07:50:32.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 has made the advancement [Sweet Dreams]
+[15Dec2024 07:50:36.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <osmani12> wsd
+[15Dec2024 07:50:52.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris has made the advancement [Pic-A-Nic Basket?]
+[15Dec2024 07:50:54.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was slain by Grizzly Bear
+[15Dec2024 07:51:40.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky was slain by Zombie
+[15Dec2024 07:51:51.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported Theshuky to Barbatos22]
+[15Dec2024 07:52:03.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> shuky
+[15Dec2024 07:52:06.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> pulsa una cama
+[15Dec2024 07:52:12.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris fell off some vines
+[15Dec2024 07:52:13.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> pa q tengas el spawn
+[15Dec2024 07:52:46.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was shot by Elite Skeleton
+[15Dec2024 07:53:09.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported IglesiasCris to luis]
+[15Dec2024 07:54:28.712] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:54:28.714] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:54:28.715] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:54:28.715] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:54:28.766] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:54:28.767] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:54:28.767] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:54:28.768] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:54:28.768] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:54:59.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: osmani12 lost connection: Disconnected
+[15Dec2024 07:54:59.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: osmani12 left the game
+[15Dec2024 07:56:25.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Monster Hunter]
+[15Dec2024 07:57:07.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was turned into KFC by Fire Dragon
+[15Dec2024 07:57:30.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported IglesiasCris to luis]
+[15Dec2024 07:58:27.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Stone Age]
+[15Dec2024 07:59:02.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Getting an Upgrade]
+[15Dec2024 07:59:51.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Cool, Cool Cave]
+[15Dec2024 08:01:18.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur has made the advancement [Clash of the Titans]
+[15Dec2024 08:04:18.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Theshuky lost connection: Timed out
+[15Dec2024 08:04:18.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky left the game
+[15Dec2024 08:04:40.972] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@603b90c7[id=<null>,name=Theshuky,properties={},legacy=false] (/127.139.61.127:51789) lost connection: Disconnected
+[15Dec2024 08:04:46.257] [ForkJoinPool.commonPool-worker-22/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 08:04:46.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Theshuky[/127.139.61.127:47811] logged in with entity id 54892 at (2080.699999988079, 55.0, 1614.7258640173718)
+[15Dec2024 08:04:46.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky joined the game
+[15Dec2024 08:04:46.411] [Server thread/INFO] [Jade/]: Syncing config to Theshuky (93e57406-5d19-3009-8a25-94573500d735)
+[15Dec2024 08:10:31.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis has made the advancement [Herc was on a Roll!]
+[15Dec2024 08:11:02.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur has made the advancement [Monster Hunter]
+[15Dec2024 08:11:23.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Disconnected
+[15Dec2024 08:11:23.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 08:11:34.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris hit the ground too hard whilst trying to escape Chort
+[15Dec2024 08:12:26.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Theshuky lost connection: Disconnected
+[15Dec2024 08:12:26.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky left the game
+[15Dec2024 08:12:38.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported IglesiasCris to luis]
+[15Dec2024 08:13:43.244] [ForkJoinPool.commonPool-worker-24/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 08:13:43.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Theshuky[/127.139.61.127:42691] logged in with entity id 63423 at (2080.429881083207, 55.0, 1618.699999988079)
+[15Dec2024 08:13:43.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky joined the game
+[15Dec2024 08:13:43.396] [Server thread/INFO] [Jade/]: Syncing config to Theshuky (93e57406-5d19-3009-8a25-94573500d735)
+[15Dec2024 08:18:56.103] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5cce0a3e[id=<null>,name=Barbatos22,properties={},legacy=false] (/127.100.155.119:41763) lost connection: Disconnected
+[15Dec2024 08:19:00.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:38819] logged in with entity id 68471 at (2029.778377305991, 69.0, 1591.0995959468205)
+[15Dec2024 08:19:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 08:19:00.954] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 08:21:51.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris has made the advancement [Diamonds!]
+[15Dec2024 08:25:13.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 08:25:13.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 08:25:13.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 08:25:19.203] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:46453] logged in with entity id 76024 at (2052.601590692348, 120.62038789619011, 1578.8170233333085)
+[15Dec2024 08:25:19.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 08:25:19.321] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 08:25:25.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 08:25:25.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 08:25:25.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 08:25:29.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:39799] logged in with entity id 76336 at (2054.7898402296482, 76.46099086339817, 1583.1794608866574)
+[15Dec2024 08:25:29.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 08:25:29.855] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 08:25:35.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 08:25:35.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 08:25:35.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 08:25:40.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:40913] logged in with entity id 76514 at (2034.456026948016, 110.84855693354254, 1641.577980252347)
+[15Dec2024 08:25:40.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 08:25:40.737] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 08:25:45.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 was kicked for floating too long!
+[15Dec2024 08:25:45.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Barbatos22 lost connection: Flying is not enabled on this server
+[15Dec2024 08:25:45.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 left the game
+[15Dec2024 08:25:49.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Barbatos22[/127.100.155.119:51513] logged in with entity id 76729 at (2027.6938008617049, 128.1408548414004, 1638.8750396592486)
+[15Dec2024 08:25:49.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 joined the game
+[15Dec2024 08:25:49.985] [Server thread/INFO] [Jade/]: Syncing config to Barbatos22 (8b26ab69-47c8-3e3b-9539-103f28b9b076)
+[15Dec2024 08:25:58.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was incinerated by Fire Dragon
+[15Dec2024 08:26:05.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Talgat'/77072, l='ServerLevel[ApocalipsisYegre]', x=2421.29, y=62.47, z=1692.27] died, message: 'Talgat was turned into KFC by Fire Dragon'
+[15Dec2024 08:26:05.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Talgat'/77072, l='ServerLevel[ApocalipsisYegre]', x=2421.29, y=62.47, z=1692.27] died: Talgat was incinerated by Fire Dragon
+[15Dec2024 08:26:47.847] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 08:26:47.848] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 08:26:47.848] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 08:26:47.848] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 08:26:47.855] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 08:26:47.855] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 08:26:47.855] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 08:26:47.855] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 08:26:53.992] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 08:27:25.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 0.34977254600244123
+[15Dec2024 08:27:25.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 0.7190938792118686
+[15Dec2024 08:27:25.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 0.9973805039521721
+[15Dec2024 08:27:25.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 1.2889122432457043
+[15Dec2024 08:27:27.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 0.2913301594726363
+[15Dec2024 08:27:27.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 0.5259945732254891
+[15Dec2024 08:27:27.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 0.7762622696850485
+[15Dec2024 08:27:27.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 0.9187439833299322
+[15Dec2024 08:27:27.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 1.1710519889493298
+[15Dec2024 08:37:47.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Barbatos22 has made the advancement [Cool, Cool Cave]
+[15Dec2024 08:41:57.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur blew up
+[15Dec2024 08:45:13.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zarina'/93142, l='ServerLevel[ApocalipsisYegre]', x=2440.59, y=97.48, z=1721.23] died, message: 'Zarina was slain by Fire Dragon'
+[15Dec2024 08:45:13.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zarina'/93142, l='ServerLevel[ApocalipsisYegre]', x=2440.59, y=97.48, z=1721.23] died: Zarina was slain by Fire Dragon
+[15Dec2024 08:45:21.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tatjana'/93234, l='ServerLevel[ApocalipsisYegre]', x=2453.93, y=68.00, z=1718.00] died, message: 'Tatjana hit the ground too hard whilst trying to escape Fire Dragon'
+[15Dec2024 08:45:21.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tatjana'/93234, l='ServerLevel[ApocalipsisYegre]', x=2453.93, y=68.00, z=1718.00] died: Tatjana was doomed to fall by Fire Dragon
+[15Dec2024 08:45:56.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 0.3361386630749621
+[15Dec2024 08:45:56.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 0.6585326769279618
+[15Dec2024 08:45:56.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 0.9643482139968
+[15Dec2024 08:45:56.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 1.0740242266899713
+[15Dec2024 08:45:56.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of IglesiasCris) moved wrongly! 1.2392659685772287
+[15Dec2024 08:46:00.985] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Utkur'/94232, l='ServerLevel[ApocalipsisYegre]', x=2454.85, y=83.54, z=1698.35] died, message: 'Utkur walked into fire whilst fighting Fire Dragon'
+[15Dec2024 08:46:00.986] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Utkur'/94232, l='ServerLevel[ApocalipsisYegre]', x=2454.85, y=83.54, z=1698.35] died: Utkur walked into fire whilst fighting Fire Dragon
+[15Dec2024 08:46:13.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris blew up
+[15Dec2024 08:46:17.949] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kamila'/93131, l='ServerLevel[ApocalipsisYegre]', x=2450.25, y=82.54, z=1697.46] died, message: 'Kamila suffocated in a wall whilst fighting Fire Dragon'
+[15Dec2024 08:46:17.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kamila'/93131, l='ServerLevel[ApocalipsisYegre]', x=2450.25, y=82.54, z=1697.46] died: Kamila suffocated in a wall whilst fighting Fire Dragon
+[15Dec2024 08:46:24.601] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Yury'/93136, l='ServerLevel[ApocalipsisYegre]', x=2449.47, y=84.00, z=1710.53] died, message: 'Yury was burnt to a crisp whilst fighting Fire Dragon'
+[15Dec2024 08:46:24.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Yury'/93136, l='ServerLevel[ApocalipsisYegre]', x=2449.47, y=84.00, z=1710.53] died: Yury was burnt to a crisp whilst fighting Fire Dragon
+[15Dec2024 08:46:30.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported IglesiasCris to nuitfleur]
+[15Dec2024 08:46:32.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ramazan'/94358, l='ServerLevel[ApocalipsisYegre]', x=2457.28, y=84.02, z=1711.18] died, message: 'Ramazan was slain by Fire Dragon'
+[15Dec2024 08:46:32.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ramazan'/94358, l='ServerLevel[ApocalipsisYegre]', x=2457.28, y=84.02, z=1711.18] died: Ramazan was slain by Fire Dragon
+[15Dec2024 08:46:50.123] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anastasija'/94261, l='ServerLevel[ApocalipsisYegre]', x=2459.54, y=82.00, z=1699.53] died, message: 'Anastasija walked into fire whilst fighting Fire Dragon'
+[15Dec2024 08:46:50.124] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anastasija'/94261, l='ServerLevel[ApocalipsisYegre]', x=2459.54, y=82.00, z=1699.53] died: Anastasija walked into fire whilst fighting Fire Dragon
+[15Dec2024 08:47:04.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nuitfleur lost connection: Disconnected
+[15Dec2024 08:47:04.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur left the game
+[15Dec2024 08:47:15.514] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sofya'/94414, l='ServerLevel[ApocalipsisYegre]', x=2480.88, y=113.00, z=1721.55] died, message: 'Sofya was turned into KFC by Fire Dragon'
+[15Dec2024 08:47:15.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sofya'/94414, l='ServerLevel[ApocalipsisYegre]', x=2480.88, y=113.00, z=1721.55] died: Sofya was turned into KFC by Fire Dragon
+[15Dec2024 08:47:21.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nuitfleur[/127.182.2.2:51519] logged in with entity id 96808 at (2339.300000011921, 62.0, 1672.3957480839358)
+[15Dec2024 08:47:21.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur joined the game
+[15Dec2024 08:47:21.169] [Server thread/INFO] [Jade/]: Syncing config to nuitfleur (2d663374-634e-323b-b128-59b7e9ba0518)
+[15Dec2024 08:47:33.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Granny Smith?]
