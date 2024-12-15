@@ -3688,27 +3688,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/dead_button": {
-    "criteria": {
-      "has_planks": "2024-12-13 17:51:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/dead_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-13 17:51:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2024-12-13 17:32:17 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/dead_fence": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_planks": "2024-12-13 17:51:05 +0000"
+      "has_pumpkin": "2024-12-13 17:32:17 +0000"
     },
     "done": true
   },
@@ -3724,18 +3712,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/dead_sign": {
-    "criteria": {
-      "has_dead_planks": "2024-12-13 17:51:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/dead_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-13 17:51:05 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2024-12-13 17:47:20 +0000"
@@ -3748,39 +3724,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2024-12-13 17:32:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-13 17:50:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2024-12-13 17:47:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2024-12-13 17:54:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-12-13 17:50:48 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/dead_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-13 17:51:05 +0000"
     },
     "done": true
   },
@@ -3793,6 +3739,54 @@
   "biomesoplenty:recipes/building_blocks/dead_wood": {
     "criteria": {
       "has_log": "2024-12-13 17:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 17:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 17:50:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_sign": {
+    "criteria": {
+      "has_dead_planks": "2024-12-13 17:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:51:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:51:05 +0000"
     },
     "done": true
   },
@@ -3811,6 +3805,12 @@
   "biomesoplenty:recipes/redstone/dead_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-13 17:51:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-13 17:54:00 +0000"
     },
     "done": true
   },
