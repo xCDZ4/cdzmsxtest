@@ -1006,6 +1006,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-09 22:53:06 +0000",
+      "minecraft:vindicator": "2024-12-15 06:36:05 +0000",
       "minecraft:spider": "2024-12-10 01:58:42 +0000",
       "minecraft:creeper": "2024-12-12 23:11:00 +0000",
       "minecraft:phantom": "2024-12-14 08:22:32 +0000",
@@ -1277,6 +1278,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-10 03:45:37 +0000",
+      "honey_bottle": "2024-12-15 06:33:50 +0000",
       "sweet_berries": "2024-12-13 16:31:57 +0000",
       "cooked_beef": "2024-12-10 01:30:35 +0000",
       "baked_potato": "2024-12-12 21:34:02 +0000",
@@ -2404,7 +2406,8 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
-      "bamboo_raft_1": "2024-12-10 03:45:50 +0000"
+      "bamboo_raft_1": "2024-12-10 03:45:50 +0000",
+      "birch_beehive_1": "2024-12-15 06:32:29 +0000"
     },
     "done": false
   },
@@ -5813,6 +5816,72 @@
   "refurbished_furniture:recipes/misc/constructing/pink_stool": {
     "criteria": {
       "has_planks": "2024-12-15 06:06:00 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/sand_layer": {
+    "criteria": {
+      "has_sand": "2024-12-15 06:38:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2024-12-15 06:40:48 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-15 06:34:47 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-15 06:34:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2024-12-15 06:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-15 06:40:48 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-15 06:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-15 06:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-15 06:32:46 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_material": "2024-12-15 06:34:47 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-15 06:34:47 +0000"
     },
     "done": true
   },

@@ -512,3 +512,65 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Dec2024 06:35:16.726] [Server thread/INFO] [Jade/]: Syncing config to nuitfleur (2d663374-634e-323b-b128-59b7e9ba0518)
 [15Dec2024 06:35:44.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur has completed the challenge [Hunted]
 [15Dec2024 06:35:51.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis was slain by Vindicator
+[15Dec2024 06:36:27.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was shot by Pillager
+[15Dec2024 06:36:37.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nuitfleur lost connection: Disconnected
+[15Dec2024 06:36:37.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur left the game
+[15Dec2024 06:40:43.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis has made the advancement [Granny Smith?]
+[15Dec2024 06:40:43.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis has made the advancement [Johnny Appleseed]
+[15Dec2024 06:41:03.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris has made the advancement [Take Aim]
+[15Dec2024 06:41:30.911] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e7e96c5[id=<null>,name=Theshuky,properties={},legacy=false] (/127.139.61.127:52435) lost connection: Disconnected
+[15Dec2024 06:44:19.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nuitfleur[/127.182.2.2:46347] logged in with entity id 7606 at (2022.4202224357489, 69.0, 1599.6921225493345)
+[15Dec2024 06:44:19.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur joined the game
+[15Dec2024 06:44:19.514] [Server thread/INFO] [Jade/]: Syncing config to nuitfleur (2d663374-634e-323b-b128-59b7e9ba0518)
+[15Dec2024 06:45:05.551] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[15Dec2024 06:45:05.553] [Netty Epoll Server IO #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2ff3f41f[id=<null>,name=Theshuky,properties={},legacy=false] (/127.139.61.127:36173): Unexpected custom data from client
+[15Dec2024 06:45:05.569] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ff3f41f[id=<null>,name=Theshuky,properties={},legacy=false] (/127.139.61.127:36173) lost connection: Unexpected custom data from client
+[15Dec2024 06:45:20.983] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[15Dec2024 06:45:20.984] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@b375600[id=<null>,name=Theshuky,properties={},legacy=false] (/127.139.61.127:51165): Unexpected custom data from client
+[15Dec2024 06:45:21.017] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b375600[id=<null>,name=Theshuky,properties={},legacy=false] (/127.139.61.127:51165) lost connection: Unexpected custom data from client
+[15Dec2024 06:47:01.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur was shot by IglesiasCris
+[15Dec2024 06:47:12.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported nuitfleur to IglesiasCris]
+[15Dec2024 06:47:52.848] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[15Dec2024 06:47:52.849] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4d8b9dfb[id=<null>,name=Theshuky,properties={},legacy=false] (/127.139.61.127:54793): Unexpected custom data from client
+[15Dec2024 06:47:52.861] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d8b9dfb[id=<null>,name=Theshuky,properties={},legacy=false] (/127.139.61.127:54793) lost connection: Unexpected custom data from client
+[15Dec2024 06:51:31.613] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@599bac3c[id=<null>,name=Theshuky,properties={},legacy=false] (/127.139.61.127:60325) lost connection: Disconnected
+[15Dec2024 06:54:32.513] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a1b5667[id=<null>,name=Theshuky,properties={},legacy=false] (/127.139.61.127:56541) lost connection: Disconnected
+[15Dec2024 07:02:05.118] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@162e5304[id=<null>,name=Theshuky,properties={},legacy=false] (/127.139.61.127:34053) lost connection: Disconnected
+[15Dec2024 07:06:39.227] [ForkJoinPool.commonPool-worker-10/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[15Dec2024 07:06:39.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Theshuky[/127.139.61.127:49095] logged in with entity id 17259 at (3.5, 125.0, -8.5)
+[15Dec2024 07:06:39.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky joined the game
+[15Dec2024 07:06:39.347] [Server thread/INFO] [Jade/]: Syncing config to Theshuky (93e57406-5d19-3009-8a25-94573500d735)
+[15Dec2024 07:06:39.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Ice and Fire]
+[15Dec2024 07:06:39.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Terramity]
+[15Dec2024 07:08:30.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6315ms or 126 ticks behind
+[15Dec2024 07:08:30.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx_Hellraiser moved too quickly! 2.4098117781113615,2.0,-9.53327081571615
+[15Dec2024 07:08:30.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IglesiasCris moved too quickly! -7.33884560055867,-2.0,7.059463170613299
+[15Dec2024 07:08:33.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx_Hellraiser moved too quickly! 4.755148062194621,0.0,-8.96578385860812
+[15Dec2024 07:08:41.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Alex's Mobs]
+[15Dec2024 07:08:48.938] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:08:48.940] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:08:48.941] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:08:48.941] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:08:49.066] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:08:49.071] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:08:49.073] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:08:49.074] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:08:49.075] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:09:36.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Theshuky> hagan tp
+[15Dec2024 07:09:38.103] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:09:38.116] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:09:38.119] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:09:38.121] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:09:38.124] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:09:45.634] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:09:45.636] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:09:45.638] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:09:45.661] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:09:45.662] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:09:45.665] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[15Dec2024 07:09:46.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported Theshuky to Xx_Hellraiser]
+[15Dec2024 07:10:16.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IglesiasCris lost connection: Disconnected
+[15Dec2024 07:10:16.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris left the game
+[15Dec2024 07:10:22.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IglesiasCris[/127.227.44.247:42217] logged in with entity id 19612 at (2077.2041947106613, 75.0, 1580.3569141908085)
+[15Dec2024 07:10:22.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris joined the game
+[15Dec2024 07:10:23.046] [Server thread/INFO] [Jade/]: Syncing config to IglesiasCris (fd56a949-5f52-3022-b75e-f6fda6649ce1)
