@@ -959,3 +959,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Dec2024 08:47:21.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur joined the game
 [15Dec2024 08:47:21.169] [Server thread/INFO] [Jade/]: Syncing config to nuitfleur (2d663374-634e-323b-b128-59b7e9ba0518)
 [15Dec2024 08:47:33.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Granny Smith?]
+[15Dec2024 08:48:02.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris blew up
+[15Dec2024 08:48:04.473] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sergei'/93134, l='ServerLevel[ApocalipsisYegre]', x=2445.36, y=89.90, z=1706.39] died, message: 'Sergei burned to death'
+[15Dec2024 08:48:04.475] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sergei'/93134, l='ServerLevel[ApocalipsisYegre]', x=2445.36, y=89.90, z=1706.39] died: Sergei burned to death
+[15Dec2024 08:48:18.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported IglesiasCris to Barbatos22]
+[15Dec2024 08:48:20.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bakhtiyar'/94413, l='ServerLevel[ApocalipsisYegre]', x=2489.11, y=118.00, z=1720.33] died, message: 'Bakhtiyar went up in flames'
+[15Dec2024 08:48:20.553] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Bakhtiyar'/94413, l='ServerLevel[ApocalipsisYegre]', x=2489.11, y=118.00, z=1720.33] died: Bakhtiyar went up in flames
+[15Dec2024 08:48:26.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Assel'/94415, l='ServerLevel[ApocalipsisYegre]', x=2488.35, y=115.58, z=1723.29] died, message: 'Assel went up in flames'
+[15Dec2024 08:48:26.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Assel'/94415, l='ServerLevel[ApocalipsisYegre]', x=2488.35, y=115.58, z=1723.29] died: Assel went up in flames
+[15Dec2024 08:48:31.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kuanysh'/94416, l='ServerLevel[ApocalipsisYegre]', x=2461.64, y=90.00, z=1704.65] died, message: 'Kuanysh went up in flames'
+[15Dec2024 08:48:31.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kuanysh'/94416, l='ServerLevel[ApocalipsisYegre]', x=2461.64, y=90.00, z=1704.65] died: Kuanysh went up in flames
+[15Dec2024 08:52:12.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur has made the advancement [A Seedy Place]
+[15Dec2024 09:00:22.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nuitfleur lost connection: Timed out
+[15Dec2024 09:00:22.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur left the game
+[15Dec2024 09:02:22.983] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player luis just tried to change non-editable sign
+[15Dec2024 09:05:34.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Hellraiser has made the advancement [Enchanter]
+[15Dec2024 09:05:42.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris has made the advancement [Herc was on a Roll!]
+[15Dec2024 09:10:01.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported Xx_Hellraiser to luis]
+[15Dec2024 09:10:39.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Acquire Hardware]
+[15Dec2024 09:11:16.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was blown up by Camo Creeper
+[15Dec2024 09:11:28.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported IglesiasCris to luis]
+[15Dec2024 09:13:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was slain by Vex
+[15Dec2024 09:13:55.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported IglesiasCris to Xx_Hellraiser]
+[15Dec2024 09:14:59.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported Xx_Hellraiser to Barbatos22]
+[15Dec2024 09:15:11.484] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[15Dec2024 09:15:11.488] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[15Dec2024 09:15:11.488] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[15Dec2024 09:15:11.489] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[15Dec2024 09:15:11.489] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[15Dec2024 09:15:16.825] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[15Dec2024 09:15:16.826] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[15Dec2024 09:15:16.827] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[15Dec2024 09:15:16.828] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[15Dec2024 09:15:25.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported IglesiasCris to luis]
+[15Dec2024 09:17:25.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> qlq
+[15Dec2024 09:18:07.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was slain by Grizzly Bear

@@ -16845,3 +16845,87 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Dec2024 08:47:21.169] [Server thread/INFO] [Jade/]: Syncing config to nuitfleur (2d663374-634e-323b-b128-59b7e9ba0518)
 [15Dec2024 08:47:22.390] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 2d663374-634e-323b-b128-59b7e9ba0518 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
 [15Dec2024 08:47:33.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Granny Smith?]
+[15Dec2024 08:48:02.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris blew up
+[15Dec2024 08:48:04.473] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sergei'/93134, l='ServerLevel[ApocalipsisYegre]', x=2445.36, y=89.90, z=1706.39] died, message: 'Sergei burned to death'
+[15Dec2024 08:48:04.475] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sergei'/93134, l='ServerLevel[ApocalipsisYegre]', x=2445.36, y=89.90, z=1706.39] died: Sergei burned to death
+[15Dec2024 08:48:05.287] [Server thread/DEBUG] [twilightforest/]: Player IglesiasCris (fd56a949-5f52-3022-b75e-f6fda6649ce1) respawned and received items held in storage
+[15Dec2024 08:48:18.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Barbatos22: Teleported IglesiasCris to Barbatos22]
+[15Dec2024 08:48:20.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bakhtiyar'/94413, l='ServerLevel[ApocalipsisYegre]', x=2489.11, y=118.00, z=1720.33] died, message: 'Bakhtiyar went up in flames'
+[15Dec2024 08:48:20.553] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Bakhtiyar'/94413, l='ServerLevel[ApocalipsisYegre]', x=2489.11, y=118.00, z=1720.33] died: Bakhtiyar went up in flames
+[15Dec2024 08:48:26.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Assel'/94415, l='ServerLevel[ApocalipsisYegre]', x=2488.35, y=115.58, z=1723.29] died, message: 'Assel went up in flames'
+[15Dec2024 08:48:26.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Assel'/94415, l='ServerLevel[ApocalipsisYegre]', x=2488.35, y=115.58, z=1723.29] died: Assel went up in flames
+[15Dec2024 08:48:31.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kuanysh'/94416, l='ServerLevel[ApocalipsisYegre]', x=2461.64, y=90.00, z=1704.65] died, message: 'Kuanysh went up in flames'
+[15Dec2024 08:48:31.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kuanysh'/94416, l='ServerLevel[ApocalipsisYegre]', x=2461.64, y=90.00, z=1704.65] died: Kuanysh went up in flames
+[15Dec2024 08:49:47.950] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[15Dec2024 08:51:40.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[15Dec2024 08:51:40.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[15Dec2024 08:52:12.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur has made the advancement [A Seedy Place]
+[15Dec2024 08:56:17.830] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2087, y=69, z=1598}) doesn't have enough leaves around top most log
+[15Dec2024 08:56:40.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[15Dec2024 08:56:40.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[15Dec2024 08:56:57.950] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[15Dec2024 08:56:59.970] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[15Dec2024 09:00:22.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nuitfleur lost connection: Timed out
+[15Dec2024 09:00:22.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nuitfleur left the game
+[15Dec2024 09:00:30.972] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[15Dec2024 09:01:40.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[15Dec2024 09:01:40.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[15Dec2024 09:02:22.983] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player luis just tried to change non-editable sign
+[15Dec2024 09:03:31.988] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[15Dec2024 09:05:34.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Hellraiser has made the advancement [Enchanter]
+[15Dec2024 09:05:40.977] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[15Dec2024 09:05:42.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris has made the advancement [Herc was on a Roll!]
+[15Dec2024 09:06:40.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[15Dec2024 09:06:40.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[15Dec2024 09:07:07.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[15Dec2024 09:07:12.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_cave
+[15Dec2024 09:07:19.201] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=2862, y=96, z=283}) doesn't have enough leaves around top most log
+[15Dec2024 09:09:29.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[15Dec2024 09:09:29.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[15Dec2024 09:10:01.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported Xx_Hellraiser to luis]
+[15Dec2024 09:10:39.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Theshuky has made the advancement [Acquire Hardware]
+[15Dec2024 09:11:15.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[15Dec2024 09:11:15.316] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[15Dec2024 09:11:15.319] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[15Dec2024 09:11:15.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_0
+[15Dec2024 09:11:15.331] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[15Dec2024 09:11:15.392] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[15Dec2024 09:11:15.412] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[15Dec2024 09:11:16.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was blown up by Camo Creeper
+[15Dec2024 09:11:19.494] [Server thread/DEBUG] [twilightforest/]: Player IglesiasCris (fd56a949-5f52-3022-b75e-f6fda6649ce1) respawned and received items held in storage
+[15Dec2024 09:11:28.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported IglesiasCris to luis]
+[15Dec2024 09:11:40.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[15Dec2024 09:11:40.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[15Dec2024 09:13:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was slain by Vex
+[15Dec2024 09:13:49.327] [Server thread/DEBUG] [twilightforest/]: Player IglesiasCris (fd56a949-5f52-3022-b75e-f6fda6649ce1) respawned and received items held in storage
+[15Dec2024 09:13:55.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported IglesiasCris to Xx_Hellraiser]
+[15Dec2024 09:14:56.883] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeonsweaponry:dungeon
+[15Dec2024 09:14:59.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported Xx_Hellraiser to Barbatos22]
+[15Dec2024 09:14:59.701] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:village/pumpkin_patch/town_centers/pumpkin_patch_meeting_point_2
+[15Dec2024 09:14:59.718] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[15Dec2024 09:14:59.731] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[15Dec2024 09:15:05.562] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_6
+[15Dec2024 09:15:11.098] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[15Dec2024 09:15:11.484] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[15Dec2024 09:15:11.488] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[15Dec2024 09:15:11.488] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[15Dec2024 09:15:11.489] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[15Dec2024 09:15:11.489] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[15Dec2024 09:15:16.825] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[15Dec2024 09:15:16.826] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[15Dec2024 09:15:16.827] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[15Dec2024 09:15:16.828] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[15Dec2024 09:15:17.846] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[15Dec2024 09:15:19.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[15Dec2024 09:15:19.465] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[15Dec2024 09:15:25.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Hellraiser: Teleported IglesiasCris to luis]
+[15Dec2024 09:15:30.970] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[15Dec2024 09:15:33.345] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_5
+[15Dec2024 09:15:43.537] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[15Dec2024 09:16:40.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[15Dec2024 09:16:40.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[15Dec2024 09:16:58.950] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[15Dec2024 09:17:25.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Barbatos22> qlq
+[15Dec2024 09:17:49.504] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 8b26ab69-47c8-3e3b-9539-103f28b9b076 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=96506a5e-a69c-4a18-9add-d43dfd272fa6, length=46, extra={valid=true}}, startingAt=0, player=null}
+[15Dec2024 09:17:57.886] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: 8b26ab69-47c8-3e3b-9539-103f28b9b076 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=58171ff8-16f8-4def-ac13-99fdd4d44544, length=61, extra={valid=true}}, startingAt=0, player=null}
+[15Dec2024 09:18:07.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IglesiasCris was slain by Grizzly Bear

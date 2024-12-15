@@ -1104,6 +1104,7 @@
       "coniferous_forest": "2024-12-11 23:28:09 +0000",
       "forested_field": "2024-12-11 22:10:02 +0000",
       "dune_beach": "2024-12-12 00:57:04 +0000",
+      "dead_forest": "2024-12-15 09:10:01 +0000",
       "rocky_rainforest": "2024-12-10 03:15:44 +0000",
       "pasture": "2024-12-12 00:56:46 +0000",
       "volcanic_plains": "2024-12-12 04:41:38 +0000",
@@ -1498,7 +1499,8 @@
       "melon_slice": "2024-12-10 01:57:55 +0000",
       "cooked_rabbit": "2024-12-13 16:44:03 +0000",
       "cooked_chicken": "2024-12-10 03:30:58 +0000",
-      "cooked_salmon": "2024-12-11 03:43:36 +0000"
+      "cooked_salmon": "2024-12-11 03:43:36 +0000",
+      "carrot": "2024-12-15 09:01:21 +0000"
     },
     "done": false
   },
@@ -5600,6 +5602,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-15 09:01:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-15 07:39:55 +0000"
@@ -5726,9 +5734,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-15 08:59:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-15 07:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-15 08:59:41 +0000"
     },
     "done": true
   },
@@ -6038,6 +6058,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-15 09:05:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-15 07:39:55 +0000"
@@ -6071,6 +6097,12 @@
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_leather": "2024-12-15 06:29:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-15 09:01:31 +0000"
     },
     "done": true
   },
@@ -6125,6 +6157,12 @@
   "biomeswevegone:recipes/decorations/skyris_crafting_table": {
     "criteria": {
       "has_skyris_planks": "2024-12-15 07:01:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-15 08:59:17 +0000"
     },
     "done": true
   },
@@ -6275,6 +6313,12 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-15 06:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-15 08:59:41 +0000"
     },
     "done": true
   },
