@@ -17263,3 +17263,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Dec2024 11:26:34.400] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
 [15Dec2024 11:26:45.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
 [15Dec2024 11:26:45.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[15Dec2024 11:29:59.400] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[15Dec2024 11:31:20.399] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[15Dec2024 11:31:45.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[15Dec2024 11:31:45.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
+[15Dec2024 11:35:58.400] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[15Dec2024 11:36:30.400] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[15Dec2024 11:36:45.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ApocalipsisYegre
+[15Dec2024 11:36:45.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ApocalipsisYegre
